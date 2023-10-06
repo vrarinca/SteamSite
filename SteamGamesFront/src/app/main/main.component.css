@@ -1,0 +1,39 @@
+.center-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start; /* Move items slightly higher */
+  height: 100vh; /* Make the container cover the entire viewport height */
+}
+
+/* Style the "Choose your option" text and options */
+.choose-option {
+  text-align: center;
+  margin-bottom: 30px; 
+}
+
+.choose-option p {
+  font-size: 24px;
+  margin-bottom: 10px; 
+}
+
+/* Style the Login and Register button */
+.options {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.option {
+  font-size: 20px;
+  text-decoration: none;
+  padding: 10px 20px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  margin: 0 10px; /* Add space between options */
+  transition: background-color 0.3s;
+}
+
+.option:hover {
+  background-color: #ddd;
+}

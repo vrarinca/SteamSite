@@ -1,0 +1,21 @@
+<div class="center-button">
+  <a nz-dropdown nzTrigger="click" [nzDropdownMenu]="menu" class="steam-button"> Steam Games 
+    <span nz-icon nzType="down"></span>
+  </a>
+  
+  <nz-dropdown-menu #menu="nzDropdownMenu">
+    <ul nz-menu class="scrollable-container">
+      <li *ngFor="let game of games">
+        <ul nz-submenu [nzTitle]="game.name">
+          <li nz-menu-item>Type: {{ game.details.type }}</li>
+          <li nz-menu-item>Required Age: {{ game.details.required_age }}</li>
+          <li nz-menu-item>Is Free?: {{ game.details.is_free }}</li>
+          <li nz-menu-item>DLC: {{ game.details.dlc }}</li>
+          <li nz-menu-item>Short Description: {{ game.details?.short_description }}</li>
+          <li nz-menu-item>Categories: {{ game.details.categories }}</li>
+          <li nz-menu-item>Genres: {{ game.details.genres }}</li>
+        </ul>
+      </li>
+    </ul>
+  </nz-dropdown-menu>
+</div>

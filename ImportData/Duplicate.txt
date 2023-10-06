@@ -1,0 +1,640 @@
+Appid: 2190410
+Type: game
+Name: Beach Runner
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Steam Achievements
+Genres: Indie
+
+
+Appid: 2190420
+Type: game
+Name: ALLON3
+Required Age: 0
+Is Free: True
+Dlc: Not provided
+Categories: Single-player
+Genres: Action, Indie
+
+
+Appid: 2190440
+Type: dlc
+Name: Escape Memoirs: Mini Stories - Supporter Pack
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Multi-player, Co-op, Online Co-op, Downloadable Content, Steam Achievements, Steam Trading Cards
+Genres: Adventure, Casual, Indie
+
+
+Appid: 2190460
+Type: game
+Name: Highrollers
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Steam Achievements, Full controller support, Captions available
+Genres: Action, Adventure, Indie, RPG
+
+
+Appid: 2190470
+Type: game
+Name: Russian Train Trip 2
+Required Age: 0
+Is Free: False
+Dlc: 2272350, 2402040, 2402150, 2402151, 2402152
+Categories: Single-player
+Genres: Adventure, Indie, Simulation
+
+
+Appid: 2190500
+Type: game
+Name: VR Painting: Time
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Tracked Controller Support, VR Only
+Genres: Adventure, Casual, Indie
+
+
+Appid: 2190550
+Type: dlc
+Name: Batora: Lost Haven - Digital Artbook
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Downloadable Content, Steam Achievements, Full controller support, Steam Trading Cards, Steam Cloud
+Genres: Action, RPG
+
+
+Appid: 2190560
+Type: music
+Name: Batora: Lost Haven - Original Soundtrack
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Not provided
+Genres: Not provided
+
+
+Appid: 2190570
+Type: game
+Name: Corsair`s Madness Prologue: Jungle`s Island
+Required Age: 0
+Is Free: True
+Dlc: Not provided
+Categories: Single-player, Full controller support
+Genres: Action, Adventure, Indie
+
+
+Appid: 2190590
+Type: game
+Name: Valkie 64
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Full controller support
+Genres: Action, Adventure
+
+
+Appid: 2190600
+Type: dlc
+Name: GameGuru MAX Halloween Mini-Kit
+Required Age: 0
+Is Free: True
+Dlc: Not provided
+Categories: Downloadable Content, Includes level editor
+Genres: Animation & Modeling, Design & Illustration, Education, Software Training, Utilities, Game Development
+
+
+Appid: 2190630
+Type: game
+Name: Mirror Amusement Park
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player
+Genres: Adventure, Indie
+
+
+Appid: 2190640
+Type: game
+Name: Cosmic Holidays
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player
+Genres: Adventure, Indie
+
+
+Appid: 2190650
+Type: game
+Name: Mion and the Cursed Killer Hamster
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Steam Achievements
+Genres: Casual
+
+
+Appid: 2190660
+Type: music
+Name: The Unliving Soundtrack
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Additional High-Quality Audio
+Genres: Not provided
+
+
+Appid: 2190670
+Type: dlc
+Name: The Unliving - Digital Artbook
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Downloadable Content, Steam Achievements
+Genres: Action, Adventure, Indie, RPG
+
+
+Appid: 2190680
+Type: game
+Name: Goofy Dee
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Steam Achievements
+Genres: Adventure, Casual, Indie
+
+
+Appid: 2190690
+Type: game
+Name: Sex Adventures - Office Affairs
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player
+Genres: Casual, Indie
+
+
+Appid: 2190710
+Type: dlc
+Name: Cardfight!! Vanguard DD: Additional Deck [D-TD01]: Urara Haneyama -Bandmaster of Blossoming Bonds-
+Required Age: 0
+Is Free: True
+Dlc: Not provided
+Categories: Single-player, Multi-player, PvP, Online PvP, Downloadable Content, Steam Achievements, Partial Controller Support, Steam Cloud
+Genres: Strategy
+
+
+Appid: 2190711
+Type: dlc
+Name: Cardfight!! Vanguard DD: Additional Deck [D-TD02]: Michiru Hazama -Demonic Jewel Dragon of the Four Flames-
+Required Age: 0
+Is Free: True
+Dlc: Not provided
+Categories: Single-player, Multi-player, PvP, Online PvP, Downloadable Content, Steam Achievements, Partial Controller Support, Steam Cloud
+Genres: Strategy
+
+
+Appid: 2190712
+Type: dlc
+Name: Cardfight!! Vanguard DD: Additional Deck [D-TD03]: Raika Koshiba -Skyfall Executors-
+Required Age: 0
+Is Free: True
+Dlc: Not provided
+Categories: Single-player, Multi-player, PvP, Online PvP, Downloadable Content, Steam Achievements, Partial Controller Support, Steam Cloud
+Genres: Strategy
+
+
+Appid: 2190713
+Type: dlc
+Name: Cardfight!! Vanguard DD: Additional Card Set Vol.1 [D-BT06]: Blazing Dragon Reborn
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Multi-player, PvP, Online PvP, Downloadable Content, Steam Achievements, Partial Controller Support, Steam Cloud
+Genres: Strategy
+
+
+Appid: 2190714
+Type: dlc
+Name: Cardfight!! Vanguard DD: Rare Card Set 10 [D-BT06]: Blazing Dragon Reborn
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Multi-player, PvP, Online PvP, Downloadable Content, Steam Achievements, Partial Controller Support, Steam Cloud
+Genres: Strategy
+
+
+Appid: 2190715
+Type: dlc
+Name: Cardfight!! Vanguard DD: Character Set 04: Urara Haneyama
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Multi-player, PvP, Online PvP, Downloadable Content, Steam Achievements, Partial Controller Support, Steam Cloud
+Genres: Strategy
+
+
+Appid: 2190716
+Type: dlc
+Name: Cardfight!! Vanguard DD: Character Set 05: Raika Koshiba
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Multi-player, PvP, Online PvP, Downloadable Content, Steam Achievements, Partial Controller Support, Steam Cloud
+Genres: Strategy
+
+
+Appid: 2190717
+Type: dlc
+Name: Cardfight!! Vanguard DD: Additional Card Set Vol.2 [D-LBT03]:Lyrical Monasterio ~Summertime Memories!~
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Multi-player, PvP, Online PvP, Downloadable Content, Steam Achievements, Partial Controller Support, Steam Cloud
+Genres: Strategy
+
+
+Appid: 2190718
+Type: dlc
+Name: Cardfight!! Vanguard DD: Rare Card Set 11 [D-LBT03]:Lyrical Monasterio ~Summertime Memories!~
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Multi-player, PvP, Online PvP, Downloadable Content, Steam Achievements, Partial Controller Support, Steam Cloud
+Genres: Strategy
+
+
+Appid: 2190720
+Type: dlc
+Name: Cardfight!! Vanguard DD: Additional Card Set Vol.3 [D-BT07]: Raging Flames Against Emerald Storm
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Multi-player, PvP, Online PvP, Downloadable Content, Steam Achievements, Partial Controller Support, Steam Cloud
+Genres: Strategy
+
+
+Appid: 2190721
+Type: dlc
+Name: Cardfight!! Vanguard DD: Additional Card Set Vol.4 [D-SS03]: Stride Deckset -Chronojet-
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Multi-player, PvP, Online PvP, Downloadable Content, Steam Achievements, Partial Controller Support, Steam Cloud
+Genres: Strategy
+
+
+Appid: 2190722
+Type: dlc
+Name: Cardfight!! Vanguard DD: Rare Card Set 12 [D-BT07]: Raging Flames Against Emerald Storm
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Multi-player, PvP, Online PvP, Downloadable Content, Steam Achievements, Partial Controller Support, Steam Cloud
+Genres: Strategy
+
+
+Appid: 2190723
+Type: dlc
+Name: Cardfight!! Vanguard DD: Character Set 07: CHRONO SHINDOU
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Multi-player, PvP, Online PvP, Downloadable Content, Steam Achievements, Partial Controller Support, Steam Cloud
+Genres: Strategy
+
+
+Appid: 2190724
+Type: dlc
+Name: Cardfight!! Vanguard DD: Character Set 06: TAIZO KIYOKURA
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Multi-player, PvP, Online PvP, Downloadable Content, Steam Achievements, Partial Controller Support, Steam Cloud
+Genres: Strategy
+
+
+Appid: 2190740
+Type: game
+Name: Gates of Zendocon
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Partial Controller Support, Steam Cloud
+Genres: Action
+
+
+Appid: 2190760
+Type: game
+Name: Sex Adventures - Vampire Express Train
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player
+Genres: Casual, Indie
+
+
+Appid: 2189970
+Type: game
+Name: Exhibitors
+Required Age: 0
+Is Free: True
+Dlc: Not provided
+Categories: Single-player, Multi-player, Co-op, Online Co-op, Cross-Platform Multiplayer, Steam Achievements, Steam Cloud
+Genres: Action, Adventure, Casual, Free to Play, Indie, Simulation, Strategy
+
+
+Appid: 2189980
+Type: dlc
+Name: Azure Striker GUNVOLT 3 - EX Image Pulses: Nova and Desna pack
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Downloadable Content, Steam Achievements, Full controller support, Steam Cloud
+Genres: Action
+
+
+Appid: 2189990
+Type: dlc
+Name: Azure Striker GUNVOLT 3 - EX Image Pulses: Carrera, Gibril, and Milas pack
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Downloadable Content, Steam Achievements, Full controller support, Steam Cloud
+Genres: Action
+
+
+Appid: 2190020
+Type: demo
+Name: The last lover Demo
+Required Age: 0
+Is Free: True
+Dlc: Not provided
+Categories: Single-player, Game demo, Partial Controller Support
+Genres: Not provided
+
+
+Appid: 2190030
+Type: game
+Name: Barrel Full of Monkeys
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player
+Genres: Action, Casual
+
+
+Appid: 2190040
+Type: music
+Name: Pulling No Punches Soundtrack
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Not provided
+Genres: Not provided
+
+
+Appid: 2190050
+Type: dlc
+Name: Trinity Trigger - Extra Episode: Cyan
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Multi-player, Co-op, Shared/Split Screen Co-op, Shared/Split Screen, Downloadable Content, Steam Achievements, Full controller support, Steam Trading Cards, Steam Cloud, Remote Play Together
+Genres: Action, RPG
+
+
+Appid: 2190070
+Type: game
+Name: Spot The Difference - PHOTO for TESLA and PC
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Multi-player
+Genres: Casual, Indie
+
+
+Appid: 2190080
+Type: game
+Name: Beam Cat
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player
+Genres: Adventure, Casual, Indie
+
+
+Appid: 2190090
+Type: dlc
+Name: Trainz 2019 DLC - NSW 82 Class Pacific National Pack
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Multi-player, Co-op, Downloadable Content, Steam Achievements, Includes level editor
+Genres: Simulation
+
+
+Appid: 2190100
+Type: dlc
+Name: Trainz 2022 DLC - NSW 82 Class Pacific National Pack
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Multi-player, Co-op, Online Co-op, Cross-Platform Multiplayer, Downloadable Content, Includes level editor
+Genres: Simulation
+
+
+Appid: 2190110
+Type: dlc
+Name: Trainz Plus DLC - NSW 82 Class Pacific National Pack
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Multi-player, Co-op, Online Co-op, Cross-Platform Multiplayer, Downloadable Content, Includes level editor
+Genres: Simulation
+
+
+Appid: 2190120
+Type: game
+Name: SPRINT.FIRE
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Multi-player, PvP, Online PvP, Steam Achievements, Stats, Steam Leaderboards
+Genres: Action, Free to Play, Indie
+
+
+Appid: 2190130
+Type: game
+Name: B.I.G
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player
+Genres: Adventure, Indie
+
+
+Appid: 2190140
+Type: demo
+Name: Primitive Society Simulator FreeDemo
+Required Age: 0
+Is Free: True
+Dlc: Not provided
+Categories: Single-player, Game demo
+Genres: Not provided
+
+
+Appid: 2190150
+Type: game
+Name: The Last Humble Bee
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Steam Achievements, Full controller support, Steam Cloud
+Genres: Action
+
+
+Appid: 2190160
+Type: game
+Name: 未然探偵 The Protea Cases
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Steam Achievements, Full controller support, Stats
+Genres: Adventure
+
+
+Appid: 2190170
+Type: game
+Name: Nusantara
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Multi-player, PvP, Online PvP, LAN PvP, Shared/Split Screen PvP, Shared/Split Screen, Cross-Platform Multiplayer, Steam Achievements, Includes level editor, Remote Play Together
+Genres: Indie, Strategy, Early Access
+
+
+Appid: 2190180
+Type: game
+Name: SmileXCorp 3
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player
+Genres: Action, Adventure, Free to Play, Indie, Early Access
+
+
+Appid: 2190190
+Type: game
+Name: StrayCatDoors2
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player
+Genres: Adventure
+
+
+Appid: 2190200
+Type: game
+Name: Cockville [18+]
+Required Age: 0
+Is Free: True
+Dlc: Not provided
+Categories: Single-player, Steam Achievements, In-App Purchases
+Genres: Casual, Free to Play, Simulation
+
+
+Appid: 2190210
+Type: game
+Name: Kink.inc [18+]
+Required Age: 0
+Is Free: True
+Dlc: Not provided
+Categories: Single-player, Steam Achievements, In-App Purchases
+Genres: Casual, Free to Play
+
+
+Appid: 2190240
+Type: game
+Name: GameDev LiTuber Simulator
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player
+Genres: Simulation
+
+
+Appid: 2190250
+Type: game
+Name: Blocks Tracks Trains
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Steam Workshop
+Genres: Casual, Simulation
+
+
+Appid: 2190260
+Type: game
+Name: Card Crawl Adventure
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Steam Achievements, Steam Cloud, Steam Leaderboards
+Genres: Casual, Indie
+
+
+Appid: 2190270
+Type: game
+Name: PIP 6
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Steam Achievements, Steam Cloud
+Genres: Adventure, Casual, Indie, Simulation, Strategy
+
+
+Appid: 2190280
+Type: game
+Name: Poly Memory: Dinosaurs
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Steam Achievements, Steam Cloud
+Genres: Adventure, Casual, Indie, Simulation, Strategy
+
+
+Appid: 2190290
+Type: game
+Name: To Be or Not to Be
+Required Age: 0
+Is Free: False
+Dlc: 2208180
+Categories: Single-player
+Genres: Adventure, RPG
+
+
+Appid: 2190300
+Type: game
+Name: Space Between
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player
+Genres: Adventure, Casual, Indie, Simulation
+
+
+Appid: 2190310
+Type: dlc
+Name: Sneaky IT Support - Art Pack & Walkthrough Guide
+Required Age: 0
+Is Free: False
+Dlc: Not provided
+Categories: Single-player, Downloadable Content
+Genres: Simulation
+
+

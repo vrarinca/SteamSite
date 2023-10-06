@@ -1,0 +1,3942 @@
+Appid: 216938, Name: Pieterw test app76 ( 216938 )
+Appid: 660010, Name: test2
+Appid: 660130, Name: test3
+Appid: 1609310, Name: Now Testing: 407
+Appid: 1609370, Name: LAST CRASH
+Appid: 1609390, Name: DataJack
+Appid: 1609410, Name: Monstrous Lovers Demo
+Appid: 1609440, Name: Cemetery Warrior V
+Appid: 1609450, Name: Soulchild Demo
+Appid: 1609470, Name: The Frog Game
+Appid: 1609570, Name: Agonize
+Appid: 1609580, Name: Fragments Of A Mind
+Appid: 1609590, Name: World Senate
+Appid: 1609600, Name: Bunny's Buddy
+Appid: 1609610, Name: Flight of the Amazon Queen 25th Anniversary - Extras
+Appid: 1609620, Name: Master Of Pottery - Qianlong Pattern Pack
+Appid: 1609640, Name: scary hotel
+Appid: 1609660, Name: Altruism
+Appid: 1609680, Name: Oscuria - The world of nightmares
+Appid: 1609690, Name: the secret of dyes
+Appid: 1609710, Name: vreezy: Pictorial Story Vol.1
+Appid: 1609730, Name: Aliens vs. Ghosts
+Appid: 1609740, Name: Alchemical Inc.
+Appid: 1609780, Name: Invader TD
+Appid: 1609800, Name: Akinofa
+Appid: 1608810, Name: The Drill RPG
+Appid: 1608820, Name: OGgolf
+Appid: 1608830, Name: Enlightened Demo
+Appid: 1608860, Name: XANDO: Xtreme & Over the Top
+Appid: 1608920, Name: The Exclusion Zone
+Appid: 1608930, Name: GrandMa Badass Demo
+Appid: 1608940, Name: Beat Boy
+Appid: 1608960, Name: 太空战舰 Demo
+Appid: 1608970, Name: 数字大军 试玩版
+Appid: 1608980, Name: The Dream is Coming...
+Appid: 1608990, Name: Green With Energy Playtest
+Appid: 1609010, Name: Forever To You!
+Appid: 1609020, Name: Soulchild
+Appid: 1609030, Name: Immortus Temporus
+Appid: 1609040, Name: STRIPING FRUITS
+Appid: 1609050, Name: Unforgettable You
+Appid: 1609070, Name: Calluna
+Appid: 1609080, Name: Summer of '58
+Appid: 1609090, Name: Drunken Dad Simulator
+Appid: 1609140, Name: Crazy indian - Minion skins
+Appid: 1609150, Name: Crazy indian - Monster skins
+Appid: 1609160, Name: Waifu Secret 2
+Appid: 1609170, Name: Gunmancer
+Appid: 1609190, Name: 2051 AD. Your life
+Appid: 1609200, Name: Atomic Life Playtest
+Appid: 1609210, Name: Happy Puzzle : True Happy
+Appid: 1609220, Name: Cthulhu pub
+Appid: 1609230, Name: Scarlet Hollow
+Appid: 1609240, Name: Girls and Dragons Soundtrack
+Appid: 1609260, Name: Girls and Dragons - Artbook 18+
+Appid: 1609270, Name: 東方恋迷跡: 妖怪伝説と幻想の旅 ~ Touhou Koi-Mystery: Legend and Fantasy of Monsters
+Appid: 1609280, Name: Land of War - Chrome Vis
+Appid: 1609300, Name: ENEMIES
+Appid: 1608310, Name: Codename Prodigy
+Appid: 1608330, Name: A-Spec First Assault
+Appid: 1608340, Name: The Lilliputian Runner Demo
+Appid: 1608370, Name: End of Despair
+Appid: 1608380, Name: DLC_The_Shadow_of_Yidhra
+Appid: 1608390, Name: Marble Muse Soundtrack
+Appid: 1608400, Name: Vermillion
+Appid: 1608410, Name: Stinky Company Simulator
+Appid: 1608440, Name: theHunter: Call of the Wild™ - Rancho del Arroyo
+Appid: 1608450, Name: Hellslave
+Appid: 1608460, Name: 青の镇物语
+Appid: 1608480, Name: X-Plane 11 - Add-on: Aerosoft - Airport Madrid
+Appid: 1608500, Name: Dynopunk Demo
+Appid: 1608510, Name: 东方栖霞园 ~ Blue devil in the Belvedere. Soundtrack
+Appid: 1608530, Name: Warrior Bloodline: Path of Survival
+Appid: 1608540, Name: Horizon Chase Turbo - Senna Forever
+Appid: 1608550, Name: Firegirl: Hack 'n Splash Rescue
+Appid: 1608560, Name: AIDroneSim
+Appid: 1608590, Name: Thyria
+Appid: 1608610, Name: Knock on the coffin lid - Supporter Pack
+Appid: 1608620, Name: Ballistic Machines
+Appid: 1608630, Name: City of Beats Playtest
+Appid: 1608640, Name: OTXO
+Appid: 1608660, Name: Overhaul
+Appid: 1608670, Name: Wildsilver
+Appid: 1608680, Name: Midnight Driver
+Appid: 1608700, Name: Soundfall
+Appid: 1608710, Name: Gridform
+Appid: 1608720, Name: Enlightened
+Appid: 1608760, Name: Disaster Drive Playtest
+Appid: 1608770, Name: Steampunk Abyss
+Appid: 1608780, Name: Everpixel Tactics
+Appid: 1608790, Name: Sokocat - islands (original soundtrack)
+Appid: 1607830, Name: The Hand of Merlin Soundtrack
+Appid: 1607850, Name: Planets Battle
+Appid: 1607860, Name: Water Drift
+Appid: 1607870, Name: Cub Gym
+Appid: 1607970, Name: 梦落凡尘
+Appid: 1607980, Name: School For The Friendless
+Appid: 1608010, Name: Unchosen: Forsaken
+Appid: 1608020, Name: Life-Winner Cong's Double Dragon Dream - Get all characters
+Appid: 1608030, Name: Spiritle Demo
+Appid: 1608040, Name: Castle Morihisa
+Appid: 1608060, Name: Dungeon Swappers Playtest
+Appid: 1608090, Name: Attack of the Giant Crab
+Appid: 1608110, Name: Splash Girls
+Appid: 1608130, Name: Fusion Relics
+Appid: 1608160, Name: 天神镇 Playtest
+Appid: 1608180, Name: Infested
+Appid: 1608190, Name: Devil Slayer - Raksasi: Digital Artbook
+Appid: 1608191, Name: Devil Slayer - Raksasi: Incarnation of Darkness
+Appid: 1608200, Name: The Far Kingdoms: Forgotten Relics
+Appid: 1608210, Name: Jungle Rumble
+Appid: 1608220, Name: Sentry：Obelisk Of Dawn
+Appid: 1608240, Name: YUME 2 : Sleepless Night - adult patch
+Appid: 1608250, Name: Soralio: Cooperation mystery solving game
+Appid: 1608270, Name: FILMECHANISM
+Appid: 1608280, Name: Resident Evil Village Original Soundtrack
+Appid: 1608290, Name: GNOSIA
+Appid: 1608300, Name: Ghosts 'n Goblins Resurrection Original Soundtrack
+Appid: 1607350, Name: Green Phoenix Demo
+Appid: 1607370, Name: Afterlife Beans
+Appid: 1607390, Name: Trailmakers - High Seas Expansion
+Appid: 1607400, Name: Occupation 2.5
+Appid: 1607410, Name: Unnatural Disaster Demo
+Appid: 1607430, Name: Memories of East Coast
+Appid: 1607450, Name: Uniboom-War of Unicorns
+Appid: 1607460, Name: Virtual Near Death Experience
+Appid: 1607470, Name: Escape
+Appid: 1607480, Name: 最后一搏 The last fight
+Appid: 1607490, Name: Guild of Ascension Playtest
+Appid: 1607500, Name: Schmutznik
+Appid: 1607520, Name: Tennis Manager 2021 Playtest
+Appid: 1607530, Name: Treasures of the Aegean
+Appid: 1607540, Name: Aerial_Knights Never Yield Soundtrack
+Appid: 1607560, Name: Kepler Project
+Appid: 1607570, Name: Cute Girls Love Books
+Appid: 1607580, Name: Virtueror, the virtual conqueror
+Appid: 1607620, Name: Bite At The Museum
+Appid: 1607630, Name: Retrowave Illusions
+Appid: 1607640, Name: Arcade Drift
+Appid: 1607650, Name: Rogue Sentry Soundtrack
+Appid: 1607670, Name: Secret Agent HD
+Appid: 1607690, Name: Galactic Refugees Soundtrack
+Appid: 1607700, Name: Retrowave Illusions Soundtrack
+Appid: 1607720, Name: Rimebeard
+Appid: 1607740, Name: Mecha Tactics
+Appid: 1607770, Name: Endless Zombie Tower
+Appid: 1607780, Name: Gun on the Chickahominy
+Appid: 1607800, Name: Truffle Hogs
+Appid: 1607820, Name: Ele-Mental
+Appid: 1607000, Name: Half Wing
+Appid: 1607011, Name: Resident Evil Re:Verse - Premium Pass
+Appid: 1607012, Name: Resident Evil Re:Verse - Leon Skin: Leather Jacket (Resident Evil 6)
+Appid: 1607013, Name: Resident Evil Re:Verse - Ada Skin: Still Kicking (The Umbrella Chronicles)
+Appid: 1607014, Name: Resident Evil Re:Verse - Creature Skin: Hunter γ (Resident Evil Outbreak)
+Appid: 1607015, Name: Resident Evil Re:Verse - Creature Skin: Super Tyrant 1998 (Resident Evil 2)
+Appid: 1607016, Name: Resident Evil Re:Verse - Chris Skin: Gun Show (Resident Evil 5)
+Appid: 1607017, Name: Resident Evil Re:Verse - Jill Skin: Battle Suit (Resident Evil 5)
+Appid: 1607018, Name: Resident Evil Re:Verse - Hunk Skin: Grim Reaper (The Mercenaries 3D)
+Appid: 1607019, Name: Resident Evil Re:Verse - Claire Skin: Leather Jacket (Resident Evil Revelations 2)
+Appid: 1607040, Name: Evertried
+Appid: 1607050, Name: Regain Earth: First Strike - Fan Rewards
+Appid: 1607100, Name: The night of fire stealing 2/盗火之夜2
+Appid: 1607110, Name: Linares: Bullet Fever
+Appid: 1607120, Name: The Mystery of Caketropolis Soundtrack
+Appid: 1607130, Name: Lust Theory
+Appid: 1607140, Name: Valley General Hospital NiVR
+Appid: 1607150, Name: The Patcher Demo
+Appid: 1607170, Name: Magical girl Noble Rose
+Appid: 1607180, Name: Big Quest 2: the Adventure
+Appid: 1607190, Name: Mona
+Appid: 1607200, Name: Cyanotype Daydream -The Girl Who Dreamed the World-
+Appid: 1607211, Name: Star Conflict - Mole
+Appid: 1607230, Name: Wicce Soundtrack
+Appid: 1607280, Name: YUME 2 : Sleepless Night
+Appid: 1607290, Name: Gangstar NY
+Appid: 1607300, Name: March! March!
+Appid: 1607310, Name: 汽车帝国
+Appid: 1607320, Name: Colorado Cocoa Club Artbook
+Appid: 1607321, Name: Colorado Cocoa Club Adults Only 18+ Patch
+Appid: 1607340, Name: Game Design Studio
+Appid: 1606480, Name: Help me please
+Appid: 1606510, Name: Steel Rain - Dawn of the Machines
+Appid: 1606520, Name: 暴打萌鼠
+Appid: 1606570, Name: Nokta
+Appid: 1606580, Name: SCORCH
+Appid: 1606590, Name: The Killer of Dishonor
+Appid: 1606610, Name: Rescuer
+Appid: 1606620, Name: Train Tycoon
+Appid: 1606630, Name: Chonkymon
+Appid: 1606640, Name: GrandMa Badass
+Appid: 1606650, Name: Project: Nitro - PREMIUM
+Appid: 1606670, Name: Zen Cube
+Appid: 1606680, Name: Comet Crusher
+Appid: 1606730, Name: Coin Dash
+Appid: 1606740, Name: Crimson Tactics: The Rise of The White Banner Demo
+Appid: 1606750, Name: Crimson Tactics: The Rise of The White Banner Soundtrack
+Appid: 1606760, Name: Unlock the Block
+Appid: 1606770, Name: Somniphobia
+Appid: 1606790, Name: Instrumentalist
+Appid: 1606800, Name: FTD2
+Appid: 1606810, Name: Little adventure - Hunter bow
+Appid: 1606840, Name: Little adventure - New colors
+Appid: 1606890, Name: Gun'eM
+Appid: 1606900, Name: Deathbound Demo
+Appid: 1606910, Name: Jigsaw Puzzle VR
+Appid: 1606920, Name: Undergrowth: VR Maze
+Appid: 1606930, Name: Warpips - Supporter Pack
+Appid: 1606940, Name: The Mystery of Caketropolis
+Appid: 1606950, Name: Squeaky Clean
+Appid: 1606970, Name: Ronin Trail
+Appid: 1606980, Name: Ouroboros Dungeon
+Appid: 1606070, Name: Corpse Keeper Demo
+Appid: 1606090, Name: Super Monkey Ball Banana Mania - Classic Soundtrack
+Appid: 1606100, Name: ARIA CHRONICLE NECROKNIGHT
+Appid: 1606130, Name: Warhammer Age of Sigmar: Soul Arena
+Appid: 1606140, Name: Trilogy KING MAN
+Appid: 1606160, Name: 100 Diamond
+Appid: 1606161, Name: 600 Diamond
+Appid: 1606162, Name: 1500 Diamond
+Appid: 1606163, Name: Founder's Card
+Appid: 1606170, Name: Rising Hell Soundtrack
+Appid: 1606180, Name: 下一站江湖Ⅱ
+Appid: 1606200, Name: Frostpunk Expansions Original Soundtrack
+Appid: 1606210, Name: Heck Deck
+Appid: 1606220, Name: Don't Forget Me Soundtrack
+Appid: 1606252, Name: Super Monkey Ball Banana Mania - Customization Pack
+Appid: 1606253, Name: Super Monkey Ball Banana Mania - Classic Character Pack
+Appid: 1606254, Name: Super Monkey Ball Banana Mania - SEGA Legends Pack
+Appid: 1606255, Name: Super Monkey Ball Banana Mania - Golden Banana
+Appid: 1606256, Name: Super Monkey Ball Banana Mania - Bonus Cosmetic Pack
+Appid: 1606270, Name: Pleasurepunk: Drug Dealer
+Appid: 1606280, Name: Hentai Aim Trainer
+Appid: 1606300, Name: Puzzle Light
+Appid: 1606320, Name: Paint By Numbers - Lacerta Planet
+Appid: 1606340, Name: Conquest of Elysium 5
+Appid: 1606350, Name: Chess 432
+Appid: 1606360, Name: The Rocket Stop Incident Demo
+Appid: 1606370, Name: Square Off
+Appid: 1606390, Name: AGAINST Demo
+Appid: 1606430, Name: Rubber Bandits Playtest
+Appid: 1606440, Name: Gravitational Demo
+Appid: 1606450, Name: BunnyShot
+Appid: 1606460, Name: Galactic Refugees
+Appid: 1605620, Name: HeartHarp Hubble Demo
+Appid: 1605640, Name: Empower
+Appid: 1605650, Name: A Strange Hotel Demo
+Appid: 1605660, Name: Probability Race Demo
+Appid: 1605670, Name: Dungeonman Demo
+Appid: 1605680, Name: Wayward Shadows
+Appid: 1605690, Name: Ruka
+Appid: 1605710, Name: The Crow King
+Appid: 1605720, Name: Eternia: Pet Whisperer
+Appid: 1605730, Name: Fantasy Grounds - Treasury of the Kingdom (5E)
+Appid: 1605750, Name: Fantasy Grounds - Treasury of the Macabre
+Appid: 1605760, Name: Mystery Trackers: Forgotten Voices Collector's Edition
+Appid: 1605780, Name: Almighty: Kill Your Gods Playtest
+Appid: 1605790, Name: Almighty: Kill Your Gods Supporter's Pack
+Appid: 1605800, Name: Almighty: Kill Your Gods Soundtrack
+Appid: 1605810, Name: Root Soundtrack
+Appid: 1605840, Name: Power Rangers: Battle for the Grid - Ryu Crimson Hawk Ranger
+Appid: 1605870, Name: Chun-Li Blue Phoenix Ranger
+Appid: 1605871, Name: Ryu Angel Grove Class of '93 Skin
+Appid: 1605872, Name: Chun-Li Angel Grove Class of '93 Skin
+Appid: 1605873, Name: Helmetless Ryu Skin
+Appid: 1605890, Name: To the Max
+Appid: 1605910, Name: 宇宙终极秘密-灵魂The ultimate secret of the universe：Soul
+Appid: 1605930, Name: Babol the Walking Box
+Appid: 1605950, Name: 太空战舰
+Appid: 1605960, Name: Zombie Survival
+Appid: 1605970, Name: Torque Drift - AdamLZ S15 Driver Car
+Appid: 1605971, Name: Torque Drift - AdamLZ 180sx Driver Car
+Appid: 1605972, Name: Torque Drift - AdamLZ R32 Driver Car
+Appid: 1606000, Name: QRedux
+Appid: 1606020, Name: I am an Air Traffic Controller 4 Demo
+Appid: 1606030, Name: The Tower of Wowers
+Appid: 1605120, Name: Kate Kite
+Appid: 1605130, Name: Jeanne at the Clock Tower 
+Appid: 1605140, Name: Insane Town
+Appid: 1605150, Name: Charlie from the swamp
+Appid: 1605170, Name: VR Jurassic Escape- Tour Mode
+Appid: 1605190, Name: Connect The Dots
+Appid: 1605200, Name: Robin Hood - Sherwood Builders Playtest
+Appid: 1605230, Name: Spaceship - Visual Effect Graph Demo
+Appid: 1605240, Name: Red Colony 2 Uncensored
+Appid: 1605250, Name: Darkverse:Rogue
+Appid: 1605270, Name: MariAlbum
+Appid: 1605280, Name: HuoChaiRenRPG
+Appid: 1605290, Name: Paint By Numbers
+Appid: 1605300, Name: Hack Bomb BOMA-YE
+Appid: 1605310, Name: Heltons Haunted Hotel
+Appid: 1605320, Name: Unusual Findings
+Appid: 1605340, Name: Atlantis Adventure VR
+Appid: 1605380, Name: 音符之光传说 Playtest
+Appid: 1605410, Name: DurDanto Demo
+Appid: 1605420, Name: American Commando
+Appid: 1605430, Name: Roots of Tomorrow
+Appid: 1605440, Name: Ragdoll Madness
+Appid: 1605460, Name: Here To Stay
+Appid: 1605470, Name: Shutter Stroll Demo
+Appid: 1605480, Name: Albacete Warrior
+Appid: 1605500, Name: Grace Hopper: Bug Rescue
+Appid: 1605510, Name: Okinawa Rush Demo
+Appid: 1605520, Name: The Black Pepper Crew
+Appid: 1605530, Name: Upside
+Appid: 1605580, Name: Fruit Hunter
+Appid: 1605590, Name: Fimbul Winter
+Appid: 1605600, Name: Final Stand: Ragnarok
+Appid: 1604630, Name: Kriophobia
+Appid: 1604640, Name: Tender: Creature Comforts
+Appid: 1604670, Name: They Are Here Demo
+Appid: 1604690, Name: Last Blossom
+Appid: 1604700, Name: Small Press Tycoon
+Appid: 1604710, Name: Random Blacksmith Game
+Appid: 1604730, Name: Probability Race
+Appid: 1604750, Name: Void Hearts
+Appid: 1604780, Name: Lovely Planet Remix
+Appid: 1604790, Name: After School
+Appid: 1604800, Name: LIP! Lewd Idol Project Vol. 1
+Appid: 1604840, Name: Super Fowlst 2
+Appid: 1604850, Name: Atelier Ryza 2: 【Ryza 1 Million Units Celebration】High Summer Formal
+Appid: 1604860, Name: Atelier Ryza: 【Ryza 1 Million Units Celebration】White Lily of Summer
+Appid: 1604870, Name: Spiritle Playtest
+Appid: 1604930, Name: Heart of a Bird in a Cage
+Appid: 1604940, Name: Heart of a Bird in a Cage - Artwork
+Appid: 1604980, Name: Redneck Rift Demo
+Appid: 1604990, Name: Heart of a Bird in a Cage - Soundtrack
+Appid: 1605040, Name: Jump Kid
+Appid: 1605050, Name: Crossy Bridge
+Appid: 1605070, Name: City Block Builder Demo
+Appid: 1605090, Name: Adorable Witch - adult patch
+Appid: 1604540, Name: TURK: The Demon Slayer
+Appid: 1604600, Name: DROPSHIP
+Appid: 1604610, Name: SpaceTek
+Appid: 1604620, Name: Cooking Companions Demo
+Appid: 1604040, Name: Russian Pawn Store Demo
+Appid: 1604050, Name: Smelted Kin: Inhuman Impact
+Appid: 1604060, Name: Cricket Captain 2021
+Appid: 1604070, Name: Cricket Captain 2021 Demo & Internet Game
+Appid: 1604080, Name: Terrain of Magical Expertise Demo
+Appid: 1604100, Name: Revolver and Co
+Appid: 1604110, Name: Pippu - Bauble Quest
+Appid: 1604130, Name: BLACK★ACADEMY Demo
+Appid: 1604160, Name: Jivitam
+Appid: 1604170, Name: ROUGH KUTS: House on Haunted Hill
+Appid: 1604180, Name: Laika
+Appid: 1604190, Name: The Falconeer - Edge of the World
+Appid: 1604200, Name: Amazing Chicken Adventures Demo
+Appid: 1604220, Name: Red Solstice 2: Survivors - Executor Armor Skin
+Appid: 1604230, Name: CHIP: Rescuer of Kittens Demo
+Appid: 1604240, Name: Sumotori Dreams Classic
+Appid: 1604260, Name: Eternal Evil Prologue
+Appid: 1604280, Name: STHELL
+Appid: 1604300, Name: LOVE 3
+Appid: 1604320, Name: Daffy Fish
+Appid: 1604330, Name: Sons of Ra Soundtrack
+Appid: 1604350, Name: Wonhon: the Beginning
+Appid: 1604370, Name: Garden Magic
+Appid: 1604380, Name: 常轨脱离Creative
+Appid: 1604390, Name: PROVIDER
+Appid: 1604400, Name: Out Bike the Tsunami
+Appid: 1604420, Name: Clouds no more
+Appid: 1604440, Name: Recall
+Appid: 1604450, Name: AI Battle Royale Generator
+Appid: 1604460, Name: JAM GODS Playtest
+Appid: 1603580, Name: Fantasia Sango Historians Demo
+Appid: 1603590, Name: My Cousin the Rogue
+Appid: 1603600, Name: Daldos
+Appid: 1603610, Name: Beside Myself Demo
+Appid: 1603630, Name: Blocked Out: Red V Blue
+Appid: 1603640, Name: The House of Da Vinci 3
+Appid: 1603700, Name: Night Blade Playtest
+Appid: 1603720, Name: Thy Creature
+Appid: 1603750, Name: Out of the Woods
+Appid: 1603770, Name: On Space
+Appid: 1603780, Name: Pincushion
+Appid: 1603790, Name: Twin Jump
+Appid: 1603800, Name: Monsters per second
+Appid: 1603860, Name: The Frosts: First Ones
+Appid: 1603870, Name: Dad's Dice: History of Legends
+Appid: 1603890, Name: ShootOut(SystemD) Demo
+Appid: 1603900, Name: Love & Enchants
+Appid: 1603920, Name: Abarenbo Tengu & Zombie Nation
+Appid: 1603930, Name: The Hell Hives
+Appid: 1603940, Name: Nuclear War Simulator
+Appid: 1603950, Name: Dungeon Rollers
+Appid: 1603960, Name: Mini Madness
+Appid: 1603970, Name: Panmorphia: Awakened
+Appid: 1603980, Name: If On A Winter's Night, Four Travelers
+Appid: 1603990, Name: Carma
+Appid: 1604000, Name: Milk outside a bag of milk outside a bag of milk
+Appid: 1604020, Name: Many Bricks Breaker
+Appid: 1603170, Name: Cyberplug
+Appid: 1603200, Name: Hitler On The Moon
+Appid: 1603210, Name: Barn&Farm Renovator
+Appid: 1603220, Name: Fantasy Strip Poker & Blackjack
+Appid: 1603250, Name: Cyberless III: Online Server
+Appid: 1603260, Name: Re.Surs
+Appid: 1603270, Name: Monster Battle Quest
+Appid: 1603280, Name: Chasing the wind
+Appid: 1603290, Name: Project Hacker
+Appid: 1603300, Name: Timothy Leary's Mind Mirror
+Appid: 1603310, Name: PLUG WARS - The Game
+Appid: 1603320, Name: RPG Maker VX Ace - Fun and Comical Anime Music
+Appid: 1603330, Name: RPG Maker MV - Fun and Comical Anime Music
+Appid: 1603340, Name: Visual Novel Maker - Fun and Comical Anime Music
+Appid: 1603350, Name: Stellaxy Demo
+Appid: 1603360, Name: SHADOW STEP
+Appid: 1603370, Name: Love Tavern Demo
+Appid: 1603410, Name: Lost Nova
+Appid: 1603440, Name: War Lab Playtest
+Appid: 1603460, Name: Chromatic Labyrinth
+Appid: 1603470, Name: Run N Crush
+Appid: 1603480, Name: Avarice
+Appid: 1603500, Name: The Elevator Game with Catgirls
+Appid: 1603520, Name: Save Data
+Appid: 1603560, Name: Koihime Enbu RyoRaiRai - Version 3
+Appid: 1603120, Name: Pixel Puzzles Illustrations & Anime - Jigsaw Pack: Little Dogs
+Appid: 1603121, Name: Pixel Puzzles Illustrations & Anime - Deadswitch 3
+Appid: 1602770, Name: Dream of Bells
+Appid: 1602780, Name: Icarus Demo
+Appid: 1602790, Name: Melatonin Demo
+Appid: 1602810, Name: Metaverse: Origins
+Appid: 1602840, Name: BSF
+Appid: 1602870, Name: Determinant Demo
+Appid: 1602880, Name: The Lord of the Parties
+Appid: 1602900, Name: SnOut
+Appid: 1602920, Name: The Last Barbarian
+Appid: 1602930, Name: Pedro's Adventures in Spanish
+Appid: 1602970, Name: Gedel Escape
+Appid: 1602980, Name: INSIGHT
+Appid: 1602990, Name: POG
+Appid: 1603010, Name: Clarent Saga - Game Script
+Appid: 1603020, Name: Overcoming Obstacles
+Appid: 1602310, Name: Golf Club Wasteland Demo
+Appid: 1602330, Name: clown town 1443
+Appid: 1602340, Name: Shatter Sky
+Appid: 1602350, Name: MENOS: PSI-SHATTER
+Appid: 1602370, Name: DurDanto
+Appid: 1602380, Name: Ambush
+Appid: 1602420, Name: When I reincarnate, I'm a cube!?
+Appid: 1602430, Name: Cthulhu Clicker Playtest
+Appid: 1602460, Name: Mazeing
+Appid: 1602470, Name: DOOMBRINGER Dedicated Server
+Appid: 1602490, Name: Waifus Smash
+Appid: 1602510, Name: Tactics of World War One
+Appid: 1602520, Name: DoomBreaker
+Appid: 1602530, Name: CrateTastrophe Demo
+Appid: 1602540, Name: Sophia the Traveler
+Appid: 1602550, Name: After School Afterlife
+Appid: 1602560, Name: The Many Pieces of Mr. Coo
+Appid: 1602570, Name: Life as Designed
+Appid: 1602590, Name: Kaiju Crush
+Appid: 1602600, Name: UNIVERSE PRISON
+Appid: 1602620, Name: Deadzoned: A Credits Bounty
+Appid: 1602640, Name: Clarent Saga - Squire Tier
+Appid: 1602641, Name: Clarent Saga - Knight Tier
+Appid: 1602642, Name: Clarent Saga - Liege Tier
+Appid: 1602643, Name: Clarent Saga - King Tier
+Appid: 1602644, Name: Clarent Saga - Emperor Tier
+Appid: 1602660, Name: Fishing: North Atlantic - Scallop
+Appid: 1602670, Name: DoomBreaker Demo
+Appid: 1602680, Name: Gravity Snake - Buy me a coffee Donation
+Appid: 1602700, Name: Teabat!
+Appid: 1602720, Name: Siphonophore Soundtrack
+Appid: 1602750, Name: Rise of the Atman
+Appid: 1602760, Name: Chronicles of Ash
+Appid: 1601810, Name: Get Lost With Luke In Nature
+Appid: 1601840, Name: House Builder: First Job
+Appid: 1601850, Name: Greedy Goblin
+Appid: 1601860, Name: Warp Factory
+Appid: 1601870, Name: Evade The Light
+Appid: 1601890, Name: Rescue Rover Collection
+Appid: 1601900, Name: Slordax: The Unknown Enemy
+Appid: 1601910, Name: Animal Express
+Appid: 1601920, Name: Sparkball - Early Access - Ascension Weekend
+Appid: 1601930, Name: ScubaVenture: The Search for Pirate's Treasure
+Appid: 1601940, Name: Animal Express Playtest
+Appid: 1601950, Name: Hentai VR
+Appid: 1601980, Name: OneShot: Aftermath
+Appid: 1601990, Name: Opa Definitive Edition
+Appid: 1602000, Name: Hotel Architect
+Appid: 1602010, Name: Persona 4 Arena Ultimax
+Appid: 1602030, Name: MegaBattle
+Appid: 1602070, Name: Guardians of Greyrock - Card Pack: Summoner's Henge
+Appid: 1602090, Name: Beware of Dog
+Appid: 1602100, Name: HS Galaxy
+Appid: 1602110, Name: Kredolis
+Appid: 1602120, Name: Engine Evolution 2021 Demo
+Appid: 1602140, Name: The little drone 2
+Appid: 1602150, Name: Bus stop in the fog
+Appid: 1602160, Name: Arnold Bounty Hunter
+Appid: 1602170, Name: Need For Conquest
+Appid: 1602180, Name: BRICOLE
+Appid: 1602190, Name: Alma
+Appid: 1602220, Name: Chrome Switcher Demo
+Appid: 1602240, Name: Paste DB
+Appid: 1602250, Name: Bubbaruka! Demo
+Appid: 1602260, Name: METALWORKING
+Appid: 1602270, Name: Sketchbots: Original Soundtrack
+Appid: 1602280, Name: Gravity Snake
+Appid: 1602290, Name: Paint Warfare - Supporter Pack
+Appid: 1602300, Name: 人窟日记 The Grotto Diary
+Appid: 1601320, Name: Leshy
+Appid: 1601350, Name: Prison Architect - Second Chances
+Appid: 1601360, Name: Smoots Golf
+Appid: 1601380, Name: The Marauder Chronicles - Curse over Valdria
+Appid: 1601410, Name: 最涯（さいはて）の列車
+Appid: 1601450, Name: KINGDOM of the DEAD Demo
+Appid: 1601490, Name: Organs Please Demo
+Appid: 1601520, Name: Distant Dials
+Appid: 1601530, Name: Bro, where is my head??? Demo
+Appid: 1601540, Name: Goalie Madness
+Appid: 1601550, Name: Warhammer: Vermintide 2 - Chaos Wastes
+Appid: 1601560, Name: Landlord's Super Soundtrack
+Appid: 1601590, Name: Freiwillig
+Appid: 1601600, Name: Apeiron
+Appid: 1601630, Name: The Fate of Baldr
+Appid: 1601640, Name: At The Party - Police Sketch Artists
+Appid: 1601660, Name: Lifeslide Demo
+Appid: 1601670, Name: マグネクション磁
+Appid: 1601680, Name: The Advisor - Episode 1: Royal Pain
+Appid: 1601690, Name: Overgrowth Soundtrack
+Appid: 1601700, Name: Society's Paradigms
+Appid: 1601750, Name: Pack of Demons
+Appid: 1601760, Name: Easy Quiz Playtest
+Appid: 1601770, Name: RUNNER
+Appid: 1601780, Name: Starfighter Renegade Demo
+Appid: 1601790, Name: Mini Island: Summer
+Appid: 1601800, Name: Touching Live2D Ork Sex With Lady Knight
+Appid: 1600840, Name: Was It Worth It?
+Appid: 1600850, Name: Guardian of Lore Soundtrack
+Appid: 1600860, Name: Wordeous - Sports Pack
+Appid: 1600870, Name: King Bullseye: The Chess Strike
+Appid: 1600880, Name: Madness Beverage
+Appid: 1600890, Name: 恶灵退散 Go Back to Hell
+Appid: 1600900, Name: 怕不怕趴喵霸霸 Ghost Party Nyanbaba
+Appid: 1600920, Name: The Invisible Hand Soundtrack
+Appid: 1600930, Name: Foul Play
+Appid: 1600940, Name: Draw - Patch
+Appid: 1600950, Name: PROPHUNT
+Appid: 1600960, Name: Seafarers
+Appid: 1600970, Name: Green Fairy VR
+Appid: 1600980, Name: MONSTER SLAYER
+Appid: 1601000, Name: Pixel Tactics Online
+Appid: 1601040, Name: Leaf on Wind
+Appid: 1601050, Name: Urbek Playtest
+Appid: 1601100, Name: Farming Engine
+Appid: 1601110, Name: You, Calligrapher Playtest
+Appid: 1601150, Name: NORCO Act One Demo
+Appid: 1601170, Name: Sex and Morning
+Appid: 1601190, Name: Ultimate Demolition
+Appid: 1601210, Name: Wolfstride Demo
+Appid: 1601220, Name: Smoots Summer Games
+Appid: 1601260, Name: Project Scav
+Appid: 1601280, Name: Potato Flowers in Full Bloom
+Appid: 1601290, Name: Coloring Game 4 – Fantasy
+Appid: 1601291, Name: Coloring Game 4 – Fine Art
+Appid: 1601310, Name: Blon Demo
+Appid: 1600370, Name: Not Tonight 2
+Appid: 1600400, Name: Into The Darkness VR Demo
+Appid: 1600410, Name: Surviving the Aftermath - Twitch DLC
+Appid: 1600420, Name: Evacuation Combat
+Appid: 1600440, Name: Keep looking
+Appid: 1600450, Name: Pride and Prejudice: Blood Ties
+Appid: 1600460, Name: Camelot: Wrath of the Green Knight
+Appid: 1600470, Name: The Evolving World: Catalyst Wake
+Appid: 1600500, Name: Your Blight
+Appid: 1600520, Name: Vampire: The Masquerade - Bloodhunt Playtest
+Appid: 1600540, Name: Costume - ARN-01D - The K-0 Wars
+Appid: 1600541, Name: Costume - Gat - Vizier
+Appid: 1600550, Name: Imaginaria
+Appid: 1600570, Name: Paralellia
+Appid: 1600580, Name: Kingdoms of Myth
+Appid: 1600590, Name: Fantasy Grounds - Secret Weapons Project
+Appid: 1600600, Name: ZAR
+Appid: 1600610, Name: Nowhere Fast Playtest
+Appid: 1600620, Name: MINICHEF
+Appid: 1600640, Name: I remember the Light
+Appid: 1600670, Name: DawnWander
+Appid: 1600690, Name: Keep It Live
+Appid: 1600700, Name: Cosmophage
+Appid: 1600710, Name: RPG Sounds - Uru'Can Tribe - Sound Pack
+Appid: 1600720, Name: a curse from beyond
+Appid: 1600740, Name: In My Shadow Soundtrack
+Appid: 1600750, Name: Somnium Shore
+Appid: 1600770, Name: Guardian of Lore Digital Art Book
+Appid: 1600780, Name: MY LITTLE PONY: A Maretime Bay Adventure
+Appid: 1600800, Name: Graviteam Tactics: Typhoon Rising
+Appid: 1600810, Name: Pixel Speedrun
+Appid: 1600820, Name: Pill Puzzle
+Appid: 1600830, Name: Double Shot Gals
+Appid: 1599910, Name: Space Worthy
+Appid: 1599920, Name: DinoLand
+Appid: 1599930, Name: Endless Thief: a fluffy stealth adventure
+Appid: 1599940, Name: Pachi Pachi On A Roll
+Appid: 1599980, Name: GhostCast
+Appid: 1599990, Name: 天启岛
+Appid: 1600000, Name: TAISHO x ALICE Digital Artbook
+Appid: 1600020, Name: Eddie Hill in the Curse of the Skull Medallion
+Appid: 1600030, Name: Ghost of the Seas
+Appid: 1600070, Name: Keyboard Master
+Appid: 1600080, Name: Gardens and Girls
+Appid: 1600090, Name: Wonderful Girls
+Appid: 1600130, Name: Food and Girls
+Appid: 1600140, Name: My Lovely Noblewomen
+Appid: 1600150, Name: Tiny Bunny: Full Soundtrack
+Appid: 1600160, Name: Solitaire Legend of the Pirates 2
+Appid: 1600170, Name: Solitaire Legend of the Pirates 3
+Appid: 1600180, Name: Solitaire Game Halloween 2
+Appid: 1600190, Name: Solitaire Victorian Picnic 2
+Appid: 1600200, Name: Solitaire Jack Frost Winter Adventures 2
+Appid: 1600210, Name: Halloween Night Mahjong 2
+Appid: 1600230, Name: Mahjong Carnaval 2
+Appid: 1600240, Name: Spooky Mahjong
+Appid: 1600250, Name: Jurassic mahjong
+Appid: 1600260, Name: Kawaii Girls
+Appid: 1600280, Name: Cute animals memory card game
+Appid: 1600300, Name: Cube Flip
+Appid: 1600320, Name: Brisk Square
+Appid: 1600330, Name: Hero Sword
+Appid: 1600340, Name: The Murder Mystery Machine Demo
+Appid: 1600350, Name: Retro Clicker
+Appid: 1600360, Name: The Cycle Playtest
+Appid: 1599430, Name: Drunken Samurai
+Appid: 1599450, Name: Project G.A.E.A.
+Appid: 1599470, Name: Purrfect Apawcalypse: Patches' Infurno
+Appid: 1599480, Name: Predator: Hunting Grounds - Dutch '87 DLC Pack
+Appid: 1599481, Name: Predator: Hunting Grounds - Dutch 2025 DLC Pack
+Appid: 1599482, Name: Predator: Hunting Grounds - Dante "Beast Mode" Jefferson DLC Pack
+Appid: 1599483, Name: Predator: Hunting Grounds - Samurai Predator DLC Pack
+Appid: 1599484, Name: Predator: Hunting Grounds - City Hunter Predator DLC Pack
+Appid: 1599485, Name: Predator: Hunting Grounds - Viking Predator DLC Pack
+Appid: 1599486, Name: Predator: Hunting Grounds - Valkyrie Predator DLC Pack
+Appid: 1599510, Name: Deadly Threat
+Appid: 1599520, Name: Sacred Cubes 2
+Appid: 1599530, Name: Little adventure
+Appid: 1599540, Name: Topsy Turvy
+Appid: 1599560, Name: Wanderer
+Appid: 1599600, Name: PlateUp!
+Appid: 1599610, Name: Tiny Planet Protectors
+Appid: 1599630, Name: Planet Miner
+Appid: 1599650, Name: HELLIST Playtest
+Appid: 1599660, Name: Sackboy™: A Big Adventure
+Appid: 1599670, Name: Offroad Truck Racing
+Appid: 1599680, Name: Street Racing: United
+Appid: 1599690, Name: WORDLAND
+Appid: 1599700, Name: Magic Exposure – Yuri Visual Novel
+Appid: 1599710, Name: Super Nova Stadium
+Appid: 1599750, Name: ROUGH KUTS: The Brain That Wouldn't Die
+Appid: 1599770, Name: Uno - 50th Anniversary Theme
+Appid: 1599780, Name: Afterlove EP
+Appid: 1599790, Name: RPG Maker MZ - RPG Character Pack
+Appid: 1599800, Name: RPG Maker MZ - RPG Character Pack2
+Appid: 1599830, Name: ToxΔ
+Appid: 1599840, Name: Stacksquatch Soundtrack
+Appid: 1599850, Name: Zanfium Tower
+Appid: 1599860, Name: Vanaris Tactics
+Appid: 1598970, Name: Magnus Failure
+Appid: 1598990, Name: Atomicrops: Doom & Bloom
+Appid: 1599000, Name: ARK and ADE
+Appid: 1599010, Name: Chronicon - Ancient Beasts
+Appid: 1599020, Name: Tinykin
+Appid: 1599030, Name: Dying Light - Rust Weapon Pack
+Appid: 1599040, Name: Horny Honey Wallpapers
+Appid: 1599050, Name: OMSI 2 Add-on Yorkshire Counties
+Appid: 1599080, Name: Slow and Steady
+Appid: 1599100, Name: Путин убивает: Коронавирус Soundtrack
+Appid: 1599110, Name: The Great Pickle Adventure
+Appid: 1599120, Name: Treasure Drifter: Nian Demo
+Appid: 1599130, Name: Pavel Repin's Collection
+Appid: 1599140, Name: Nation War:Chronicles Demo
+Appid: 1599150, Name: Warlike
+Appid: 1599160, Name: Voxelia Defenders
+Appid: 1599170, Name: 5 Force Fighters
+Appid: 1599180, Name: Love n War: Warlord by Chance - Lord of Lust (18+)
+Appid: 1599210, Name: Line of War
+Appid: 1599220, Name: League Space
+Appid: 1599230, Name: Puppy Adventure
+Appid: 1599260, Name: Femdom Waifu: Bikini Summer Pack
+Appid: 1599270, Name: Crazy Race
+Appid: 1599280, Name: Crystal Rider
+Appid: 1599290, Name: RPG Sounds - Combat Music Expansion - Sound Pack
+Appid: 1599300, Name: DressMakerPro
+Appid: 1599310, Name: Hidden Shapes Animals - Wallpapers
+Appid: 1599350, Name: Hidden Shapes Animals - Jigsaw Puzzle Game Soundtrack
+Appid: 1599390, Name: Word Hunt Fever
+Appid: 1599410, Name: Mauled
+Appid: 1599420, Name: Rusty Rangers
+Appid: 1598490, Name: EyeRoll
+Appid: 1598500, Name: RPG Maker MZ - Another World Heroine Generator for MZ
+Appid: 1598510, Name: RPG Maker MZ - Fun and Comical Anime Music
+Appid: 1598520, Name: RPG Maker MZ - Future Electric RPG Collection
+Appid: 1598530, Name: RPG Maker MZ - Futuristic Vehicles
+Appid: 1598540, Name: Nilspace
+Appid: 1598580, Name: Exhausted Man
+Appid: 1598590, Name: 此刻探索中
+Appid: 1598600, Name: Robin Hood: Hail to the King
+Appid: 1598610, Name: They Always Run Demo
+Appid: 1598630, Name: Eternal Cycle 永劫之环
+Appid: 1598650, Name: Beans or Bones
+Appid: 1598660, Name: Armored Xpress
+Appid: 1598710, Name: Wild world
+Appid: 1598750, Name: 魔法与高塔
+Appid: 1598760, Name: Carrier Command 2 Playtest
+Appid: 1598780, Name: Silly Polly Beast
+Appid: 1598800, Name: Loretta Demo
+Appid: 1598810, Name: Life of Fly 2
+Appid: 1598880, Name: A Boy's Journey
+Appid: 1598900, Name: Nemesis - RPG Demo
+Appid: 1598910, Name: The Exсrawlers
+Appid: 1598920, Name: Farmer Life Simulator
+Appid: 1598930, Name: 见习侦探
+Appid: 1598090, Name: Fantoccini
+Appid: 1598110, Name: Fantasy Grounds - Mutant Crawl Classics Role Playing Game
+Appid: 1598130, Name: Movie Actor Trivia
+Appid: 1598140, Name: Potion Meister Demo
+Appid: 1598150, Name: Potion Pipeline
+Appid: 1598160, Name: Bloodwash
+Appid: 1598180, Name: Seishin Destiny
+Appid: 1598190, Name: We Are Live
+Appid: 1598200, Name: Cyberwinter Demo
+Appid: 1598210, Name: Milli & Greg
+Appid: 1598220, Name: Magical Otoge Iris
+Appid: 1598270, Name: Cthulhu Clicker
+Appid: 1598300, Name: Dungeon Coup
+Appid: 1598310, Name: Magical Otoge Iris Demo
+Appid: 1598330, Name: Magical Otoge Iris Development Art Book
+Appid: 1598340, Name: Horny Honey Wallpapers 18+
+Appid: 1598360, Name: Who Are You?
+Appid: 1598370, Name: Vojo
+Appid: 1598410, Name: Riding Shotgun
+Appid: 1598420, Name: Captain Bones Demo
+Appid: 1598470, Name: Pixel Ground
+Appid: 1597590, Name: Super Magbot Demo
+Appid: 1597610, Name: Soccer With Satan
+Appid: 1597620, Name: PolyCore Defense Demo
+Appid: 1597630, Name: 挣脱 - Demo
+Appid: 1597640, Name: Covenanted
+Appid: 1597650, Name: Larger Than Light
+Appid: 1597660, Name: Super Space Towers Demo
+Appid: 1597670, Name: Astralis
+Appid: 1597700, Name: Bakery Simulator Demo
+Appid: 1597710, Name: Elewder
+Appid: 1597720, Name: Feed All Monsters
+Appid: 1597730, Name: Dogs Organized Neatly
+Appid: 1597760, Name: Super Dungeon Maker - Fink's Awakening - Demo
+Appid: 1597780, Name: 新城镇
+Appid: 1597790, Name: Mainframe Defenders: Meltdown - Prologue
+Appid: 1597800, Name: Hikikomori life
+Appid: 1597810, Name: Heaven Dust 2 Demo
+Appid: 1597820, Name: Pazing By
+Appid: 1597830, Name: Cleaning Robot Match "Scatter Battlers" TrialEdition
+Appid: 1597850, Name: PazingBy Demo
+Appid: 1597860, Name: Games and Girls Soundtrack
+Appid: 1597870, Name: Adventure Mosaics. Granny’s Farm
+Appid: 1597890, Name: Games and Girls - Artbook 18+
+Appid: 1597900, Name: Let's Learn Janggi
+Appid: 1597910, Name: FREERIDE: The Personality Test
+Appid: 1597920, Name: KARDS - Anniversary Edition
+Appid: 1597930, Name: Origins of Merlin: Muscles and Magic
+Appid: 1597950, Name: Dawn of Light
+Appid: 1597960, Name: Jonah Weingarten's: Ninja Brigade
+Appid: 1597970, Name: Escape Room VR: Vaudeville
+Appid: 1598010, Name: Wild Dive
+Appid: 1598020, Name: Warspace
+Appid: 1598030, Name: ZONERS
+Appid: 1598040, Name: Hard Minus Classic Redux Demo
+Appid: 1597090, Name: Ressifice
+Appid: 1597110, Name: DERE EXE: Rebirth of Horror
+Appid: 1597140, Name: Smart Fart
+Appid: 1597150, Name: Isekai Eternal Playtest
+Appid: 1597160, Name: SpiderPunks
+Appid: 1597170, Name: Endless Furry Killer Infinity
+Appid: 1597190, Name: Outsider: After Life Soundtrack
+Appid: 1597200, Name: ConnecTank
+Appid: 1597210, Name: Fantasy Dungeon VR
+Appid: 1597220, Name: Tower Ball - Incremental Tower Defense
+Appid: 1597240, Name: XCUTE(me)
+Appid: 1597250, Name: Codename: Mystery Babylon
+Appid: 1597260, Name: BLIND
+Appid: 1597270, Name: Crime Reaper
+Appid: 1597290, Name: Swarm the City
+Appid: 1597310, Name: Airship: Kingdoms Adrift
+Appid: 1597330, Name: Grim Tales: The Final Suspect Collector's Edition
+Appid: 1597350, Name: Godlike
+Appid: 1597360, Name: RPG Maker MZ - Medieval Warfare Music Pack
+Appid: 1597370, Name: TAISHO x ALICE original Soundtrack
+Appid: 1597400, Name: LOST EGG 2: Be together
+Appid: 1597410, Name: Vivid Knight Original Soundtrack
+Appid: 1597430, Name: Office Love Affair
+Appid: 1597440, Name: Wax Museum - Seek and Find
+Appid: 1597470, Name: 31st prototype
+Appid: 1597500, Name: Everdream Valley Demo
+Appid: 1597510, Name: 魔物调查者
+Appid: 1597520, Name: Rounded
+Appid: 1597540, Name: Zaccaria Pinball - Farfalla Deluxe Pinball Table
+Appid: 1597550, Name: Highrise Mogul
+Appid: 1597560, Name: Click Your Crush!
+Appid: 1596666, Name: EARTH DEFENSE FORCE: WORLD BROTHERS - Colonist: "We'll Help, If It Means Saving the Planet"!?
+Appid: 1596667, Name: EARTH DEFENSE FORCE: WORLD BROTHERS - Cosmonaut: "We'll Take the Planet As Is"!
+Appid: 1596670, Name: EARTH DEFENSE FORCE: WORLD BROTHERS - Additional Mission Pack: Another ResCUBE
+Appid: 1596750, Name: Buddy and Lucky Solitaire
+Appid: 1596810, Name: ArtPuzzle VR
+Appid: 1596820, Name: Monstrous Lovers
+Appid: 1596830, Name: Aeon's End - The Depths
+Appid: 1596850, Name: Bean
+Appid: 1596860, Name: RPG Maker MZ - Animations Select - Water
+Appid: 1596870, Name: RPG Maker MZ - Animations Select - Fire
+Appid: 1596880, Name: RPG Maker MZ - The Adventurer's Journey
+Appid: 1596890, Name: Metal Mars
+Appid: 1596900, Name: RPG Maker MZ - Medieval Heroes I
+Appid: 1596910, Name: RPG Maker MZ - Fantasy Heroine Character Pack 5
+Appid: 1596920, Name: Play Me
+Appid: 1596940, Name: Ryan's Rescue Squad
+Appid: 1596950, Name: Frog Fighters
+Appid: 1596960, Name: Puzzle Guys Demo
+Appid: 1596970, Name: DuelVox: Max Quality Demo
+Appid: 1596990, Name: Asteroid Blasters
+Appid: 1597020, Name: Shieldwall Chronicles: Realm of Madness
+Appid: 1597040, Name: Fossilfuel
+Appid: 1597060, Name: Bubbaruka!
+Appid: 1597070, Name: Criminal T
+Appid: 1596310, Name: Crypto Mining Simulator
+Appid: 1596320, Name: Mage Mountain Demo
+Appid: 1596330, Name: XOMBEE
+Appid: 1596350, Name: Spiritlink Tactics
+Appid: 1596370, Name: Beat Souls
+Appid: 1596380, Name: Norega
+Appid: 1596400, Name: Spell Blaster
+Appid: 1596420, Name: ORBTRAIN - Slot Racing Demo
+Appid: 1596430, Name: Loop Knight
+Appid: 1596440, Name: ARKOS
+Appid: 1596470, Name: Guardian of the future Demo
+Appid: 1596540, Name: TAISHO x ALICE epilogue
+Appid: 1596560, Name: Alder Forge Demo
+Appid: 1596580, Name: SPYCITY
+Appid: 1596610, Name: Dead Night
+Appid: 1596630, Name: Futuclass - Hydrogen & Oxygen
+Appid: 1596631, Name: Futuclass - Salts
+Appid: 1596632, Name: Futuclass - Atom
+Appid: 1596640, Name: Dark Chronicles: The Soul Reaver
+Appid: 1596650, Name: EARTH DEFENSE FORCE: WORLD BROTHERS - Ranger (EDF5), Sergeant Colors & Special Gear
+Appid: 1596651, Name: EARTH DEFENSE FORCE: WORLD BROTHERS - Fencer (EDF5), Grim Reaper Colors & Special Gear
+Appid: 1596652, Name: EARTH DEFENSE FORCE: WORLD BROTHERS - Wing Diver (EDF5), Spriggan Colors & Special Gear
+Appid: 1596653, Name: EARTH DEFENSE FORCE: WORLD BROTHERS - Ranger (EDF4), Omega Team Colors & Special Gear
+Appid: 1596654, Name: EARTH DEFENSE FORCE: WORLD BROTHERS - Prowl Rider (EDF: IR), KR Prototype & Special Gear
+Appid: 1596655, Name: EARTH DEFENSE FORCE: WORLD BROTHERS - Infantry (EDF3), Storm 1 Colors & Special Gear
+Appid: 1596660, Name: EARTH DEFENSE FORCE: WORLD BROTHERS - Aya, the Calm Big Sister Swordswoman from "OneeChanbara"
+Appid: 1596661, Name: EARTH DEFENSE FORCE: WORLD BROTHERS - Saki, the Crazed Little Sister Swordswoman from "OneeChanbara"
+Appid: 1596662, Name: EARTH DEFENSE FORCE: WORLD BROTHERS - Hostess Setsu from Dream Club, Giving the EDF a Try!?
+Appid: 1596663, Name: EARTH DEFENSE FORCE: WORLD BROTHERS - Hostess Mian from Dream Club, Giving the EDF a Try!?
+Appid: 1596664, Name: EARTH DEFENSE FORCE: WORLD BROTHERS - Hostess ILI from Dream Club, Giving the EDF a Try!?
+Appid: 1596665, Name: EARTH DEFENSE FORCE: WORLD BROTHERS - The Legendary Mr. Y, Reborn as "Mecha Yuki" After His Acid Incident!?
+Appid: 1595810, Name: Touge Challenge
+Appid: 1595820, Name: Heart of Mithras Demo
+Appid: 1595840, Name: Phoenotopia Awakening Soundtrack
+Appid: 1595850, Name: Spider Crisis
+Appid: 1595860, Name: S.O.L Search of Light Demo
+Appid: 1595900, Name: Knight Flight
+Appid: 1595930, Name: The Far Kingdoms: Hidden Magic
+Appid: 1595950, Name: A Strange Hotel
+Appid: 1595980, Name: Exo One Original Soundtrack
+Appid: 1596010, Name: Martin and the Magic Staff
+Appid: 1596030, Name: JETMAN
+Appid: 1596060, Name: Infinity ZigZag
+Appid: 1596080, Name: Vagabond Starship
+Appid: 1596090, Name: ClashingBlades
+Appid: 1596110, Name: Sweet Desire
+Appid: 1596120, Name: BallisticNG - Maceno Island
+Appid: 1596130, Name: Through Rust We Are Returned
+Appid: 1596150, Name: Talking Dogs
+Appid: 1596170, Name: One True Hero
+Appid: 1596180, Name: Fragment
+Appid: 1596190, Name: Myriad: A Rogue Adventure
+Appid: 1596210, Name: Fantasy Grounds - Legendary Hunters
+Appid: 1596230, Name: Queen of Mountain
+Appid: 1596240, Name: Overlay Balls & Mouse Tails
+Appid: 1596250, Name: Fish. Love. Danger.
+Appid: 1596260, Name: Born of Bread Demo
+Appid: 1596270, Name: Neon Souls
+Appid: 1596280, Name: Bring Back The Sun Soundtrack
+Appid: 1596290, Name: JumpCubox
+Appid: 1595300, Name: Kells
+Appid: 1595310, Name: Barbarian Legend
+Appid: 1595340, Name: Sweet Home Puzzle
+Appid: 1595350, Name: Kamu's Offering
+Appid: 1595360, Name: Spritify Demo
+Appid: 1595380, Name: The Durka: You will (not) die
+Appid: 1595390, Name: Castle Dornstein
+Appid: 1595400, Name: WSB GME
+Appid: 1595430, Name: The Tea Party Music Pack
+Appid: 1595440, Name: 密閉Airtight
+Appid: 1595450, Name: Wardens Demo
+Appid: 1595460, Name: Haywire
+Appid: 1595470, Name: Dead Era
+Appid: 1595490, Name: Super Raft Boat VR
+Appid: 1595510, Name: Smasher and the Will o' the Thiccs
+Appid: 1595530, Name: RPG Maker VX Ace - Visual Novel Music Vol 2
+Appid: 1595540, Name: Sam & MaRU
+Appid: 1595550, Name: RPG Maker MV - Visual Novel Music Vol 2
+Appid: 1595551, Name: RPG Maker MV - Eberouge Event Picture Pack 3
+Appid: 1595560, Name: RPG Maker MZ - Visual Novel Music Vol 2
+Appid: 1595570, Name: RPG Maker MZ - Eberouge Event Picture Pack 3
+Appid: 1595580, Name: Visual Novel Maker - Visual Novel Music Vol 2
+Appid: 1595620, Name: Pair of Aces
+Appid: 1595630, Name: Underwater Life
+Appid: 1595640, Name: Tres-Bashers
+Appid: 1595650, Name: Goblin Summer Camp - Cosmetic Outfits
+Appid: 1595680, Name: Cyber Warrior Demo
+Appid: 1595700, Name: Fruit Girls: The Horny Bard Soundtrack
+Appid: 1595720, Name: The List Demo
+Appid: 1595740, Name: Urban Farmer
+Appid: 1595760, Name: ScreenSpace
+Appid: 1595770, Name: SUFFER 2
+Appid: 1595780, Name: Inno World
+Appid: 1595790, Name: Astral Cube
+Appid: 1594810, Name: ASMR LIGHTness - Light painting
+Appid: 1594820, Name: ASMR LIGHTness - Light painting Soundtrack
+Appid: 1594830, Name: Quarantine Run
+Appid: 1594850, Name: Tattoo Punk
+Appid: 1594860, Name: GashiShachiNoSachi
+Appid: 1594880, Name: Corsairs Legacy
+Appid: 1594890, Name: Starfighter: Eclipse
+Appid: 1594910, Name: Keep Talk Until You Dead
+Appid: 1594930, Name: A Token War Soundtrack
+Appid: 1594950, Name: Overgrown
+Appid: 1594960, Name: Daydreamer 2
+Appid: 1594970, Name: BARBAROS
+Appid: 1594980, Name: Elixir of Life
+Appid: 1594990, Name: A Single Step
+Appid: 1595000, Name: Firelight Fantasy: Phoenix Crew
+Appid: 1595010, Name: Take Control
+Appid: 1595020, Name: Otteretto
+Appid: 1595030, Name: Bad Memories
+Appid: 1595050, Name: PBA Pro Bowling 2023
+Appid: 1595080, Name: We Are The Caretakers Soundtrack
+Appid: 1595090, Name: Swarming Planet
+Appid: 1595100, Name: МОЙ ПСИХОЛОГ | БОТ-Ассистент
+Appid: 1595110, Name: Xuhivan's Autonomous Cube
+Appid: 1595170, Name: Olympian Wars
+Appid: 1595180, Name: Crazy Gravity
+Appid: 1595190, Name: 另一种修仙
+Appid: 1595220, Name: EstradaBus HD Demo
+Appid: 1595230, Name: Lottery Center Simulator
+Appid: 1595240, Name: Astronarch Soundtrack
+Appid: 1595250, Name: Dirty Blood
+Appid: 1595270, Name: NOREN
+Appid: 1595280, Name: CardMaker
+Appid: 1595290, Name: PumPum
+Appid: 1594340, Name: Last Village
+Appid: 1594350, Name: Space Slurpies - Money Bags Slurp Skin
+Appid: 1594360, Name: War on Mars
+Appid: 1594370, Name: No Hope
+Appid: 1594390, Name: Gander National Park
+Appid: 1594400, Name: GAI Stops Auto: Right Version
+Appid: 1594410, Name: Hellevator
+Appid: 1594420, Name: Loving You Fully
+Appid: 1594440, Name: Give the People What They Want
+Appid: 1594450, Name: Detour Bus Demo
+Appid: 1594480, Name: Withdrawn
+Appid: 1594490, Name: ZeroChance
+Appid: 1594540, Name: Xanguito Aventura Demo
+Appid: 1594550, Name: EroPhone - 18+ Adult Only Content
+Appid: 1594560, Name: Chrome Switcher
+Appid: 1594570, Name: The treasure of civilization VR
+Appid: 1594580, Name: Experience x3 - Chroma Quaternion
+Appid: 1594581, Name: RP x3 - Chroma Quaternion
+Appid: 1594582, Name: Experience & RP x2 - Chroma Quaternion
+Appid: 1594583, Name: Damage x2 - Chroma Quaternion
+Appid: 1594610, Name: Woods of Death 2
+Appid: 1594630, Name: Soul at Stake - Back to night
+Appid: 1594631, Name: Soul at Stake - The spirit of man
+Appid: 1594640, Name: Sumire - Digital Art Book
+Appid: 1594650, Name: Border of her Heart 2 Demo
+Appid: 1594660, Name: ChikPack
+Appid: 1594690, Name: Mayhem on a Rainbow - VR
+Appid: 1594710, Name: Café International Playtest
+Appid: 1594720, Name: The Great Hide n Seek Expawdition
+Appid: 1594760, Name: Astro Sailor
+Appid: 1594770, Name: Neon GraVel Soundtrack
+Appid: 1594790, Name: Breaking earth
+Appid: 1594800, Name: Incaved
+Appid: 1593880, Name: SPECTEARED
+Appid: 1593910, Name: Mutant Alley - Virtual Reality Support
+Appid: 1593920, Name: Tombstone
+Appid: 1593930, Name: Destinies
+Appid: 1593950, Name: Don't Touch this Button!
+Appid: 1593980, Name: Multiworld
+Appid: 1593990, Name: Blacksmith Village
+Appid: 1594010, Name: Noah and Blackmagician
+Appid: 1594040, Name: Wreckreation
+Appid: 1594050, Name: CheeseCube Soundtrack
+Appid: 1594060, Name: Victory Heat Rally
+Appid: 1594070, Name: 天牢 -Tianlao Sokoban- Soundtrack
+Appid: 1594080, Name: 2076 Demo
+Appid: 1594090, Name: Ark Mobius
+Appid: 1594100, Name: My Insect Girl Can't Be This Cute
+Appid: 1594110, Name: Subluminal
+Appid: 1594120, Name: Dangerous! TOO SWEET!!
+Appid: 1594130, Name: Excidio the Kaiju Simulator
+Appid: 1594140, Name: Command:MO - Kashmir Fire
+Appid: 1594150, Name: Looking for Imago
+Appid: 1594160, Name: Hijack Overdrive Demo
+Appid: 1594170, Name: Rekindle
+Appid: 1594200, Name: Heir Obscure
+Appid: 1594210, Name: Chrysalis
+Appid: 1594220, Name: Big Dick at the Beach
+Appid: 1594240, Name: ROUGH KUTS: The Last Man on Earth
+Appid: 1594250, Name: Trials of Fire Soundtrack
+Appid: 1594260, Name: The Art of Ashe - Digital Artbook and Map
+Appid: 1594290, Name: Abridge
+Appid: 1594310, Name: Midnight Ohota
+Appid: 1593390, Name: Lies Under Ice
+Appid: 1593410, Name: The Awakening of Mummies
+Appid: 1593420, Name: The Bronx
+Appid: 1593450, Name: The Darkside Detective: A Fumble in the Dark - Soundtrack
+Appid: 1593460, Name: ValveTestApp1593460
+Appid: 1593470, Name: The Unreal Story - Outbreak Season 2
+Appid: 1593480, Name: Bittersweet Birthday Demo
+Appid: 1593490, Name: Rescue Operation
+Appid: 1593500, Name: God of War
+Appid: 1593510, Name: Furry Finder
+Appid: 1593530, Name: Block Machine Demo
+Appid: 1593540, Name: Support The Developer
+Appid: 1593550, Name: Time Master Demo
+Appid: 1593570, Name: Zen Arts: Relaxing Pendulum Paint Simulator
+Appid: 1593580, Name: Newton's Life at Home Soundtrack
+Appid: 1593590, Name: ファイヤーエムブレイス～選ばれしチー牛の剣～
+Appid: 1593620, Name: Trouble Inn: Jonny's Room
+Appid: 1593630, Name: 灰色空间 Demo
+Appid: 1593650, Name: Dash and Fire
+Appid: 1593660, Name: Crime District
+Appid: 1593690, Name: Comet
+Appid: 1593700, Name: 墨之韵
+Appid: 1593720, Name: Experience x3 - Alphadia Genesis 2
+Appid: 1593721, Name: Damage x2 - Alphadia Genesis 2
+Appid: 1593722, Name: Full Restore - Alphadia Genesis 2
+Appid: 1593730, Name: Epiphany City: Prologue
+Appid: 1593750, Name: Creatures of Aether
+Appid: 1593760, Name: Chubby Bear Smash
+Appid: 1593780, Name: Organs Please
+Appid: 1593790, Name: iFVN-AVG文字游戏制作工具
+Appid: 1592900, Name: PrisonShow
+Appid: 1592910, Name: Pioneer set KS 2019
+Appid: 1592930, Name: Night Wanderings
+Appid: 1592950, Name: Deadlokk
+Appid: 1592960, Name: Super Jigsaw Puzzle: Generations - New Zealand
+Appid: 1592970, Name: Colorado Cocoa Club
+Appid: 1592980, Name: The Guardian
+Appid: 1592990, Name: Raccoon Arrival
+Appid: 1593000, Name: Colorado Cocoa Club Soundtrack
+Appid: 1593010, Name: The Store is Closed
+Appid: 1593030, Name: Terra Nil
+Appid: 1593060, Name: EstradaBus HD
+Appid: 1593080, Name: Romance of Raskya
+Appid: 1593100, Name: Earth Marines
+Appid: 1593110, Name: Wind of shuriken Demo
+Appid: 1593122, Name: Land of War - Thompson
+Appid: 1593123, Name: Land of War - Nagant Revolver
+Appid: 1593124, Name: Land of War - Saber
+Appid: 1593130, Name: Spritify
+Appid: 1593150, Name: Land of War: The Beginning Soundtrack
+Appid: 1593160, Name: Warp Tango
+Appid: 1593170, Name: Veil of Dust: A Homesteading Game
+Appid: 1593190, Name: Lost Islands
+Appid: 1593210, Name: Shinobi's Way - a jigsaw chess tale
+Appid: 1593220, Name: Jessie 'Boom' James - a jigsaw chess tale
+Appid: 1593230, Name: Beneath
+Appid: 1593260, Name: 浮动女孩
+Appid: 1593280, Name: 8089
+Appid: 1593310, Name: NEKOPARA - Catboys Paradise
+Appid: 1593330, Name: Wasteland 3: Cult of the Holy Detonation
+Appid: 1593350, Name: Increlution
+Appid: 1592450, Name: Apples and Asteroids
+Appid: 1592490, Name: Bloodless
+Appid: 1592520, Name: WitchSpring3 Re:Fine - The Story of Eirudy -
+Appid: 1592530, Name: Blub Emporium
+Appid: 1592540, Name: Loretta
+Appid: 1592550, Name: My Sweet Ants!
+Appid: 1592560, Name: WebCamStudio
+Appid: 1592570, Name: 合成大西瓜 | Big watermelon - Extend Package
+Appid: 1592580, Name: Offline
+Appid: 1592590, Name: Border of her Heart 2
+Appid: 1592600, Name: Beasties
+Appid: 1592610, Name: The Tram of Wishes
+Appid: 1592620, Name: 山海奇兵 Demo
+Appid: 1592630, Name: Warhammer: Vermintide 2 - Forgotten Relics Pack
+Appid: 1592640, Name: Sakura Alien
+Appid: 1592650, Name: Olobollo
+Appid: 1592690, Name: FindDark Demo
+Appid: 1592710, Name: Kolo
+Appid: 1592720, Name: Garbage Crew!
+Appid: 1592730, Name: Succubus - Unrated
+Appid: 1592740, Name: Railroad Ink Challenge
+Appid: 1592750, Name: Anode Heart
+Appid: 1592760, Name: Devil, Its me Demo
+Appid: 1592770, Name: Pecaminosa - Digital Artbook
+Appid: 1592780, Name: ELIF
+Appid: 1592800, Name: Bunny's Ban Soundtrack
+Appid: 1592810, Name: LSDriver 1+2 (Remastered Collection)
+Appid: 1592840, Name: COME INSIDE MY INNER WORLD
+Appid: 1592860, Name: Keezeh The Spector of Time
+Appid: 1592880, Name: Sokocat - Islands
+Appid: 1592890, Name: Outworlder Playtest
+Appid: 1591950, Name: Life-Winner Cong's Double Dragon Dream
+Appid: 1591960, Name: Randy Blaster 3D
+Appid: 1592010, Name: Fantasy Grounds - Starfinder RPG - Starfinder Galaxy Exploration Manual
+Appid: 1592020, Name: Demonsions: Industry
+Appid: 1592030, Name: Fantasy Grounds - Pathfinder 2 RPG - Pathfinder Society Scenario #2-05: Balancing the Scales
+Appid: 1592070, Name: Fantasy Grounds - Starfinder Adventure Path #37: The White Glove Affair (Fly Free or Die 4 of 6)
+Appid: 1592080, Name: Deep in the Forest Demo
+Appid: 1592090, Name: Coloring Pixels - Amusement Park Pack
+Appid: 1592100, Name: Evil Wizard
+Appid: 1592110, Name: Spirit Of The Island
+Appid: 1592120, Name: Paladin Dream
+Appid: 1592140, Name: Puzzle Dazzle 3D Demo
+Appid: 1592150, Name: Toy Tinker Simulator Demo
+Appid: 1592160, Name: Rainbow Reactor: Fusion
+Appid: 1592170, Name: Spirit Swap
+Appid: 1592180, Name: Shadownest
+Appid: 1592200, Name: EXP: War Trauma
+Appid: 1592220, Name: Redeliver OST (Support The Developer)
+Appid: 1592230, Name: Cards of the Dead
+Appid: 1592240, Name: Zoelie - SCAD Games Studio
+Appid: 1592250, Name: Super Jigsaw Puzzle: Generations - Colorful
+Appid: 1592260, Name: Metamorphos
+Appid: 1592270, Name: Crystal
+Appid: 1592280, Name: Selaco
+Appid: 1592310, Name: EchoBlade Demo
+Appid: 1592320, Name: Aztech Forgotten Gods
+Appid: 1592330, Name: SAMURAI WARRIORS 5 Trial version
+Appid: 1592340, Name: Underland: The Climb
+Appid: 1592350, Name: Destroy Geometric Shapes Soundtrack
+Appid: 1592360, Name: Kitten Burst
+Appid: 1592370, Name: Cinemoji: Oscar
+Appid: 1592390, Name: Driving Simulator 
+Appid: 1592420, Name: Marcella Moon: Curse of the Black Cat
+Appid: 1591440, Name: 中外名将对决
+Appid: 1591460, Name: 大西洲虚拟世界（Daschow Virtual World）
+Appid: 1591470, Name: I Am The Prosecutor: No Evidence? No Problem!
+Appid: 1591480, Name: 婚怨
+Appid: 1591490, Name: Distant Memoraĵo
+Appid: 1591500, Name: 猫头鹰和灯塔
+Appid: 1591510, Name: Ascent - The Space Game: Silicon Filter
+Appid: 1591520, Name: Clownfield 2042
+Appid: 1591530, Name: SAMURAI WARRIORS 5
+Appid: 1591540, Name: Hard Minus Classic Redux
+Appid: 1591590, Name: Traxion 2
+Appid: 1591620, Name: La-Mulana 2 -The Tower of Oannes-
+Appid: 1591630, Name: Bone Mayhem
+Appid: 1591650, Name: Go home, Go home?
+Appid: 1591660, Name: 冒险时光机
+Appid: 1591670, Name: Mark & Lara: Partners In Justice
+Appid: 1591690, Name: DEATHRUN TV
+Appid: 1591720, Name: JS Page Demo
+Appid: 1591730, Name: Ultreïa: Prologue
+Appid: 1591740, Name: Draco Knight Demo
+Appid: 1591760, Name: Undying Symphony
+Appid: 1591770, Name: Agent 64: Spies Never Die Demo
+Appid: 1591780, Name: AnyWay! - Idengrad Hills!
+Appid: 1591790, Name: Countdown Final Zone Demo
+Appid: 1591800, Name: Starlight X-2: Galactic Puzzles Demo
+Appid: 1591810, Name: Behind the Art and Magic of Chicken Police
+Appid: 1591820, Name: Liberty Fighters
+Appid: 1591830, Name: Windjammers 2 BETA
+Appid: 1591840, Name: Avoid The Demons
+Appid: 1591850, Name: Wednesday Basketball
+Appid: 1591860, Name: 审判者
+Appid: 1591870, Name: Drift Phonk 666
+Appid: 1591880, Name: Armor KSP1 2019
+Appid: 1591881, Name: Armor KSP2 2019
+Appid: 1591900, Name: My Universe - Interior Designer
+Appid: 1591910, Name: The Hurt in Secret
+Appid: 1591920, Name: PC Building Simulator - EVGA Workshop
+Appid: 1590950, Name: Namnokh
+Appid: 1590960, Name: Demon Skin - Original Soundtrack
+Appid: 1590970, Name: Woebegone Woods
+Appid: 1590980, Name: Car Looper Demo
+Appid: 1590990, Name: IRON GUARD VR Demo
+Appid: 1591030, Name: Ultimate Bomb Squad Demo
+Appid: 1591050, Name: Help me please
+Appid: 1591070, Name: Escape From The Forge
+Appid: 1591080, Name: IVRy Monado Tracker for SteamVR
+Appid: 1591110, Name: WWE 2K22 - MyRise Mega-Boost
+Appid: 1591130, Name: The Station: Escape Room
+Appid: 1591140, Name: Idle Roboto
+Appid: 1591150, Name: Paranormal Detective: Escape from the 90s
+Appid: 1591160, Name: SCP: Undeads Winter's
+Appid: 1591180, Name: Death Walk
+Appid: 1591190, Name: Experience the Energy: Take the Challenge
+Appid: 1591200, Name: Experience the Energy: Take the Tour
+Appid: 1591250, Name: Lo-fi Life
+Appid: 1591260, Name: Best Friend
+Appid: 1591270, Name: Garrison A Mercenary's Story Demo
+Appid: 1591280, Name: Skyjunk
+Appid: 1591290, Name: Tree Simulator 2022
+Appid: 1591300, Name: Dear Future
+Appid: 1591310, Name: World Racing '95
+Appid: 1591340, Name: Night Blade
+Appid: 1591360, Name: Slime Kingdom - An Unlikely Adventure!
+Appid: 1591370, Name: UNSIGHTED Demo
+Appid: 1591380, Name: Uncle Nook's Monster Emporium
+Appid: 1591390, Name: Metal Heads Official Soundtrack
+Appid: 1591410, Name: Into the Knight
+Appid: 1590551, Name: SCARLET NEXUS - Digital Artbook
+Appid: 1590560, Name: SCARLET NEXUS - Special Battle Attire Set -Red- 
+Appid: 1590561, Name: SCARLET NEXUS - Pre-Order Bundle
+Appid: 1590562, Name: SCARLET NEXUS - Additional Attachment "The Other"
+Appid: 1590563, Name: SCARLET NEXUS Bond Enhancement Pack 1
+Appid: 1590564, Name: SCARLET NEXUS Weapon Bundle
+Appid: 1590565, Name: SCARLET NEXUS - Brain Punk Bundle
+Appid: 1590566, Name: SCARLET NEXUS Bond Enhancement Pack 2
+Appid: 1590567, Name: SCARLET NEXUS Brain Eater Pack
+Appid: 1590570, Name: 外兽祭·兽人们的冒险酒馆
+Appid: 1590580, Name: MELTY BLOOD ARCHIVES
+Appid: 1590590, Name: The Game For Skippers - Bonus Story
+Appid: 1590600, Name: OPPAI Academy Big, Bouncy, Booby Babes!
+Appid: 1590610, Name: SCARLET NEXUS - Digital Soundtrack
+Appid: 1590640, Name: Savior of the Abyss
+Appid: 1590650, Name: 大禹治水 Flood Fighting Hero Demo
+Appid: 1590660, Name: Mr. Hopp's Playhouse 2
+Appid: 1590670, Name: Erotic Jigsaw Puzzle
+Appid: 1590680, Name: PandaSG
+Appid: 1590700, Name: My Military Life
+Appid: 1590710, Name: Insurgency: Sandstorm - Upriser Gear Set
+Appid: 1590711, Name: Insurgency: Sandstorm - Bad Day Gear Set
+Appid: 1590712, Name: Insurgency: Sandstorm - True Grit Weapon Skin Set
+Appid: 1590713, Name: Insurgency: Sandstorm - Bear Claw Weapon Skin Set
+Appid: 1590720, Name: The Dinosaurs Are Here
+Appid: 1590760, Name: Metal Slug Tactics
+Appid: 1590770, Name: Russian Pawn Store
+Appid: 1590780, Name: Orkana Conflict VR Demo
+Appid: 1590790, Name: 通灵神探：杀意
+Appid: 1590810, Name: Nearly Dead Demo
+Appid: 1590830, Name: Color Pixel Heroes - Expansion Pack 2
+Appid: 1590840, Name: Depths Of Horror: Mushroom Day
+Appid: 1590850, Name: DeadOS
+Appid: 1590860, Name: Monsters & Mortals - UK Creator Pack
+Appid: 1590870, Name: Craft & Survive
+Appid: 1590890, Name: Becoming Omega
+Appid: 1590900, Name: Drova - Teaser
+Appid: 1590910, Name: Forgive Me Father
+Appid: 1590920, Name: The Wave Story
+Appid: 1590930, Name: Demon Skin - HD Wallpapers
+Appid: 1590060, Name: Sigma Draconis Demo
+Appid: 1590070, Name: Project Hunter
+Appid: 1590080, Name: Color Souls
+Appid: 1590100, Name: Acras
+Appid: 1590130, Name: Car Drive
+Appid: 1590150, Name: Alone in the Office
+Appid: 1590160, Name: Liberté
+Appid: 1590170, Name: RPG Maker MV - Painterly Trees Asset Pack
+Appid: 1590171, Name: RPG Maker MV - Lovely Knights Character Assets
+Appid: 1590180, Name: Shillelagh
+Appid: 1590190, Name: Self-Delusion
+Appid: 1590200, Name: RPG Maker MZ - Painterly Trees Asset Pack
+Appid: 1590210, Name: RPG Maker MZ - Lovely Knights Character Assets
+Appid: 1590240, Name: Psych Demo
+Appid: 1590250, Name: Junkpunk: Arena
+Appid: 1590260, Name: Cube Space
+Appid: 1590270, Name: Partitas
+Appid: 1590280, Name: Fantasy Grounds - Star Battles: Orbital Sunrise Space Map Pack
+Appid: 1590300, Name: Fantasy Grounds - Dungeon Crawl Classics #82.5: Dragora's Dungeon
+Appid: 1590310, Name: Exo Demo
+Appid: 1590320, Name: Bro Falls: Ultimate Showdown
+Appid: 1590330, Name: Lasagna Boy
+Appid: 1590350, Name: His Journey Demo
+Appid: 1590360, Name: He Needs His Medicine
+Appid: 1590370, Name: Spirit Bounce Demo
+Appid: 1590380, Name: Bonhomme 7 Heures
+Appid: 1590400, Name: The hardest game in the universe-Kangel
+Appid: 1590420, Name: 悠悠猴大冒险
+Appid: 1590430, Name: Snow Daze: Redaze
+Appid: 1590450, Name: OmniGrav
+Appid: 1590500, Name: Before Began  开始之前
+Appid: 1590510, Name: Thearchy Soundtrack
+Appid: 1590520, Name: Neoverse - Super Hero Pack
+Appid: 1589590, Name: Dark Survival
+Appid: 1589600, Name: Delusion Demo
+Appid: 1589610, Name: The Frogs
+Appid: 1589620, Name: Gamer Girls (18+) Soundtrack
+Appid: 1589660, Name: Elwick
+Appid: 1589670, Name: Bullfrogs
+Appid: 1589680, Name: Torii
+Appid: 1589690, Name: Impossible Pixels Demo
+Appid: 1589710, Name: The Power Latch Kid
+Appid: 1589720, Name: BloodType
+Appid: 1589730, Name: Escape - The Speedrun Game
+Appid: 1589740, Name: Game Dev Masters Demo
+Appid: 1589780, Name: Green With Energy Demo
+Appid: 1589790, Name: After
+Appid: 1589800, Name: 24 Solar Terms Demo
+Appid: 1589830, Name: Lords of the Darkreign
+Appid: 1589840, Name: Suez Canal Simulator Demo
+Appid: 1589850, Name: Sky Goddess Ⅱ DLC-1
+Appid: 1589851, Name: Sky Goddess Ⅱ DLC-2
+Appid: 1589852, Name: Sky Goddess Ⅱ DLC-3
+Appid: 1589853, Name: Sky Goddess Ⅱ DLC-4
+Appid: 1589860, Name: MAYBE I CAN
+Appid: 1589870, Name: 咸鱼喵喵 Demo
+Appid: 1589880, Name: Tower Of Wishes
+Appid: 1589890, Name: 便利商店‪6
+Appid: 1589900, Name: 女巫与六便士 the sibyl and sixpence Demo
+Appid: 1589920, Name: Long Ago: A Puzzle Tale
+Appid: 1589940, Name: Don't Ask Succubus
+Appid: 1589950, Name: Primula Demo
+Appid: 1589960, Name: The Frogs Demo
+Appid: 1589970, Name: Colorize Inspect
+Appid: 1589980, Name: Long Ago: A Puzzle Tale Demo
+Appid: 1590000, Name: Tales of the Black Death
+Appid: 1590020, Name: LaserShotz
+Appid: 1590030, Name: Endless Furry Ping-Pong
+Appid: 1588990, Name: Tor Eternum Demo
+Appid: 1589010, Name: Newton's Life at Home
+Appid: 1589020, Name: Pornocrates
+Appid: 1589040, Name: Fruit Juice
+Appid: 1589070, Name: VR Bukkake
+Appid: 1589080, Name: Grim Tales: Trace in Time Collector's Edition
+Appid: 1589110, Name: Just Add Noise
+Appid: 1589120, Name: Above Snakes
+Appid: 1589130, Name: REPLIKATOR Demo
+Appid: 1589240, Name: Jigsaw Jolt: Neural Style 1
+Appid: 1589260, Name: Happy Z-Day
+Appid: 1589290, Name: Kitsu's Destiny
+Appid: 1589300, Name: LookForDanger
+Appid: 1589310, Name: 8Doors: Arum's Afterlife Adventure Soundtrack
+Appid: 1589330, Name: SH1-R0
+Appid: 1589340, Name: Solo ReflectioN!
+Appid: 1589350, Name: 天牢 -Tianlao Sokoban- Demo
+Appid: 1589360, Name: StarScraper
+Appid: 1589380, Name: Horatio Goes Snowboarding
+Appid: 1589390, Name: Leenie Boog Demo
+Appid: 1589410, Name: Bunny Factory
+Appid: 1589420, Name: Memorize Cards
+Appid: 1589430, Name: Polar Penguin
+Appid: 1589440, Name: Calculate It!
+Appid: 1589450, Name: Frogiee
+Appid: 1589460, Name: Little Fighters on Stream
+Appid: 1589470, Name: Tavern Keeper Simulator
+Appid: 1589480, Name: Inside Soccer
+Appid: 1589490, Name: MeiQi 2022
+Appid: 1589500, Name: Fate of Dynasty
+Appid: 1589520, Name: Acquiescence
+Appid: 1589530, Name: Zoeti Demo
+Appid: 1589540, Name: Whispers in the Dark
+Appid: 1589550, Name: Le Frenchie
+Appid: 1589560, Name: Box Cat Bash
+Appid: 1589580, Name: Small Town Terrors: Galdor's Bluff Collector's Edition
+Appid: 1588540, Name: SPECIAL FORCE SURVIVAL
+Appid: 1588560, Name: The Swordsmen X: Survival
+Appid: 1588570, Name: Lacuna: Prologue
+Appid: 1588580, Name: Little Party Legends
+Appid: 1588590, Name: Akyrikon VR
+Appid: 1588600, Name: Sorcs: Siege Chronicles
+Appid: 1588610, Name: Beers and Boomerangs
+Appid: 1588620, Name: ORIMON.1 - Bilfy & Krotroklon
+Appid: 1588640, Name: Naval Action - Travel Balloon
+Appid: 1588650, Name: Factory Manager Simulator
+Appid: 1588670, Name: Hammer & Potion
+Appid: 1588680, Name: Deep in the Forest
+Appid: 1588700, Name: Race me now
+Appid: 1588730, Name: Manascape
+Appid: 1588760, Name: Switchball HD
+Appid: 1588780, Name: Laser Droplets
+Appid: 1588790, Name: Puzzle Dazzle 3D
+Appid: 1588800, Name: Anvil Saga Demo
+Appid: 1588810, Name: Red Solstice 2: Survivors Soundtrack
+Appid: 1588820, Name: Red Solstice 2: Survivors - Digital Art Book
+Appid: 1588821, Name: Red Solstice 2: Survivors - Thanatos Armor Skin
+Appid: 1588830, Name: Naval Action - San Pedro
+Appid: 1588860, Name: Festival
+Appid: 1588870, Name: iblis
+Appid: 1588880, Name: Seductive Tombs
+Appid: 1588890, Name: Rogue Spirit Demo
+Appid: 1588910, Name: Peppy's Adventure
+Appid: 1588930, Name: Gamer Girls 18+: Artbook + Wallpaper
+Appid: 1588950, Name: Mind-Blowing Girls 2
+Appid: 1588970, Name: Mind-Blowing Girls 2 Arts
+Appid: 1588980, Name: Fantasy Grounds - World of Farland Campaign Setting
+Appid: 1588040, Name: Dungeon Clicker
+Appid: 1588050, Name: Village Defender
+Appid: 1588060, Name: Sato Dreams
+Appid: 1588070, Name: DuckMan
+Appid: 1588100, Name: Cat Knight
+Appid: 1588110, Name: The Sunken Hero
+Appid: 1588120, Name: SwapOut
+Appid: 1588130, Name: MAZE: A VR Adventure
+Appid: 1588140, Name: Monkey vs Dino
+Appid: 1588150, Name: The Phantom Fellows Demo
+Appid: 1588160, Name: Putin VS Zombies
+Appid: 1588180, Name: Wild Isles
+Appid: 1588190, Name: Shatter Keep
+Appid: 1588200, Name: Caught in Nowhere
+Appid: 1588220, Name: Terafall Demo
+Appid: 1588230, Name: Contact Me Demo
+Appid: 1588250, Name: Contract Killer
+Appid: 1588300, Name: Tower Alchemy
+Appid: 1588310, Name: Little Ghost Demo
+Appid: 1588320, Name: ラズベリーマッシュ Soundtrack
+Appid: 1588330, Name: Valley of Shadow Demo
+Appid: 1588340, Name: Riftbound
+Appid: 1588350, Name: Temple of Terror
+Appid: 1588360, Name: WhiteLily 2：梦醒少女 - 守护秩序的人偶心
+Appid: 1588370, Name: WhiteLily 2：梦醒少女 - 梦醒少女＆丽丽公主的精美壁纸
+Appid: 1588380, Name: Blaster Master Zero 3
+Appid: 1588390, Name: FaceWorld
+Appid: 1588400, Name: Spacelines from the Far Out - Captain's Prologue
+Appid: 1588430, Name: Color Pixel Heroes - Expansion Pack 1
+Appid: 1588460, Name: Little Traveler
+Appid: 1588500, Name: Rogue Sweeper
+Appid: 1588510, Name: Gaslamp Cases: The deadly Machine
+Appid: 1588520, Name: Survival Epoch
+Appid: 1587600, Name: Broken Veil
+Appid: 1587610, Name: Little drift
+Appid: 1587620, Name: Sniper Ghost Warrior Contracts 2 - Fire & Smoke Skin Pack
+Appid: 1587621, Name: Sniper Ghost Warrior Contracts 2 - Hail & Ice Skin Pack
+Appid: 1587622, Name: Sniper Ghost Warrior Contracts 2 - shroud DLC
+Appid: 1587623, Name: Sniper Ghost Warrior Contracts 2 - CYRILmp4 Weapon Skin
+Appid: 1587630, Name: 1 Hop
+Appid: 1587640, Name: Deceit - Spider Pack
+Appid: 1587660, Name: 奇迹世界 miracle world
+Appid: 1587680, Name: Marionette lab
+Appid: 1587690, Name: EZ2ON REBOOT : R (Test Server)
+Appid: 1587700, Name: The Adventures of Mr. Poop
+Appid: 1587710, Name: Fossil Corner
+Appid: 1587720, Name: Fantasy Dungeon
+Appid: 1587730, Name: TowerMancer Soundtrack
+Appid: 1587770, Name: The Temple Of
+Appid: 1587790, Name: Desert Parkour
+Appid: 1587800, Name: Queer and Chill
+Appid: 1587810, Name: Spell Swap
+Appid: 1587820, Name: Dark North
+Appid: 1587830, Name: Mayu: The Last of the Yaksha
+Appid: 1587860, Name: Let's Ride! Silver Buckle Stables
+Appid: 1587870, Name: Rise of Peles
+Appid: 1587880, Name: HexeD
+Appid: 1587910, Name: Cube Island
+Appid: 1587920, Name: Undead Development 2
+Appid: 1587930, Name: Flingleberries!
+Appid: 1587940, Name: DuelVox: Max Quality
+Appid: 1587950, Name: Jumpin' Tanks
+Appid: 1587970, Name: ArcticBoy Story
+Appid: 1587980, Name: Fantasy Grounds - D66 Compendium 2
+Appid: 1587990, Name: Aria Disconnect Demo
+Appid: 1588000, Name: Archer boy
+Appid: 1588020, Name: Guardians of Hyelore Demo
+Appid: 1588030, Name: Fantasy Grounds - MC11 Monstrous Compendium Forgotten Realms Appendix (2E)
+Appid: 1587190, Name: Puzzletronics Digital Infinite
+Appid: 1587200, Name: The OmniGallery
+Appid: 1587210, Name: Cowboys, Vampires, Pirates & Ghosts
+Appid: 1587220, Name: Annie and the Shadow Palace
+Appid: 1587240, Name: 피피숲의 연금술사
+Appid: 1587250, Name: Alchemist of Pipiforest Demo
+Appid: 1587260, Name: 归路：见证
+Appid: 1587270, Name: Misc. A Tiny Tale Demo
+Appid: 1587290, Name: 謎塔魔女
+Appid: 1587300, Name: The Islands
+Appid: 1587310, Name: Antonball Deluxe - The Ballbustin' Soundtrack
+Appid: 1587340, Name: Resilience 2043
+Appid: 1587350, Name: Build Molecules for Vick
+Appid: 1587360, Name: Lightedge
+Appid: 1587380, Name: Little Ghost
+Appid: 1587390, Name: Network
+Appid: 1587400, Name: MY HERO ONE'S JUSTICE 2 Celebration Wear Set
+Appid: 1587420, Name: Tetragon Demo
+Appid: 1587430, Name: Flappy Bat
+Appid: 1587440, Name: Atonal Dreams
+Appid: 1587450, Name: Waifu Discovered 2 - Exposed DLC
+Appid: 1587460, Name: The Rocket Stop Incident
+Appid: 1587470, Name: 仙魔传奇搜神记
+Appid: 1587490, Name: Unending War: Grand-Strategy Chess
+Appid: 1587500, Name: SUPER DUPER ISLAND ADVENTURE
+Appid: 1587520, Name: Clouzy! Demo
+Appid: 1587530, Name: Rescue Friends Solitaire
+Appid: 1587560, Name: 100 hidden cats
+Appid: 1587570, Name: Completely Stretchy and Uncomfortably Sticky
+Appid: 1587580, Name: The Kingdom of Galanor Playtest
+Appid: 1587590, Name: Sniper Ghost Warrior Contracts 2 - Crossbow Carnage Weapons Pack
+Appid: 1587591, Name: Sniper Ghost Warrior Contracts 2 - Safari Sadist Skin Pack
+Appid: 1587592, Name: Sniper Ghost Warrior Contracts 2 - Savage Serpents Skin Pack
+Appid: 1587593, Name: Sniper Ghost Warrior Contracts 2 - Claws are Out Skin Pack
+Appid: 1587594, Name: Sniper Ghost Warrior Contracts 2 - Wild Thing Skin Pack
+Appid: 1587595, Name: Sniper Ghost Warrior Contracts 2 - ANGLO Skin Pack
+Appid: 1587596, Name: Sniper Ghost Warrior Contracts 2 - EURO Skin Pack
+Appid: 1587597, Name: Sniper Ghost Warrior Contracts 2 - ASIA Skin Pack
+Appid: 1587598, Name: Sniper Ghost Warrior Contracts 2 - Flesh & Blood Skin Pack 
+Appid: 1587599, Name: Sniper Ghost Warrior Contracts 2 - Skull & Bones Skin Pack 
+Appid: 1586691, Name: TramSim DLC Betriebsbahnhof Wien
+Appid: 1586700, Name: Marsupilami: Hoobadventure
+Appid: 1586710, Name: Cafe Maid - Hentai Edition
+Appid: 1586720, Name: Pillow Bellow Demo
+Appid: 1586740, Name: RATOMON
+Appid: 1586750, Name: Two Strikes
+Appid: 1586770, Name: Fantasy Grounds - Pathfinder RPG - Pathfinder Bounty #6: The Road from Otari
+Appid: 1586780, Name: Last Command - Crowdfunding Pack
+Appid: 1586820, Name: The List
+Appid: 1586830, Name: Toy Tinker Simulator: BETA
+Appid: 1586840, Name: ppL: The Animated Adventures
+Appid: 1586850, Name: Hard Block Girls
+Appid: 1586880, Name: Essays on Empathy
+Appid: 1586890, Name: Legend of Azcarth
+Appid: 1586920, Name: Freedom's eye
+Appid: 1586930, Name: Extreme racing
+Appid: 1586970, Name: Install Wizard
+Appid: 1586980, Name: Wilma's Dreams
+Appid: 1586990, Name: Alterium Shift
+Appid: 1587000, Name: Wind Peaks Demo
+Appid: 1587020, Name: Parapsychology
+Appid: 1587080, Name: Gallantry Demo
+Appid: 1587090, Name: The Journey - Episode 1: Whatever This Is
+Appid: 1587120, Name: Bartender Hustle Demo
+Appid: 1587150, Name: Katja's Abyss: Tactics Soundtrack
+Appid: 1587170, Name: A World To Win
+Appid: 1587180, Name: A Pinch of Magic
+Appid: 1586200, Name: Fantasy Grounds - Pathfinder RPG - Pathfinder Bounty #5: Witch's Winter Holiday
+Appid: 1586220, Name: Click to Eleven
+Appid: 1586230, Name: Jogward
+Appid: 1586240, Name: Pro Deer Hunting 2
+Appid: 1586250, Name: Knockout City™ Demo - Entitlement
+Appid: 1586270, Name: Katja's Abyss: Tactics
+Appid: 1586290, Name: CARNAL
+Appid: 1586330, Name: WeeRPG
+Appid: 1586340, Name: A New Leaf: Memories
+Appid: 1586350, Name: NEOGEO POCKET COLOR SELECTION Vol.1 Steam Edition
+Appid: 1586370, Name: Anopek
+Appid: 1586380, Name: Lotus Bloom Demo
+Appid: 1586440, Name: Smelter's Mix Tape - The Official Soundtrack
+Appid: 1586450, Name: World's End Club Demo
+Appid: 1586470, Name: Happy Animal Testing
+Appid: 1586500, Name: The Floor is [Blank] Demo
+Appid: 1586510, Name: Clessidra
+Appid: 1586530, Name: Super Soccer Blast: America vs Europe
+Appid: 1586540, Name: Super TECHPACK
+Appid: 1586560, Name: Easy Quiz Demo
+Appid: 1586570, Name: 勇者大冒险
+Appid: 1586580, Name: Narita Boy Soundtrack
+Appid: 1586600, Name: Eastward Soundtrack
+Appid: 1586620, Name: Robot.Start - Puzzle Game
+Appid: 1586630, Name: Jigsaw Foundry
+Appid: 1586650, Name: Pillow Bellow
+Appid: 1586660, Name: Midnight Stories
+Appid: 1586690, Name: TramSim DLC Type ULF
+Appid: 1585770, Name: International Space Banana Soundtrack
+Appid: 1585790, Name: CrossCode Manlea Skin
+Appid: 1585810, Name: SnowRunner - Anniversary DLC
+Appid: 1585811, Name: SnowRunner - TATRA Dual Pack
+Appid: 1585812, Name: SnowRunner - Season 5: Build & Dispatch
+Appid: 1585813, Name: SnowRunner - Season 6: Haul & Hustle
+Appid: 1585814, Name: SnowRunner - Season 7: Compete & Conquer
+Appid: 1585815, Name: SnowRunner - Season 8: Grand Harvest
+Appid: 1585816, Name: SnowRunner - GMC Brigadier
+Appid: 1585830, Name: Quickly, Quackley!
+Appid: 1585850, Name: Car Mechanic Simulator 2021 Demo
+Appid: 1585860, Name: Gun Devil Soundtrack
+Appid: 1585870, Name: Crossout — Assault Force: Bravo-6
+Appid: 1585890, Name: Incarnata: Dormant stories Playtest
+Appid: 1585900, Name: Dorfromantik Soundtrack Vol.1
+Appid: 1585910, Name: Roll
+Appid: 1585920, Name: Don't Blink
+Appid: 1585930, Name: Pure Bowl VR
+Appid: 1585940, Name: Totally Reliable Delivery Service Playtest
+Appid: 1585990, Name: Darkwaronline
+Appid: 1586010, Name: Dream Catchers
+Appid: 1586030, Name: Necromancer : Winter Demo
+Appid: 1586040, Name: Trails and Traces: The Tomb of Thomas Tew
+Appid: 1586050, Name: CyberSex 2069
+Appid: 1586060, Name: 只是一座楼 Soundtrack
+Appid: 1586070, Name: Wild Runs [beta]
+Appid: 1586080, Name: Hunt: Showdown - The Wolf at the Door
+Appid: 1586090, Name: The Most Boring Life Ever
+Appid: 1586100, Name: Root: The Riverfolk Expansion
+Appid: 1586110, Name: Temple of HUE
+Appid: 1586120, Name: Becoming
+Appid: 1586140, Name: Fantasy Grounds - Pathfinder RPG - Pathfinder Bounty #2: Blood of the Beautiful
+Appid: 1586150, Name: Ephesus
+Appid: 1586170, Name: Fantasy Grounds - Pathfinder 2 RPG - Pathfinder Bounty #3: Shadows and Scarecrows
+Appid: 1586180, Name: Revhead - Convertible Pack
+Appid: 1585310, Name: Restart Zero
+Appid: 1585330, Name: Survival Z
+Appid: 1585340, Name: Stellar Raid
+Appid: 1585350, Name: Cooperative Chess
+Appid: 1585360, Name: Live/Wire
+Appid: 1585370, Name: Throb of Lovegirl: A Ero Waifu TD
+Appid: 1585380, Name: R-Type Final 2 - DLC Set 1
+Appid: 1585381, Name: R-Type Final 2 - DLC Set 2
+Appid: 1585382, Name: R-Type Final 2 - DLC Set 3
+Appid: 1585390, Name: Code Zero
+Appid: 1585400, Name: Gjallarhorn
+Appid: 1585440, Name: They Always Run
+Appid: 1585450, Name: Furry Shakespeare: To Date Or Not To Date Spooky Cat Girls?
+Appid: 1585460, Name: Furry Shakespeare: Oops! All Dragons!
+Appid: 1585490, Name: 当火车鸣笛三秒 Demo
+Appid: 1585500, Name: Jay's Walkin'
+Appid: 1585510, Name: Hyperspace : Metal Universe
+Appid: 1585550, Name: Shutter Nyang Soundtrack
+Appid: 1585580, Name: Sky Goddess Ⅱ
+Appid: 1585590, Name: VirtualRehabART4Health
+Appid: 1585600, Name: Himeko Sutori Soundtrack
+Appid: 1585610, Name: 大航海時代30周年記念 サウンドトラック全曲集
+Appid: 1585620, Name: Wizardry: Prisoners of the Battles & The Five Ordeals Audio Collection
+Appid: 1585640, Name: Aquillanto
+Appid: 1585650, Name: OrbWars
+Appid: 1585660, Name: DIRECT shot
+Appid: 1585670, Name: 仙劍奇俠傳二 原聲音樂精選集
+Appid: 1585680, Name: Mini Crafty
+Appid: 1585720, Name: Cliffsides
+Appid: 1585730, Name: Backbeat
+Appid: 1585750, Name: Dwarves: build and survive
+Appid: 1748400, Name: Starry Moon Island
+Appid: 1748410, Name:  MONSTER HUNTER RISE - Pre-order bonus Add-on Content
+Appid: 1748411, Name: MONSTER HUNTER RISE Deluxe Kit
+Appid: 1748420, Name: The Break-In Demo
+Appid: 1748440, Name: Starry Moon Island Out Of Control MP01
+Appid: 1748441, Name: Starry Moon Island Out Of Control MP02
+Appid: 1748442, Name: Starry Moon Island Out Of Control MP03
+Appid: 1748443, Name: Starry Moon Island Out Of Control MP04
+Appid: 1748444, Name: Starry Moon Island Out Of Control MP05
+Appid: 1748445, Name: Starry Moon Island Out Of Control MP06
+Appid: 1748446, Name: Starry Moon Island Out Of Control MP07
+Appid: 1748447, Name: Starry Moon Island Out Of Control MP08
+Appid: 1748448, Name: Starry Moon Island Out Of Control MP09
+Appid: 1748449, Name: Starry Moon Island Out Of Control MP10
+Appid: 1748450, Name: Sword of Hypotenuse Soundtrack
+Appid: 1748460, Name: Starry Moon Island Red Snake MP01
+Appid: 1748461, Name: Starry Moon Island Red Snake MP02
+Appid: 1748462, Name: Starry Moon Island Red Snake MP03
+Appid: 1748463, Name: Starry Moon Island Red Snake MP04
+Appid: 1748464, Name: Starry Moon Island Red Snake MP05
+Appid: 1748465, Name: Starry Moon Island Red Snake MP06
+Appid: 1748466, Name: Starry Moon Island Red Snake MP07
+Appid: 1748467, Name: Starry Moon Island Red Snake MP08
+Appid: 1748468, Name: Starry Moon Island Red Snake MP09
+Appid: 1748469, Name: Starry Moon Island Red Snake MP10
+Appid: 1748470, Name: Starry Moon Island Star Ocean MP01
+Appid: 1748471, Name: Starry Moon Island Star Ocean MP02
+Appid: 1748472, Name: Starry Moon Island Star Ocean MP03
+Appid: 1748473, Name: Starry Moon Island Star Ocean MP04
+Appid: 1748474, Name: Starry Moon Island Star Ocean MP05
+Appid: 1748475, Name: Starry Moon Island Star Ocean MP06
+Appid: 1748476, Name: Starry Moon Island Star Ocean MP07
+Appid: 1748477, Name: Starry Moon Island Star Ocean MP08
+Appid: 1748478, Name: Starry Moon Island Star Ocean MP09
+Appid: 1748479, Name: Starry Moon Island Star Ocean MP10
+Appid: 1748480, Name: Starry Moon Island Break Out MP01
+Appid: 1748481, Name: Starry Moon Island Break Out MP02
+Appid: 1748482, Name: Starry Moon Island Break Out MP03
+Appid: 1748483, Name: Starry Moon Island Break Out MP04
+Appid: 1748484, Name: Starry Moon Island Break Out MP05
+Appid: 1748485, Name: Starry Moon Island Break Out MP06
+Appid: 1748486, Name: Starry Moon Island Break Out MP07
+Appid: 1748487, Name: Starry Moon Island Break Out MP08
+Appid: 1748488, Name: Starry Moon Island Break Out MP09
+Appid: 1748489, Name: Starry Moon Island Break Out MP10
+Appid: 1748490, Name: Jackpot Bennaction - B03 : Discover The Mystery Combination
+Appid: 1748500, Name: Starry Moon Island Mobile Stronghold MP01
+Appid: 1748501, Name: Starry Moon Island Mobile Stronghold MP02
+Appid: 1748502, Name: Starry Moon Island Mobile Stronghold MP03
+Appid: 1747940, Name: Neon Arena
+Appid: 1747950, Name: Rebel Inc: Escalation - Dollars & Disasters
+Appid: 1747960, Name: Planet Zoo: North America Animal Pack
+Appid: 1747980, Name: RedShip
+Appid: 1747990, Name: Stirring Abyss Soundtrack
+Appid: 1748000, Name: Fastest Hands In The WASD: Official Soundtrack 2
+Appid: 1748020, Name: Kusari Kingdom
+Appid: 1748030, Name: Dextram Demo
+Appid: 1748040, Name: Recolit Demo
+Appid: 1748050, Name: A Sinful Camp
+Appid: 1748060, Name: Starcross Starcade Special
+Appid: 1748070, Name: Storage Chase
+Appid: 1748090, Name: Juicy Bois: Fashion & Conflict
+Appid: 1748100, Name: Freedom Farming - The American Way
+Appid: 1748170, Name: Fiasco Restoration and Repair
+Appid: 1748180, Name: Unsung Empires: The Cholas (Playable Demo)
+Appid: 1748210, Name: Lovely Animal Stories
+Appid: 1748220, Name: Rocklen Playtest
+Appid: 1748240, Name: Rectitude
+Appid: 1748250, Name: Only Evil Remains
+Appid: 1748260, Name: Circuit City
+Appid: 1748280, Name: Bible X
+Appid: 1748290, Name: Hardcore Cruising: A Sci-Fi Gay Sex Cruise!
+Appid: 1748300, Name: Dear Monster
+Appid: 1748310, Name: Octofight Escape
+Appid: 1748340, Name: Finding Home
+Appid: 1748370, Name: The Hunt
+Appid: 1748380, Name: Our Brotherly War
+Appid: 1748390, Name: Rocket Bot Royale
+Appid: 1747420, Name: IRON GUARD Soundtrack
+Appid: 1747430, Name: Bomberpet
+Appid: 1747440, Name: Rocket Jump
+Appid: 1747450, Name: 成土市的我 CTCity
+Appid: 1747460, Name: Best Month Ever! Demo
+Appid: 1747470, Name: Road Diner Simulator
+Appid: 1747480, Name: Hoplegs DLC
+Appid: 1747490, Name: Fantasy Match Puzzle
+Appid: 1747500, Name: Crom: Journey of Conquest
+Appid: 1747520, Name: Yuzi Lims: Puzzle
+Appid: 1747560, Name: Chronicles of 2 Heroes: Amaterasu's Wrath
+Appid: 1747570, Name: Crazy Athletics - Summer Sports & Games
+Appid: 1747590, Name: Kenopsia
+Appid: 1747620, Name: Crazy Athletics - Summer Sports & Games Soundtrack
+Appid: 1747630, Name: For The Hive
+Appid: 1747650, Name: The Darkest Tales — Into the Nightmare
+Appid: 1747660, Name: Mother of All Secrets
+Appid: 1747670, Name: Jewel Match Twilight 3 Collector's Edition
+Appid: 1747680, Name: Faraway: Jungle Escape
+Appid: 1747690, Name: Faraway: Arctic Escape
+Appid: 1747710, Name: HentaiGothicGirl - Wallpapers
+Appid: 1747720, Name: Silent Sector Demo
+Appid: 1747750, Name: Flyland Wars: 3 Model Trains
+Appid: 1747760, Name: Momodora: Moonlit Farewell
+Appid: 1747770, Name: Trail of Ayash Playtest
+Appid: 1747780, Name: Hentai Girls Sliding Puzzle - ArtBook
+Appid: 1747790, Name: Catellite-609: feline space adventure
+Appid: 1747800, Name: Legendary Mahjong 2
+Appid: 1747810, Name: X-Plane 11 - Add-on: Aerosoft - Airport Kassel
+Appid: 1747820, Name: Crom: Journey of Conquest Demo
+Appid: 1747840, Name: BetterRecorder - Record Screen, Video and Audio
+Appid: 1747850, Name: Blocks Must Fall!
+Appid: 1747860, Name: Halloween Night
+Appid: 1747880, Name: Idle Pins Playtest
+Appid: 1747890, Name: Demon Turf: Neon Splash
+Appid: 1746890, Name: Kingdom Fall, Dawn of the Druid
+Appid: 1746900, Name: Politicians for Clip maker
+Appid: 1746910, Name: Hack Grid - Master Levels
+Appid: 1746920, Name: Claydo
+Appid: 1746970, Name: Cat Clicker
+Appid: 1746980, Name: RAIN IN THE ABYSS
+Appid: 1747030, Name: The Trials
+Appid: 1747050, Name: Sam & Max: Beyond Time and Space
+Appid: 1747080, Name: Neeron: The Blade of Nature
+Appid: 1747100, Name: Eclipse Soundtrack
+Appid: 1747110, Name: Base Wars
+Appid: 1747130, Name: Mandinga-A Tale fo Banzo - Wallpapers
+Appid: 1747140, Name: Henchman Story Soundtrack
+Appid: 1747150, Name: Jackpot Bennaction - B02 : Discover The Mystery Combination
+Appid: 1747160, Name: Pornocrates: Osiris's Seed
+Appid: 1747180, Name: Sheepy: A Short Adventure Demo
+Appid: 1747210, Name: Escape From Planet Aelea
+Appid: 1747220, Name: Neverspring Chronicles
+Appid: 1747260, Name: Survival Quiz CITY Visitor's Pass
+Appid: 1747300, Name: Selobus Fantasy
+Appid: 1747310, Name: Catana
+Appid: 1747340, Name: Hentai Girls Sliding Puzzle
+Appid: 1747350, Name: TOEM Original Soundtrack
+Appid: 1747370, Name: Gpi
+Appid: 1746400, Name: Westmark Legacy
+Appid: 1746410, Name: Last Days of Lazarus Demo
+Appid: 1746420, Name: Ripple 涟
+Appid: 1746440, Name: Mirror Layers: Escape Room Prologue
+Appid: 1746450, Name: Sadness Of Valor Demo
+Appid: 1746470, Name: Adventure In Aellion - Anniversary Gift
+Appid: 1746500, Name: AsMagnet
+Appid: 1746520, Name: Idiotic The Game
+Appid: 1746530, Name: Confessions at Candlewood Lake
+Appid: 1746540, Name: 游戏：异星
+Appid: 1746550, Name: Between Time: Escape Room Soundtrack
+Appid: 1746560, Name: Blacken Slash
+Appid: 1746580, Name: PAYDAY 2: Jiu Feng Smuggler Pack 3
+Appid: 1746590, Name: Crystal Story Dawn of Dusk
+Appid: 1746600, Name: Monster Tribe Demo
+Appid: 1746610, Name: Confessions at Candlewood Lake Soundtrack
+Appid: 1746620, Name: Where is Paradise?
+Appid: 1746630, Name: 69 Erika Love
+Appid: 1746640, Name: 邪恶勇者
+Appid: 1746660, Name: Space Ballers
+Appid: 1746670, Name: Flappy Shooter Demo
+Appid: 1746690, Name: Fantasy Sliding Puzzle - ArtBook
+Appid: 1746700, Name: The Alchemist Shop: An Apprentice's Life
+Appid: 1746730, Name: Hidden Objects - Cartoon Fantasy
+Appid: 1746740, Name: Master of the Wizards Demo
+Appid: 1746760, Name: BOOMER SLAYERS
+Appid: 1746770, Name: The Chicken's Fall
+Appid: 1746780, Name: Savior of Light 
+Appid: 1746830, Name: Sailing Stone
+Appid: 1746840, Name: STHELL Demo
+Appid: 1746850, Name: Savior of Light Demo
+Appid: 1746860, Name: The Elder Scrolls V: Skyrim Anniversary Upgrade
+Appid: 1746870, Name: Serene Asylum
+Appid: 1745880, Name: Zippo
+Appid: 1745890, Name: Voidwalkers - Hell's Gate Character Editor
+Appid: 1745900, Name: Fruit Ninja VR 2 Demo
+Appid: 1745920, Name: 征服者之王
+Appid: 1745930, Name: Her Jentle Hi-ness Demo
+Appid: 1745940, Name: RPG Sounds - On Ancient Sands - Sound Pack
+Appid: 1745960, Name: Circuit Breaker
+Appid: 1745970, Name: GoonyaFighter - Additional character: Uiro
+Appid: 1745980, Name: 升官模拟器
+Appid: 1745990, Name: Lost but Lucid
+Appid: 1746030, Name: 山河旅探
+Appid: 1746040, Name: Technikiller
+Appid: 1746080, Name: You are a slave!
+Appid: 1746110, Name: 人中怪物多人版
+Appid: 1746120, Name: Halloween Trouble 3
+Appid: 1746130, Name: Onmyoji in the Otherworld: Sayaka's Story
+Appid: 1746150, Name: Nosos
+Appid: 1746210, Name: 日记簿
+Appid: 1746220, Name: Lonely Mountains: Downhill - Riley's Return
+Appid: 1746230, Name: Too Many Humans
+Appid: 1746260, Name: Trainz 2019 DLC - Centrella Sub Division
+Appid: 1746280, Name: Ball Ranger
+Appid: 1746290, Name: Animation Studio Manager Playtest
+Appid: 1746300, Name: Remy Raccoon and the Lost Temple Demo
+Appid: 1746320, Name: Graduated Playtest
+Appid: 1746330, Name: TFM: The First Men Playtest
+Appid: 1746340, Name: Poop Plague in Fairyland
+Appid: 1746350, Name: Waiting For The Raven Soundtrack
+Appid: 1746360, Name: Graduated Demo
+Appid: 1746370, Name: DUMB: Treasure
+Appid: 1745430, Name: Beasts of Burden
+Appid: 1745460, Name: Festival Tycoon - Supporter Package
+Appid: 1745470, Name: GRID Legends - Deluxe Upgrade
+Appid: 1745471, Name: GRID Legends: Mechanic Pass
+Appid: 1745472, Name: GRID Legends: Voltz Pack
+Appid: 1745473, Name: GRID Legends - Pre-Order Content
+Appid: 1745476, Name: GRID Legends: Rise of Ravenwest
+Appid: 1745477, Name: GRID Legends: Winter Bash
+Appid: 1745480, Name: Phantom Project
+Appid: 1745490, Name: Ragnar Demo
+Appid: 1745500, Name: Battle Bands Demo
+Appid: 1745510, Name: Lunacid
+Appid: 1745530, Name: Lost Awakening
+Appid: 1745540, Name: Super Toy Cars Offroad Demo
+Appid: 1745550, Name: Axilon: Legend of Artifacts - Prologue
+Appid: 1745560, Name: The oldest edda
+Appid: 1745620, Name: The Oath of The Dark Magic Queen
+Appid: 1745630, Name: Steel Rain - Dawn of the Machines Demo
+Appid: 1745640, Name: MACE: Mapinguari's Temple
+Appid: 1745650, Name: Dat Hentai Game
+Appid: 1745690, Name: Deluge: Threnody of Crashing Waves
+Appid: 1745700, Name: Impossible Slasher! Hack and Slash
+Appid: 1745710, Name: Cato, the cat
+Appid: 1745730, Name: Rogue Rising Demo
+Appid: 1745740, Name: Laserboy
+Appid: 1745750, Name: Occult Crime Police
+Appid: 1745760, Name: Brave Tales
+Appid: 1745770, Name: Soyuz Constructors Demo
+Appid: 1745780, Name: Substance 3D Modeler 2023
+Appid: 1745790, Name: City Zoomer
+Appid: 1745800, Name: Doom Work
+Appid: 1745810, Name: Scaredom
+Appid: 1745820, Name: Love Hentai and Puzzles: Dungeon Boobs
+Appid: 1745830, Name: Order Road Soundtrack
+Appid: 1745840, Name: Love Hentai and Puzzles: Cyberpunk Babes
+Appid: 1745860, Name: Speed Creators
+Appid: 1744970, Name: Petit Island
+Appid: 1744980, Name: X-Plane 11 - Add-on: Aerosoft - Society Islands XP - Bora Bora & Leeward Islands
+Appid: 1745020, Name: Cleromancy
+Appid: 1745030, Name: Falling Kwadrats
+Appid: 1745040, Name: History of Football World Cup
+Appid: 1745050, Name: Omen Fall
+Appid: 1745090, Name: Custodian: Beginning of the End Demo
+Appid: 1745140, Name: Sweet Desire 3
+Appid: 1745170, Name: Primitier
+Appid: 1745180, Name: Ravager Demo
+Appid: 1745190, Name: Against Ether
+Appid: 1745210, Name: Timewell: Trail of Celestes
+Appid: 1745220, Name: Mr.DomusMundi
+Appid: 1745230, Name: Age of Ascent Playtest
+Appid: 1745240, Name: KEMONOPOLY
+Appid: 1745260, Name: Lady and the Papyrus
+Appid: 1745270, Name: SCP: Doki Doki Anomaly Demo
+Appid: 1745280, Name: Magitek VR
+Appid: 1745310, Name: 與經紀人戀愛是絕對禁止！
+Appid: 1745340, Name: WhenNightComes
+Appid: 1745350, Name: Clash of the Metal
+Appid: 1745360, Name: Dynacat
+Appid: 1745370, Name: Ragnar
+Appid: 1745380, Name: UNDER the WATER
+Appid: 1745390, Name: High Tech Low Life®
+Appid: 1745410, Name: Skattered Dream
+Appid: 1744640, Name: Nineteen
+Appid: 1744650, Name: Iris Covenant –Song of the Forgotten Heroes–
+Appid: 1744670, Name: Back 4 Boobs: Sakura's Escape
+Appid: 1744690, Name: Uncle Nook's Monster Emporium Demo
+Appid: 1744700, Name: Trainz 2019 DLC - Rodnye Prostory Route
+Appid: 1744720, Name: Crypt of the Gods Demo
+Appid: 1744730, Name: Firebird: Legend of the Crystal Goddesses Demo
+Appid: 1744740, Name: Born in Blood
+Appid: 1744750, Name: 东方求闻音录
+Appid: 1744760, Name: The Adventures of Detective Bron
+Appid: 1744770, Name: Rocklen
+Appid: 1744780, Name: DRAGON BALL FIGHTERZ - Android 21 (Lab Coat)
+Appid: 1744790, Name: Match Three Pirates II
+Appid: 1744810, Name: BLUE REFLECTION: Second Light - Bunny Ear Headband - Accessory
+Appid: 1744811, Name: BLUE REFLECTION: Second Light - Summer Bikini - Costume for Ao
+Appid: 1744812, Name: BLUE REFLECTION: Second Light - Hoshinomiya Extreme Makeover Swimsuit - Costume Set
+Appid: 1744813, Name: BLUE REFLECTION: Second Light - Uniform Alt. Color - Costume Set
+Appid: 1744814, Name: BLUE REFLECTION: Second Light - Extreme School Makeover Kit
+Appid: 1744815, Name: BLUE REFLECTION: Second Light - Jump Start Fragment Set
+Appid: 1744816, Name: BLUE REFLECTION: Second Light - Special Photo Frame - Bulletin Board
+Appid: 1744817, Name: BLUE REFLECTION: Second Light - Sunflower Headband & Summer Sunglasses
+Appid: 1744818, Name: BLUE REFLECTION: Second Light - Season Pass
+Appid: 1744819, Name: BLUE REFLECTION: Second Light - Hoshinomiya Uniform - Costume Set
+Appid: 1744820, Name: Flibbles
+Appid: 1744830, Name: BLUE REFLECTION: Second Light - Costume Set - Hospitable Kitties
+Appid: 1744831, Name: BLUE REFLECTION: Second Light - Ao Costume - Hospitable Kitty
+Appid: 1744832, Name: BLUE REFLECTION: Second Light - Kokoro, Kirara & Hiori Costumes - Hospitable Kitties
+Appid: 1744833, Name: BLUE REFLECTION: Second Light - Rena, Hinako & Uta Costumes - Hospitable Kitties
+Appid: 1744834, Name: BLUE REFLECTION: Second Light - Yuki, Shiho & Mio Costumes - Hospitable Kitties
+Appid: 1744835, Name: BLUE REFLECTION: Second Light - Crafting Function - Ether Synthesis
+Appid: 1744836, Name: BLUE REFLECTION: Second Light - Additional Map - Hidden Southern Island
+Appid: 1744837, Name: BLUE REFLECTION: Second Light - Costume Set - Beachside Puppies
+Appid: 1744838, Name: BLUE REFLECTION: Second Light - Ao Costume - Beachside Puppy
+Appid: 1744839, Name: BLUE REFLECTION: Second Light - Kokoro, Kirara & Hiori Costumes - Beachside Puppies
+Appid: 1744840, Name: BLUE REFLECTION: Second Light - Rena, Hinako & Uta Costumes - Beachside Puppies
+Appid: 1744841, Name: BLUE REFLECTION: Second Light - Yuki, Shiho & Mio Costumes - Beachside Puppies
+Appid: 1744842, Name: BLUE REFLECTION: Second Light - School Development Facility - Summer Night Vacation
+Appid: 1744843, Name: BLUE REFLECTION: Second Light - Additional Map - Atelier Ryza Collab Dungeon
+Appid: 1744850, Name: Hexoplanet
+Appid: 1744870, Name: The Chrono Jotter Original Sound Track
+Appid: 1744880, Name: Nodyssey
+Appid: 1744920, Name: ドロボー幼稚園 Playtest
+Appid: 1744180, Name: Demons of Asteborg Demo
+Appid: 1744190, Name: aton Playtest
+Appid: 1744200, Name: City Legends: The Curse of the Crimson Shadow Collector's Edition
+Appid: 1744230, Name: Kula - DLC Utvidelsespakke
+Appid: 1744240, Name: Malmyr Playtest
+Appid: 1744260, Name: Sprite sheet maker for Clip maker
+Appid: 1744270, Name: Indigo Loop
+Appid: 1744290, Name: Wasteland Warden
+Appid: 1744300, Name: Dogs Organized Neatly Demo
+Appid: 1744310, Name: Furry Shades of Gay - Supporter Art Pack
+Appid: 1744330, Name: No More Heroes 3
+Appid: 1744350, Name: Project Create
+Appid: 1744360, Name: CANNON Soundtrack
+Appid: 1744370, Name: UnMetal - Creator Pack
+Appid: 1744380, Name: Richard West and the Golden Mask
+Appid: 1744390, Name: Shop Tycoon Demo
+Appid: 1744400, Name: Jujubos Puzzle
+Appid: 1744410, Name: The Artful Escape - Original Soundtrack
+Appid: 1744420, Name: Halloween Memory: Reborn
+Appid: 1744430, Name: Fairy Godmother Stories: Miraculous Dream Collector's Edition
+Appid: 1744450, Name: Indirection
+Appid: 1744460, Name: Soul Climb
+Appid: 1744470, Name: Guns and Grapples Demo
+Appid: 1744510, Name: Ballin'
+Appid: 1744540, Name: Wife Quest - Art Book
+Appid: 1744550, Name: Skullgirls: Umbrella
+Appid: 1744560, Name: Wife Quest Soundtrack
+Appid: 1744580, Name: EVAN QUEST
+Appid: 1744600, Name: Dodge It! - Gas Mask
+Appid: 1744601, Name: Dodge It! - 3D Glasses V2
+Appid: 1744610, Name: Prime Directive
+Appid: 1744620, Name: Dance of Cubes
+Appid: 1744630, Name: Seance
+Appid: 1743710, Name: 100 Doors - Escape from Prison
+Appid: 1743720, Name: Typer Hero
+Appid: 1743730, Name: SIR, YOU ARE BEING HUNTED: REINVENTED EDITION
+Appid: 1743770, Name: Propnight Public Test
+Appid: 1743780, Name: Scuffed Party
+Appid: 1743790, Name: Dip The Frog
+Appid: 1743810, Name: The forgotten phobia
+Appid: 1743820, Name: Orph - The Lost Boy
+Appid: 1743830, Name: One Military Camp
+Appid: 1743850, Name: HYPER DEMON
+Appid: 1743870, Name: Myriads: Renaissance Demo
+Appid: 1743920, Name: Make Your Kingdom Playtest
+Appid: 1743930, Name: Froggo Swing 'n Grapple
+Appid: 1743940, Name: 誰是犯案者 Who is the Criminal
+Appid: 1744000, Name: S.I.N. Unit Playtest
+Appid: 1744010, Name: Three Fairies' Hoppin' Flappin' Great Journey! Soundtrack
+Appid: 1744020, Name: Domino Effect: Build and Topple
+Appid: 1744050, Name: Hidden Words
+Appid: 1744060, Name: DOGS.IO
+Appid: 1744070, Name: Solomon Snow - First Contact
+Appid: 1744080, Name: DRAGON BALL XENOVERSE 2 - Legendary Pack 2
+Appid: 1744090, Name: Heavy Metal DLC
+Appid: 1744091, Name: Legacy Skins DLC
+Appid: 1744101, Name: The Dawning Clocks of Time - Part 2
+Appid: 1744102, Name: The Dawning Clocks of Time - Part 3
+Appid: 1744130, Name: Determina
+Appid: 1744140, Name: Conundrum
+Appid: 1744150, Name: Lawless Lands Blood Pit DLC
+Appid: 1744160, Name: Rubber Bandits Soundtrack
+Appid: 1743220, Name: Spectrum
+Appid: 1743230, Name: Time of the Clones
+Appid: 1743250, Name: Fuga da Rowei Demo
+Appid: 1743260, Name: Welcome to Free Will
+Appid: 1743270, Name: Tell Some Story: Foz Demo
+Appid: 1743280, Name: Lola - The Escape
+Appid: 1743290, Name: Sexcraft - Walkthrough
+Appid: 1743291, Name: Sexcraft - Adult Art Pack
+Appid: 1743320, Name: Slime Slam Demo
+Appid: 1743330, Name: What Lies in the Multiverse Demo
+Appid: 1743340, Name: Aspire: Ina's Tale Demo
+Appid: 1743350, Name: KOSHMAR
+Appid: 1743380, Name: SCP: Doki Doki Anomaly
+Appid: 1743400, Name: Magical Girl D - Demo
+Appid: 1743410, Name: FORGOTTEN: THE GAME
+Appid: 1743430, Name: Firebird: Legend of the Crystal Goddesses
+Appid: 1743450, Name: Danglebox
+Appid: 1743530, Name: Mireille and Amrita, the Forest of Illusions
+Appid: 1743540, Name: Operation STEEL Soundtrack
+Appid: 1743570, Name: RFVR
+Appid: 1743580, Name: Horny Elves and a Moral Orc
+Appid: 1743610, Name: Running Water
+Appid: 1743630, Name: Neo Art Space Demo
+Appid: 1743660, Name: 心灵迷宫（ Mind maze）
+Appid: 1743670, Name: Axon Hero
+Appid: 1743680, Name: Brave Ball Demo
+Appid: 1742730, Name: Greek Tragedy
+Appid: 1742740, Name: Ribby: The Game
+Appid: 1742750, Name: Delta Zero
+Appid: 1742770, Name: Dark Age Empires
+Appid: 1742800, Name: break
+Appid: 1742820, Name: TIMESCAPE: Altitude
+Appid: 1742830, Name: Aebal
+Appid: 1742850, Name: Card Game Simulator
+Appid: 1742860, Name: Empyrean Scout
+Appid: 1742870, Name: Cargo: TD on Rails
+Appid: 1742880, Name: ファントムゾーン　クリプトファシア
+Appid: 1742900, Name: Wings Of WW2
+Appid: 1742910, Name: The Forest Prison
+Appid: 1742930, Name: Looking Up I See Only A Ceiling
+Appid: 1742940, Name: Poly Puzzle: Furries
+Appid: 1742950, Name: Lifeflame Compendium
+Appid: 1742970, Name: Narco Lolita
+Appid: 1742980, Name: Cycled Demo
+Appid: 1743000, Name: Against Death: dead-end road
+Appid: 1743010, Name: One Last Memory
+Appid: 1743020, Name: Cubiverse Demo
+Appid: 1743050, Name: Robo pocket: 3d fighter with rollback
+Appid: 1743060, Name: Eco Park Playtest
+Appid: 1743070, Name: Fuga da Rowei
+Appid: 1743080, Name: Night Cascades
+Appid: 1743090, Name: Blipz Demo
+Appid: 1743110, Name: Sidequest : the video game
+Appid: 1743120, Name: Abettor
+Appid: 1743140, Name: I, W.O.M.A.N.
+Appid: 1743150, Name: Touch from a Raindrop
+Appid: 1743160, Name: The Penguin IQ Test Demo
+Appid: 1743180, Name: Close Quarters Supremacy The Legis
+Appid: 1743190, Name: LOVE! TRUTH! PUZZLE!
+Appid: 1742240, Name: Hymns of Resurrection
+Appid: 1742250, Name: Electric Car Tycoon
+Appid: 1742260, Name: Sandfall - Official Guide
+Appid: 1742270, Name: Hymns of Resurrection - Official Guide
+Appid: 1742290, Name: They came from another planet
+Appid: 1742310, Name: Andromeda Acolytes
+Appid: 1742330, Name: TARAKAN
+Appid: 1742340, Name: Submarine VR
+Appid: 1742350, Name: Sweet Desire: Hentai Puzzle
+Appid: 1742360, Name: Esports History
+Appid: 1742370, Name: Instinct
+Appid: 1742400, Name: Andromeda Acolytes Beta
+Appid: 1742410, Name: Green City
+Appid: 1742450, Name: 西游记2021
+Appid: 1742460, Name: Esports History Demo
+Appid: 1742470, Name: My Newborn Life In A Harem
+Appid: 1742480, Name: Eternal night
+Appid: 1742490, Name: The Inspector Demo
+Appid: 1742500, Name: My Dear Frankenstein -English Edition-
+Appid: 1742510, Name: Wreckdigger
+Appid: 1742520, Name: Lullaby Days Soundtrack
+Appid: 1742530, Name: My journey to your world
+Appid: 1742540, Name: Monster Tamer
+Appid: 1742560, Name: ROBOBEAT BETA
+Appid: 1742590, Name: TEMPUS
+Appid: 1742600, Name: Perish Song
+Appid: 1742610, Name: Spirits of the Hellements
+Appid: 1742620, Name: Sudoku Minimalist Infinite
+Appid: 1742640, Name: Fantasy Grounds - Pathfinder(R) for Savage Worlds: Hollows Last Hope
+Appid: 1742650, Name: Fantasy Grounds - Pathfinder 2 RPG - Fists of the Ruby Phoenix AP 2: Ready? Fight!
+Appid: 1742670, Name: Fantasy Grounds - Starfinder RPG - Starfinder Adventure Path #39: The Gilded Cage (Fly Free or Die 6 of 6)
+Appid: 1742690, Name: Requiem
+Appid: 1742700, Name: The Sanctum
+Appid: 1742710, Name: The Sanctum Demo
+Appid: 1742720, Name: 4LEG Playtest
+Appid: 1741730, Name: FORTRESS DEFENDER
+Appid: 1741740, Name: Eternal Warfare Demo
+Appid: 1741750, Name: Dreadnought - Battle Ready Veteran Bundle
+Appid: 1741760, Name: ATOM RPG Trudograd - War Supply Pack
+Appid: 1741820, Name: Fantasy Grounds - Men of Wyndhaven
+Appid: 1741830, Name: Texture Assembler
+Appid: 1741840, Name: Fantasy Grounds - Pathfinder(R) for Savage Worlds: Rise of the Runelords! - Guide to Varisia
+Appid: 1741880, Name: The Last Plague: Blight Demo
+Appid: 1741890, Name: Astronaut: The Best Demo
+Appid: 1741900, Name: You VS Drugs
+Appid: 1741910, Name: Pathological Tires Demo
+Appid: 1741940, Name: Project Shanto Rancher
+Appid: 1741960, Name: Floppy and the Sleepy Planet Playtest
+Appid: 1742030, Name: 来自女巫森林的法师-开局+99999金币DLC
+Appid: 1742040, Name: Kingslayers
+Appid: 1742050, Name: Hypnagogia: Boundless Dreams Demo
+Appid: 1742060, Name: Purify
+Appid: 1742080, Name: Fishing at Lotus Lakes
+Appid: 1742120, Name: Mary Knots - Garden Wedding
+Appid: 1742150, Name: 第七号列车 - Train No. 7 - 像素表情合集
+Appid: 1742170, Name: Eco Park
+Appid: 1742190, Name: Fated Blade - Official Guide
+Appid: 1742210, Name: DROPTCH Playtest
+Appid: 1742220, Name: SRPG Studio Ship Material Collection
+Appid: 1742230, Name: Sandfall
+Appid: 1741220, Name: Forbidden place
+Appid: 1741230, Name: Fantasy Heroes: 4-Directional Character Editor & Sprite Sheet Maker
+Appid: 1741240, Name: Ghostrunner Soundtrack
+Appid: 1741260, Name: Faster Than Possible
+Appid: 1741270, Name: Solomon Division
+Appid: 1741280, Name: Suicide Vegetables Demo
+Appid: 1741290, Name: 通向地狱 Demo
+Appid: 1741300, Name: SIT DOWN, PLEASE
+Appid: 1741310, Name: SIT DOWN, PLEASE Soundtrack
+Appid: 1741330, Name: Lamentum Soundtrack
+Appid: 1741350, Name: Lamentum Artbook
+Appid: 1741360, Name: 启航者礼包
+Appid: 1741370, Name: 晋级职业礼包
+Appid: 1741380, Name: Ghostrunner Digital Artbook
+Appid: 1741390, Name: Farm Manager 2021 - Agrotourism DLC
+Appid: 1741410, Name: The Good Life Demo
+Appid: 1741420, Name: OplitisAV
+Appid: 1741430, Name: Blobby's Quest
+Appid: 1741440, Name: Koru
+Appid: 1741450, Name: Heroes of the galaxy
+Appid: 1741460, Name: Hell Blasters Soundtrack
+Appid: 1741470, Name: Wingspan: European Expansion
+Appid: 1741480, Name: Ultimaze
+Appid: 1741490, Name: Undying Lantern
+Appid: 1741510, Name: Traffic Command: Reborn
+Appid: 1741520, Name: Air Strike
+Appid: 1741530, Name: Astria Ascending - Cosmetic Weapon Set
+Appid: 1741540, Name: ROUGH KUTS: The House of the Dead
+Appid: 1741550, Name: 名字没想好
+Appid: 1741580, Name: Trilha Sonora Original - IRMÃO Grande & Brasileiro 2
+Appid: 1741600, Name: Coloring Pixels - Retro Pack
+Appid: 1741620, Name: Spirit and Katana
+Appid: 1741630, Name: Cheftastic!: Buffet Blast Playtest
+Appid: 1741650, Name: Iron Age
+Appid: 1741660, Name: I'm Not Jelly Playtest
+Appid: 1741670, Name: Hedgie Simulator
+Appid: 1741680, Name: The Elm Game Demo
+Appid: 1741700, Name: NASCAR 21: Ignition - Career Boost
+Appid: 1740730, Name: Flesh Water
+Appid: 1740740, Name: Rank: Warmaster Playtest
+Appid: 1740750, Name: Furry Feet - Tentacles!
+Appid: 1740760, Name: Rayland
+Appid: 1740840, Name: Idle Monkeylogy - Starter Pack
+Appid: 1740841, Name: Idle Monkeylogy - Monkey Pack
+Appid: 1740850, Name: 角斗士学院
+Appid: 1740870, Name: Augmented Future
+Appid: 1740890, Name: I Love Finding Pups
+Appid: 1740900, Name: Just Act Natural: Premium Version
+Appid: 1740920, Name: 修仙缥缈录
+Appid: 1740950, Name: Queen of Succubus
+Appid: 1740980, Name: 蛊婆 - 绝命逃亡
+Appid: 1740990, Name: Lawnmower Game: Space Fight
+Appid: 1741010, Name: SOK MAX PRO
+Appid: 1741020, Name: SOK MIN PRO
+Appid: 1741030, Name: 早苗討魔伝X2 (Sanae Toumaden X2)
+Appid: 1741040, Name: Last Devil
+Appid: 1741100, Name: CaseCracker Demo
+Appid: 1741130, Name: Pacific General
+Appid: 1741140, Name: War Wind
+Appid: 1741150, Name: War Wind II: Human Onslaught
+Appid: 1741160, Name: Catch Me!
+Appid: 1741180, Name: College Bound - Episode 2
+Appid: 1741190, Name: Witch 2 Hell Adventure Lost in paintings
+Appid: 1741200, Name: Gobby Island
+Appid: 1740220, Name: The Old Ones
+Appid: 1740240, Name: 100 hidden cups
+Appid: 1740250, Name: Strange Town
+Appid: 1740260, Name: Gizmos: Interstellar Voyage Demo
+Appid: 1740270, Name: Dynarog 2
+Appid: 1740280, Name: Farworld Pioneers Demo
+Appid: 1740290, Name: God of Riffs Demo
+Appid: 1740300, Name: Smushi Come Home
+Appid: 1740320, Name: Gutting Goblins!
+Appid: 1740330, Name: Gutting Goblins! Soundtrack
+Appid: 1740340, Name: Gizmos: Spirit Of The Christmas Demo
+Appid: 1740350, Name: SpiderHeck Demo
+Appid: 1740360, Name: SpiderHeck Dedicated Servers Playtest
+Appid: 1740380, Name: Pandea Stones
+Appid: 1740390, Name: Rogue Command Playtest
+Appid: 1740410, Name: Mission Mars Demo
+Appid: 1740420, Name: Colors! Maze
+Appid: 1740430, Name: Into the Loop Demo
+Appid: 1740440, Name: SOK PRO Upgrade
+Appid: 1740450, Name: Bean and Nothingness Demo
+Appid: 1740470, Name: Hot Swap: Cyberlust
+Appid: 1740490, Name: The Elm Game
+Appid: 1740520, Name: Behind the Frame: The Finest Scenery - Art Book
+Appid: 1740530, Name: REDSIDE episode 1
+Appid: 1740540, Name: The Lands of Eldyn
+Appid: 1740550, Name: Sports Betting Simulator
+Appid: 1740560, Name: Cat’s Princess - Soundtrack
+Appid: 1740570, Name: CURSED NIGHT - The House
+Appid: 1740580, Name: Necromancer's Gift Playtest
+Appid: 1740590, Name: Miira
+Appid: 1740600, Name: Knight&Princess
+Appid: 1740610, Name: ESCAPE FROM DOCY
+Appid: 1740630, Name: Tengin Music Engine
+Appid: 1740640, Name: Castle of Delights - Artbook
+Appid: 1740650, Name: Fm45's Sprite Man Adventures Soundtrack
+Appid: 1740660, Name: Miraculous: Rise of the Sphinx
+Appid: 1740670, Name: VZX Creative
+Appid: 1740680, Name: Voodoo Detective
+Appid: 1740700, Name: Feline Sweet Demo
+Appid: 1740710, Name: Three Pigeons in a Trench Coat
+Appid: 1739740, Name: Heart Lock OST
+Appid: 1739770, Name: Parking light
+Appid: 1739790, Name: Alina of the Arena Demo
+Appid: 1739800, Name: Damn Ropes
+Appid: 1739820, Name: Grammarian Ltd Demo
+Appid: 1739850, Name: Howling Village
+Appid: 1739880, Name: Blood And Zombies
+Appid: 1739890, Name: Coloring Game 4 – 3-Bit Palette
+Appid: 1739891, Name: Coloring Game 4 – 4-Bit Palette
+Appid: 1739900, Name: Death of the Reprobate
+Appid: 1739910, Name: Seaside Driving
+Appid: 1739920, Name: Tactical Monsters - Strategy Edition Demo
+Appid: 1739930, Name: Marlon's Mystery
+Appid: 1739940, Name: Grid Tales
+Appid: 1739970, Name: AFK Summoner
+Appid: 1739980, Name: Clid the Snail Demo
+Appid: 1740000, Name: Cute Honey: Bunny Girl
+Appid: 1740010, Name: Undead Menace
+Appid: 1740030, Name: The Amazing American Circus - Dark Passenger
+Appid: 1740040, Name: Kate Don't Wait Demo
+Appid: 1740050, Name: Hidden Objects - Sleeping Beauty
+Appid: 1740060, Name: Lunistice Demo
+Appid: 1740070, Name: Heliopedia
+Appid: 1740080, Name: Level Up Simulator
+Appid: 1740090, Name: Monsters per second Demo
+Appid: 1740120, Name: UFO Checkers
+Appid: 1740150, Name: A.W.O.L.
+Appid: 1740170, Name: Tap Tap Builder
+Appid: 1740180, Name: Bombs Away
+Appid: 1740210, Name: Lumencraft Demo
+Appid: 1739230, Name: Those who Came Demo
+Appid: 1739240, Name: GUN AND BUCKLER Playtest
+Appid: 1739250, Name: Hourglass Demo
+Appid: 1739260, Name: Sacred Gems
+Appid: 1739270, Name: Rise of the Third Power Demo
+Appid: 1739280, Name: Bramblewood
+Appid: 1739320, Name: ――ｯ違う!!! Demo
+Appid: 1739340, Name: Mr. Hopp's Manor Escape
+Appid: 1739360, Name: Hold The Plates
+Appid: 1739400, Name: Chicken Duty
+Appid: 1739410, Name: Bingo on Stream Playtest
+Appid: 1739420, Name: Chessie Chicken
+Appid: 1739440, Name: Galactic Chef Playtest
+Appid: 1739450, Name: Genetic Fluff Demo
+Appid: 1739460, Name: Galactic Chef Demo
+Appid: 1739480, Name: Hordebreaker
+Appid: 1739500, Name: CAGE-FACE | Case 2: The Sewer
+Appid: 1739510, Name: Sinfeld Remastered Playtest
+Appid: 1739520, Name: Nysunder
+Appid: 1739530, Name: EXCALIBURIAN!!
+Appid: 1739540, Name: Moon Caves Demo
+Appid: 1739550, Name: Power to the People Playtest
+Appid: 1739560, Name: Spirittracker
+Appid: 1739590, Name: LunarManVideoLibrary~月球人视频库
+Appid: 1739610, Name: 九州战歌
+Appid: 1739620, Name: Chester’s Revenge
+Appid: 1739630, Name: 直播经纪人
+Appid: 1739640, Name: Billiards Legend:Black 8 Miracle
+Appid: 1739650, Name: Dimensions: Dreadnought Architect
+Appid: 1739670, Name: Welcome to Goodland Demo
+Appid: 1739680, Name: Tales of a Rabbit: The Story of Willie Hop
+Appid: 1739710, Name: Dreams Of The Elements
+Appid: 1738770, Name: Tainted Grail Soundtrack
+Appid: 1738780, Name: Beku Demo
+Appid: 1738800, Name: Outworlder Server
+Appid: 1738830, Name: This Is Crying
+Appid: 1738840, Name: Fragments Of A Mind Demo
+Appid: 1738850, Name: Plumber 3
+Appid: 1738870, Name: Gizmos: Spooky Adventures Demo
+Appid: 1738880, Name: Gewevo : Interstellaire
+Appid: 1738890, Name: Naval Hurricane
+Appid: 1738900, Name: King of Dragon Pass Soundtrack
+Appid: 1738980, Name: A Hat in Time - Vanessa's Curse
+Appid: 1738990, Name: Elf Sex Farm
+Appid: 1739000, Name: Franchise Hockey Manager 8
+Appid: 1739020, Name: World of Warships — Oktyabrskaya Revolutsiya
+Appid: 1739030, Name: Immortal-Paradise
+Appid: 1739050, Name: Victory Heat Rally: Shakedown Demo
+Appid: 1739060, Name: Bubble Breaking
+Appid: 1739070, Name: Bone's Cafe
+Appid: 1739080, Name: Sword Hero
+Appid: 1739090, Name: The Majesti Soundtrack
+Appid: 1739110, Name: Song of Iron OST
+Appid: 1739120, Name: Railroad Corporation - All or Nothing DLC
+Appid: 1739130, Name: CornMaze Craze
+Appid: 1739150, Name: Spookity Hollow
+Appid: 1739160, Name: ――ｯ違う!!!
+Appid: 1739200, Name: Combo Babies
+Appid: 1738333, Name: THE IDOLM@STER STARLIT SEASON - Yellow Seed UR: 10 #06
+Appid: 1738334, Name: THE IDOLM@STER STARLIT SEASON - Green Seed UR: 10 #06
+Appid: 1738335, Name: THE IDOLM@STER STARLIT SEASON - 200,000 Money #06
+Appid: 1738336, Name: THE IDOLM@STER STARLIT SEASON - 400,000 Money #06
+Appid: 1738337, Name: THE IDOLM@STER STARLIT SEASON - Story 05 "Starlit Rainbow" Bundle
+Appid: 1738338, Name: THE IDOLM@STER STARLIT SEASON - Special item set #06
+Appid: 1738350, Name: 西湖断桥白娘子——火龙拓展包
+Appid: 1738360, Name: 西湖断桥白娘子——元宝拓展包
+Appid: 1738370, Name: 西湖断桥白娘子——神兽之灵拓展包
+Appid: 1738380, Name: 西湖断桥白娘子——云梦狐拓展包
+Appid: 1738390, Name: Experience x3 - Justice Chronicles
+Appid: 1738391, Name: Magic Meteorite Growth x3 - Justice Chronicles
+Appid: 1738392, Name: Damage x2 - Justice Chronicles
+Appid: 1738420, Name: Sinsations
+Appid: 1738440, Name: Trainz 2019 DLC - PREG Bmnopux 003
+Appid: 1738480, Name: ZooSquad
+Appid: 1738490, Name: からかい上手の高木さんVR 2学期
+Appid: 1738500, Name: velvet clouds
+Appid: 1738510, Name: Trainz 2019 DLC - PREG B16mnopux 087
+Appid: 1738520, Name: Bikini Armour Explorers
+Appid: 1738540, Name: Dancing Cube
+Appid: 1738550, Name: Dalruan: World of Magic
+Appid: 1738570, Name: 燕赤霞
+Appid: 1738580, Name: Cross Numbers Demo
+Appid: 1738610, Name: First Class Escape: The Train of Thought
+Appid: 1738620, Name: Confined Space Entry VR Training
+Appid: 1738630, Name: Fantasy Sliding Puzzle
+Appid: 1738640, Name: Box Office Boss
+Appid: 1738670, Name: Fairground Power Polyp Simulator
+Appid: 1738690, Name: Tomb Rumble - Cursed vampire
+Appid: 1738700, Name: Tomb Rumble - Home
+Appid: 1738730, Name: JUMANJI - The Curse Returns Soundtrack
+Appid: 1738740, Name: 七雄纷争
+Appid: 1738209, Name: THE IDOLM@STER STARLIT SEASON - ACE COMBAT 7 Original Costume Bundle
+Appid: 1738210, Name: THE IDOLM@STER STARLIT SEASON - Special Item Bundle #02
+Appid: 1738220, Name: THE IDOLM@STER STARLIT SEASON - Akatsuki Yukata
+Appid: 1738221, Name: THE IDOLM@STER STARLIT SEASON - Neon Night
+Appid: 1738222, Name: THE IDOLM@STER STARLIT SEASON - Secret Garden
+Appid: 1738223, Name: THE IDOLM@STER STARLIT SEASON - Midnight Gallery
+Appid: 1738224, Name: THE IDOLM@STER STARLIT SEASON - Red Seed UR: 10 #03
+Appid: 1738225, Name: THE IDOLM@STER STARLIT SEASON - Blue Seed UR: 10 #03
+Appid: 1738226, Name: THE IDOLM@STER STARLIT SEASON - Yellow Seed UR: 10 #03
+Appid: 1738227, Name: THE IDOLM@STER STARLIT SEASON - Green Seed UR: 10 #03
+Appid: 1738228, Name: THE IDOLM@STER STARLIT SEASON - 200,000 Money #03
+Appid: 1738229, Name: THE IDOLM@STER STARLIT SEASON - 400,000 Money #03
+Appid: 1738230, Name: THE IDOLM@STER STARLIT SEASON - Kaede's Stage Production Set
+Appid: 1738231, Name: THE IDOLM@STER STARLIT SEASON - Special Item Bundle #03
+Appid: 1738232, Name: THE IDOLM@STER STARLIT SEASON - Story 02 "Luminous Azure" Bundle
+Appid: 1738250, Name: DIY Your lady - DIY Your Nurse
+Appid: 1738270, Name: Minable & Create Demo
+Appid: 1738280, Name: THE IDOLM@STER STARLIT SEASON - Chocolat Mint Party
+Appid: 1738281, Name: THE IDOLM@STER STARLIT SEASON - Red Seed UR: 10 #04
+Appid: 1738282, Name: THE IDOLM@STER STARLIT SEASON - Blue Seed UR: 10 #04
+Appid: 1738283, Name: THE IDOLM@STER STARLIT SEASON - Yellow Seed UR: 10 #04
+Appid: 1738284, Name: THE IDOLM@STER STARLIT SEASON - Green Seed UR: 10 #04
+Appid: 1738285, Name: THE IDOLM@STER STARLIT SEASON - 200,000 Money #04
+Appid: 1738286, Name: THE IDOLM@STER STARLIT SEASON - 400,000 Money #04
+Appid: 1738287, Name: THE IDOLM@STER STARLIT SEASON - Kotoha's Stage Production Set
+Appid: 1738288, Name: THE IDOLM@STER STARLIT SEASON - Leon's Stage Production Set
+Appid: 1738289, Name: THE IDOLM@STER STARLIT SEASON - Shika's Stage Production Set
+Appid: 1738290, Name: THE IDOLM@STER STARLIT SEASON - Aya's Stage Production Set
+Appid: 1738291, Name: THE IDOLM@STER STARLIT SEASON - Story 03 "Luminous Rufus" Bundle
+Appid: 1738292, Name: THE IDOLM@STER STARLIT SEASON - "Diamant" Stage Production Set Bundle
+Appid: 1738295, Name: THE IDOLM@STER STARLIT SEASON - Special Item Bundle #04
+Appid: 1738310, Name: THE IDOLM@STER STARLIT SEASON - Victory Dream
+Appid: 1738311, Name: THE IDOLM@STER STARLIT SEASON - Red Seed UR: 10 #05
+Appid: 1738312, Name: THE IDOLM@STER STARLIT SEASON - Blue Seed UR: 10 #05
+Appid: 1738313, Name: THE IDOLM@STER STARLIT SEASON - Yellow Seed UR: 10 #05
+Appid: 1738314, Name: THE IDOLM@STER STARLIT SEASON - Green Seed UR: 10 #05
+Appid: 1738315, Name: THE IDOLM@STER STARLIT SEASON - 200,000 Money #05
+Appid: 1738316, Name: THE IDOLM@STER STARLIT SEASON - 400,000 Money #05
+Appid: 1738317, Name: THE IDOLM@STER STARLIT SEASON -Mamimi's Stage Production Set
+Appid: 1738318, Name: THE IDOLM@STER STARLIT SEASON - Story 04 "Luminous Giallo" Bundle
+Appid: 1738319, Name: THE IDOLM@STER STARLIT SEASON - Special Item Bundle #05
+Appid: 1738330, Name: THE IDOLM@STER STARLIT SEASON - Noble Heart
+Appid: 1738331, Name: THE IDOLM@STER STARLIT SEASON - Red Seed UR: 10 #06
+Appid: 1738332, Name: THE IDOLM@STER STARLIT SEASON - Blue Seed UR: 10 #06
+Appid: 1737830, Name: Floppy and the Sleepy Planet
+Appid: 1737840, Name: Virtual world-Digital girl
+Appid: 1737860, Name: Born Into Fear Demo
+Appid: 1737870, Name: REKA
+Appid: 1737880, Name: Citizens: Far Lands Demo
+Appid: 1737890, Name: Lúcido
+Appid: 1737900, Name: Voice Visualizer Playtest
+Appid: 1737920, Name: Midnight Calling: Valeria Collector's Edition
+Appid: 1737930, Name: Fantasy Jigsaw Puzzle 3 - ArtBook
+Appid: 1737950, Name: RPGScenery - Medieval Port Scene
+Appid: 1737960, Name: Vigilance 2099
+Appid: 1737980, Name: Galacticon
+Appid: 1738020, Name: Cookie Clicker Soundtrack
+Appid: 1738100, Name: Puzzle Light: Connect
+Appid: 1738140, Name: Campfire Tales
+Appid: 1738150, Name: Draft Day Sports: Pro Football 2022
+Appid: 1738160, Name: The Last Cadet
+Appid: 1738180, Name: THE IDOLM@STER STARLIT SEASON - Nando demo waraou
+Appid: 1738181, Name: THE IDOLM@STER STARLIT SEASON - M@STERPIECE
+Appid: 1738182, Name: THE IDOLM@STER STARLIT SEASON - Starpiece Memories
+Appid: 1738190, Name: THE IDOLM@STER STARLIT SEASON - Pure White Swimwear
+Appid: 1738200, Name: THE IDOLM@STER STARLIT SEASON - Twilight Lavender
+Appid: 1738201, Name: THE IDOLM@STER STARLIT SEASON - Red Seed UR: 10 #02
+Appid: 1738202, Name: THE IDOLM@STER STARLIT SEASON - Blue Seed UR: 10 #02
+Appid: 1738203, Name: THE IDOLM@STER STARLIT SEASON - Yellow Seed UR: 10 #02
+Appid: 1738204, Name: THE IDOLM@STER STARLIT SEASON - Green Seed UR: 10 #02
+Appid: 1738205, Name: THE IDOLM@STER STARLIT SEASON - 200,000 Money #02
+Appid: 1738206, Name: THE IDOLM@STER STARLIT SEASON - 400,000 Money #02
+Appid: 1738207, Name: THE IDOLM@STER STARLIT SEASON - "Secret Message" Story
+Appid: 1738208, Name: THE IDOLM@STER STARLIT SEASON - Story 01 "Smile Festa" Bundle
+Appid: 1737352, Name: World of Tanks — Premium Month Pack
+Appid: 1737370, Name: Jurassic Architect
+Appid: 1737380, Name: Brambles in the Mist
+Appid: 1737410, Name: Reshaping Mars Soundtrack
+Appid: 1737420, Name: Terra Ventura Demo
+Appid: 1737430, Name: Life of Delta Demo
+Appid: 1737440, Name: Trip Saber
+Appid: 1737450, Name: Motorcycle Biker Simulator
+Appid: 1737460, Name: Into The Abyss
+Appid: 1737470, Name: Division of Labour
+Appid: 1737480, Name: Super
+Appid: 1737510, Name: Hardworking Hero
+Appid: 1737530, Name: DarkTimes
+Appid: 1737540, Name: Wirewalk()↳ Soundtrack
+Appid: 1737550, Name: Warships Final Battle
+Appid: 1737560, Name: Backbeat Demo
+Appid: 1737570, Name: Shindig Soundtrack
+Appid: 1737580, Name: Timemelters Demo
+Appid: 1737600, Name: Alphabetical Order
+Appid: 1737620, Name: Please Duology
+Appid: 1737630, Name: Super Jigsaw Puzzle: Generations - Canada
+Appid: 1737631, Name: Super Jigsaw Puzzle: Generations - Street Art
+Appid: 1737632, Name: Super Jigsaw Puzzle: Generations - Winter 2021
+Appid: 1737640, Name: Theory of Poltaran
+Appid: 1737650, Name: Stardrytch Playtest
+Appid: 1737660, Name: Hot Vacation Wallpapers
+Appid: 1737661, Name: Hot Vacation Wallpapers 18+
+Appid: 1737690, Name: Yacht Dice
+Appid: 1737700, Name: Raptor Boyfriend Soundtrack
+Appid: 1737720, Name: Themes of Dark and Light Demo
+Appid: 1737730, Name: Neko Journey
+Appid: 1737750, Name: Three in a Rogue
+Appid: 1737760, Name: Platonic
+Appid: 1737780, Name: Plushie from the Sky Demo
+Appid: 1737810, Name: Astria Ascending Soundtrack
+Appid: 1736930, Name: APICO Playtest
+Appid: 1736940, Name: Blankspace - Digital Artbook (+Wallpaper Pack)
+Appid: 1736950, Name: Blankspace - Additional Text Patch (18+)
+Appid: 1736960, Name: Pumpkins Playtest
+Appid: 1736970, Name: Dark Colors
+Appid: 1736980, Name: BounceShot
+Appid: 1736990, Name: Dominion - Black Market
+Appid: 1736991, Name: Dominion - Promo Pack 1
+Appid: 1736992, Name: Dominion - Promo Pack 2
+Appid: 1736993, Name: Dominion - Base Set: 1st Edition
+Appid: 1736994, Name: Dominion - Intrigue: 1st Edition
+Appid: 1737000, Name: Crusaders Arena Playtest
+Appid: 1737010, Name: Collector Thief
+Appid: 1737040, Name: Motor Town: Behind The Wheel Beta Demo
+Appid: 1737070, Name: 风起长安：驭骨人
+Appid: 1737100, Name: Treasure of Nadia
+Appid: 1737130, Name: Ducky
+Appid: 1737150, Name: Scarlet and Blank
+Appid: 1737170, Name: Among Dots
+Appid: 1737180, Name: Transiruby Demo
+Appid: 1737200, Name: Ardarium
+Appid: 1737210, Name: Fracture Hell Demo
+Appid: 1737240, Name: 天气
+Appid: 1737250, Name: RPG Maker MV - Eberouge Background Image Pack 4
+Appid: 1737260, Name: RPG Maker MZ - Eberouge Background Image Pack 4
+Appid: 1737270, Name: 魔王的简易用法 - 魔晶礼包Ⅰ
+Appid: 1737280, Name: Bad animals - rabbit
+Appid: 1737310, Name: Dragon Island Demo
+Appid: 1737330, Name: 雾尽时分
+Appid: 1737350, Name: World of Tanks — Rugged Mountaineer Pack
+Appid: 1737351, Name: World of Tanks — Blistering Firebrand Pack
+Appid: 1736722, Name: Battle Pass - Year 5 Season 3 - Ubisoft Activation
+Appid: 1736723, Name: Battle Bundle - Year 5 Season 3 - Ubisoft Activation
+Appid: 1736730, Name: Don't Get Tagged
+Appid: 1736740, Name: Cactus Simulator - Bofete Stories
+Appid: 1736750, Name: Kingdom of Atham: Server
+Appid: 1736770, Name: Storms II Playtest
+Appid: 1736780, Name: RPGScenery - Light Forest Scene
+Appid: 1736781, Name: RPGScenery - Farm Countryside Scene
+Appid: 1736782, Name: RPGScenery - Stairway in a Gorge Scene
+Appid: 1736783, Name: RPGScenery - Castle Gate Scene
+Appid: 1736784, Name: RPGScenery - Giant Tree Scene
+Appid: 1736785, Name: RPGScenery - Magical Circle Scene
+Appid: 1736786, Name: RPGScenery - Bandit Hideout Scene
+Appid: 1736787, Name: RPGScenery - Tavern Scene
+Appid: 1736788, Name: RPGScenery - Ridge Creek Scene
+Appid: 1736789, Name: RPGScenery - Ship Scene
+Appid: 1736790, Name: RPGScenery - Dungeon Scene
+Appid: 1736800, Name: RPGScenery - Fishing Village Scene
+Appid: 1736801, Name: RPGScenery - Stone Desert Scene
+Appid: 1736802, Name: RPGScenery - River Settlement Scene
+Appid: 1736803, Name: RPGScenery - Log Fort Scene
+Appid: 1736804, Name: RPGScenery - Lake Scene
+Appid: 1736805, Name: RPGScenery - Cemetery Scene
+Appid: 1736806, Name: RPGScenery - Dwarven Hall Scene
+Appid: 1736807, Name: RPGScenery - Port Island Scene
+Appid: 1736808, Name: RPGScenery - Dragon Bones Scene
+Appid: 1736809, Name: RPGScenery - Jungle Scene
+Appid: 1736810, Name: RPGScenery - Sewers Scene
+Appid: 1736811, Name: RPGScenery - Tollgate Scene
+Appid: 1736813, Name: RPGScenery - Sky Temple Scene
+Appid: 1736814, Name: RPGScenery - Hole Village Scene
+Appid: 1736815, Name: RPGScenery - Dark Wood Scene
+Appid: 1736816, Name: RPGScenery - Wizard Cave Scene
+Appid: 1736817, Name: RPGScenery - Norse Village Scene
+Appid: 1736818, Name: RPGScenery - Castle Ruins Scene
+Appid: 1736819, Name: RPGScenery - Mine Scene
+Appid: 1736820, Name: RPGScenery - Small Town Scene
+Appid: 1736821, Name: RPGScenery - Grassland Scene
+Appid: 1736822, Name: RPGScenery - Fortress Gate Scene
+Appid: 1736830, Name: The Chewllers
+Appid: 1736840, Name: From Paris with Love: Passion with view
+Appid: 1736850, Name: Camp Palut
+Appid: 1736900, Name: Legends of Snooker: One Shot
+Appid: 1736910, Name: Insomnia Jigsaw
+Appid: 1736220, Name: Might of Merchants
+Appid: 1736250, Name: Code Dread
+Appid: 1736260, Name: Home Designer - Makeover Blast
+Appid: 1736270, Name: They are coming
+Appid: 1736300, Name: LIBLADE
+Appid: 1736310, Name: Fantasy Jigsaw Puzzle 3
+Appid: 1736330, Name: Chicken Cannon Demo
+Appid: 1736340, Name: Field of Glory II: Medieval - Storm of Arrows
+Appid: 1736360, Name: Hentai Sakura 🌸🌊
+Appid: 1736370, Name: Souno's Curse Demo
+Appid: 1736380, Name: Fireside Playtest
+Appid: 1736390, Name: Red Solstice 2: Survivors - HOWELL-BARREX INC.
+Appid: 1736400, Name: TramSim Munich
+Appid: 1736430, Name: Mage Tower: Call of Zadeus Playtest
+Appid: 1736450, Name: Colonize Prologue
+Appid: 1736460, Name: The Little Spirit of the East
+Appid: 1736470, Name: The Little Spirit of the East Demo
+Appid: 1736480, Name: YOGA MASTER
+Appid: 1736490, Name: Lazy Girl
+Appid: 1736510, Name: Anxiety Treatment with Relaxation Demo
+Appid: 1736530, Name: Shadow Wave - Revenger
+Appid: 1736540, Name: Orbit.Industries Demo
+Appid: 1736550, Name: Deflector
+Appid: 1736560, Name: Weakpoint Delta
+Appid: 1736590, Name: Shambled Spiral
+Appid: 1736620, Name: The Eightfold Path
+Appid: 1736630, Name: Minesweeper Ultimate
+Appid: 1736640, Name: Rogue Company - Radioactive Revenant Pack
+Appid: 1736670, Name: Tilting Tiles
+Appid: 1736680, Name: Xio: Survival
+Appid: 1736690, Name: Terror of Hemasaurus Demo
+Appid: 1736700, Name: Aeon's End - The New Age
+Appid: 1736710, Name: Mummy Sandbox
+Appid: 1735790, Name: Mystery Box - Hidden Secrets
+Appid: 1735800, Name: Microcosmum: survival of cells - Campaign "Static"
+Appid: 1735850, Name: Mission 1985
+Appid: 1735900, Name: 破坏艺术家 Demo
+Appid: 1735930, Name: SICK
+Appid: 1735950, Name: 纸嫁衣
+Appid: 1735970, Name: Maison Rouge
+Appid: 1735980, Name: Love Flute
+Appid: 1735990, Name: Drakkar Crew Demo
+Appid: 1736000, Name: 异星夺宝
+Appid: 1736010, Name: 双腕のソルダート
+Appid: 1736020, Name: Papertris Demo
+Appid: 1736050, Name: Trial of Two Demo
+Appid: 1736090, Name: Demolish & Build VR
+Appid: 1736100, Name: Figurine Scene Simulator: Titanium Core Franchise
+Appid: 1736102, Name: Figurine Scene Simulator: Bedtime Stories Franchise
+Appid: 1736103, Name: Figurine Scene Simulator: Silver Wrapper Franchise (NSFW)
+Appid: 1736104, Name: Figurine Scene Simulator: Warrior Class Franchise
+Appid: 1736140, Name: Drag Engineer
+Appid: 1736200, Name: Sealed Gate
+Appid: 1735300, Name: Gest!
+Appid: 1735320, Name: Summer In Trigue Demo
+Appid: 1735340, Name: TheLastTree Playtest
+Appid: 1735370, Name: Necrowave
+Appid: 1735380, Name: Dodge It! - Aviator Glasses
+Appid: 1735381, Name: Dodge It! - Heart Glasses
+Appid: 1735390, Name: House of Rules Demo
+Appid: 1735400, Name: Dessert Tank: The Saga of Hansel and Gretel Prologue
+Appid: 1735410, Name: Pale Roots
+Appid: 1735420, Name: Fake Hostel
+Appid: 1735440, Name: Light2Live Beta
+Appid: 1735470, Name: Tax Fugitive
+Appid: 1735480, Name: Voice Visualizer
+Appid: 1735490, Name: 実録パワフル野球拳スラッガー山田
+Appid: 1735500, Name: Fantasy Grounds - Pathfinder(R) for Savage Worlds Bestiary
+Appid: 1735520, Name: Fantasy Grounds - Pathfinder(R) for Savage Worlds: Rise of the Runelords! Book 1 - Burnt Offerings
+Appid: 1735530, Name: Stargaze Soundtrack
+Appid: 1735560, Name: Heliopolis Six Demo
+Appid: 1735570, Name: Steampunk Gravity
+Appid: 1735600, Name: Rolling Balls
+Appid: 1735610, Name: Multiply Factory
+Appid: 1735620, Name: 启蜇 Playtest
+Appid: 1735640, Name: Farmers' Market
+Appid: 1735660, Name: Monkey Mansion
+Appid: 1735670, Name: rote²(roteSquare)
+Appid: 1735680, Name: ArtBook
+Appid: 1735690, Name: Planet Omnia
+Appid: 1735710, Name: 蛊婆 - 孤军奋战
+Appid: 1735720, Name: 蛊婆 - 秘密任务
+Appid: 1734810, Name: Cubyrinth
+Appid: 1734830, Name: Cheeky Princess
+Appid: 1734850, Name: Story of Nararale
+Appid: 1734860, Name: Sacred Curse
+Appid: 1734870, Name: Shiba Army
+Appid: 1734890, Name: Visual Novel Sisters
+Appid: 1734900, Name: Inspector Detective: Private Eye
+Appid: 1734920, Name: Story of Nararale Playtest
+Appid: 1734960, Name: POWERNAUT 2
+Appid: 1734970, Name: Planet Hotpot
+Appid: 1734980, Name: Pumpkins
+Appid: 1734990, Name: The Netrunner Awaken1ng
+Appid: 1735010, Name: Pathological Tires
+Appid: 1735020, Name: Don't freak out Demo
+Appid: 1735040, Name: Gravekeeper Academy
+Appid: 1735060, Name: Reed The Robotanist Plus
+Appid: 1735080, Name: High Elo Girls
+Appid: 1735090, Name: Tea Time
+Appid: 1735110, Name: Museum of Mechanics: Lockpicking
+Appid: 1735140, Name: Pushy Worm
+Appid: 1735150, Name: TheLastTree
+Appid: 1735160, Name: HAJWALA LINE
+Appid: 1735170, Name: SlimeSlider
+Appid: 1735240, Name: Hot Vacation
+Appid: 1735250, Name: The Little Black Bestiary: The Salted Cookies of Carthaginia Soundtrack
+Appid: 1735280, Name: NAGARE-BOSHI
+Appid: 1735290, Name: Super Woden GP Soundtrack
+Appid: 1734310, Name: Dungeon Delvers
+Appid: 1734320, Name: Brutal Orchestra
+Appid: 1734330, Name: POWERTRIP
+Appid: 1734340, Name: Japanese - Work Book - Verbs
+Appid: 1734350, Name: Chronomaster
+Appid: 1734360, Name: Kukoos - Lost Pets Demo
+Appid: 1734370, Name: Timewreck Tales
+Appid: 1734380, Name: Voidwalkers - Soul Hunters : Esos Weapon Pack
+Appid: 1734390, Name: The Pioneers: surviving desolation
+Appid: 1734400, Name: Mental Hospital - Child of Evil
+Appid: 1734410, Name: The Undisputables : Online Multiplayer Demo
+Appid: 1734430, Name: Spellborn
+Appid: 1734450, Name: Forever Lost Playtest
+Appid: 1734470, Name: ROUGH KUTS: The Thirsty Dead
+Appid: 1734480, Name: Neondrops
+Appid: 1734540, Name: PUPPETEERS
+Appid: 1734560, Name: Kingdom of Heroes
+Appid: 1734580, Name: Rento TEAMS
+Appid: 1734590, Name: HOPE VR - Playtest Version
+Appid: 1734600, Name: One against the wind
+Appid: 1734610, Name: Robosnow
+Appid: 1734640, Name: 靖之元：东海
+Appid: 1734660, Name: Slimefrog Playtest
+Appid: 1734680, Name: INCISION
+Appid: 1734690, Name: Rhythm Brawl - Legion UGC
+Appid: 1734710, Name: Adult Patch
+Appid: 1734720, Name: Pawnbarian Soundtrack
+Appid: 1734730, Name: ROUGH KUTS: Grave of the Vampire
+Appid: 1734750, Name: GB Rober Playtest
+Appid: 1734770, Name: Niki in the Ship
+Appid: 1734780, Name: Rage Chicken 2 Playtest
+Appid: 1734790, Name: The Cruel kings
+Appid: 1733830, Name: 魔王的简易用法
+Appid: 1733840, Name: Yurukill: The Calumniation Games
+Appid: 1733860, Name: Slime Factory
+Appid: 1733870, Name: Hentai Jigsaw Girls 3 - ArtBook
+Appid: 1733880, Name: Gunvolt Chronicles: Luminous Avenger iX 2
+Appid: 1733900, Name: Musicle - Rainbow Skin DLC
+Appid: 1733950, Name: Galaxy Edge
+Appid: 1733990, Name: ADIOS Amigos: Galactic Explorers (Preview)
+Appid: 1734000, Name: Necropolis Suite
+Appid: 1734040, Name: 東方銀夜祭 Freedom Train
+Appid: 1734050, Name: Grub Gauntlet - Demo
+Appid: 1734070, Name: 東方紅夜狂宴 ~Red Empress Devil.
+Appid: 1734080, Name: Dead by Daylight - Hellraiser chapter
+Appid: 1734090, Name: Gorge - Special Features Pack
+Appid: 1734140, Name: Setting Sun Demo
+Appid: 1734150, Name: BorderCollie Game 2 - BorderCollie Blaster Demo
+Appid: 1734160, Name: Search of Galaxy
+Appid: 1734170, Name: Prodigal Demo
+Appid: 1734210, Name: Neon Depth Demo
+Appid: 1734220, Name: Students' horrible stories FIN - Broken gray event
+Appid: 1734230, Name: WHATEVER
+Appid: 1734250, Name: Triple Take
+Appid: 1734270, Name: Royal Frontier
+Appid: 1734280, Name: Card Storm Idle
+Appid: 1734290, Name: Spaceship for Newbies Demo
+Appid: 1733350, Name: The Adventures of Captain Carrot Demo
+Appid: 1733360, Name: Get in the Car, Loser! - Battle on the Big Boardwalk
+Appid: 1733370, Name: Infinity Square Demo
+Appid: 1733400, Name: The Final Frontier
+Appid: 1733430, Name: RUM - Rust Utility Mod
+Appid: 1733460, Name: Lirica
+Appid: 1733470, Name: DIY Lady Fighting
+Appid: 1733480, Name: Diner Bros Inc
+Appid: 1733500, Name: Looking for Aliens
+Appid: 1733510, Name: Beholder 3 Demo
+Appid: 1733540, Name: Bit Sword
+Appid: 1733580, Name: Emergency Crew Volcano Eruption Soundtrack
+Appid: 1733590, Name: 星詠之詩 Playtest
+Appid: 1733610, Name: Alpine - The Simulation Game
+Appid: 1733620, Name: Cursed Pantsu
+Appid: 1733640, Name: This is Timmy Playtest
+Appid: 1733650, Name: Odysseus: A Raziel Demonstration
+Appid: 1733660, Name: Lawnmower Game: Battle
+Appid: 1733670, Name: Astria Ascending - The Art Of Astria Ascending
+Appid: 1733780, Name: Fallen City Brawl Demo
+Appid: 1733810, Name: JARS Demo
+Appid: 1733820, Name: Xenocider Demo
+Appid: 1732855, Name: THE IDOLM@STER STARLIT SEASON - Green Seed UR＃01
+Appid: 1732856, Name: THE IDOLM@STER STARLIT SEASON - Special Item Bundle #01
+Appid: 1732857, Name: THE IDOLM@STER STARLIT SEASON - TOARISE Shionne Original Costume Bundle
+Appid: 1732860, Name: Paint By Numbers - Aquaris Planet
+Appid: 1732870, Name: Paint By Numbers - Vaporum Planet
+Appid: 1732880, Name: Return to Nangrim - Playable Teaser
+Appid: 1732910, Name: Photography Simulator
+Appid: 1732930, Name: Jolt Project
+Appid: 1732940, Name: New Home: Medieval Village Playtest
+Appid: 1732950, Name: Evil Dead: The Game - Ash Williams S-Mart Employee
+Appid: 1732970, Name: 中年失业模拟器-第3季
+Appid: 1732980, Name: TUNGUSKA: A Call in the Woods
+Appid: 1732990, Name: Fire Commander Demo
+Appid: 1733020, Name: Dragon Throne Battle of Red Cliffs
+Appid: 1733030, Name: Knights of the Tiny Table
+Appid: 1733040, Name: The Garden Path Demo
+Appid: 1733050, Name: Stardander
+Appid: 1733060, Name: Ever Seen A Cat?
+Appid: 1733090, Name: Station 35
+Appid: 1733100, Name: The Twins' Experiment
+Appid: 1733110, Name: Circle of Kerzoven
+Appid: 1733120, Name: Arcadian Atlas Demo
+Appid: 1733140, Name: n2222
+Appid: 1733190, Name: Danplace
+Appid: 1733200, Name: Project Wraith Demo
+Appid: 1733210, Name: SafeZone Founder
+Appid: 1733220, Name: Pizza Party
+Appid: 1733230, Name: Vortex
+Appid: 1733250, Name: Turbo Kid
+Appid: 1733260, Name: Painter's Pets Playtest
+Appid: 1733270, Name: Eelah
+Appid: 1733280, Name: TheNuWRLD
+Appid: 1733300, Name: My Stepmom is a Futanari 2
+Appid: 1733310, Name: One Fateful Night
+Appid: 1732704, Name: THE IDOLM@STER STARLIT SEASON - E-mail Bundle From Everyone
+Appid: 1732720, Name: 周松转
+Appid: 1732730, Name: Captures II
+Appid: 1732740, Name: Sakura Hime
+Appid: 1732750, Name: Havsala: Into the Soul Palace
+Appid: 1732760, Name: ENF Novels: Dress Code
+Appid: 1732770, Name: THE IDOLM@STER STARLIT SEASON - Haruka's Stage Production Set
+Appid: 1732771, Name: THE IDOLM@STER STARLIT SEASON - Chihaya's Stage Production Set
+Appid: 1732772, Name: THE IDOLM@STER STARLIT SEASON - Miki's Stage Production Set
+Appid: 1732773, Name: THE IDOLM@STER STARLIT SEASON - Yukiho's Stage Production Set
+Appid: 1732774, Name: THE IDOLM@STER STARLIT SEASON - Yayoi's Stage Production Set
+Appid: 1732775, Name: THE IDOLM@STER STARLIT SEASON - Ritsuko's Stage Production Set
+Appid: 1732776, Name: THE IDOLM@STER STARLIT SEASON - Azusa's Stage Production Set
+Appid: 1732777, Name: THE IDOLM@STER STARLIT SEASON - Iori's Stage Production Set
+Appid: 1732778, Name: THE IDOLM@STER STARLIT SEASON - Makoto's Stage Production Set
+Appid: 1732779, Name: THE IDOLM@STER STARLIT SEASON - Ami's Stage Production Set
+Appid: 1732780, Name: THE IDOLM@STER STARLIT SEASON - Mami's Stage Production Set
+Appid: 1732781, Name: THE IDOLM@STER STARLIT SEASON - Takane's Stage Production Set
+Appid: 1732782, Name: THE IDOLM@STER STARLIT SEASON - Hibiki's Stage Production Set
+Appid: 1732783, Name: THE IDOLM@STER STARLIT SEASON - Nana's Stage Production Set
+Appid: 1732784, Name: THE IDOLM@STER STARLIT SEASON - Ranko's Stage Production Set
+Appid: 1732785, Name: THE IDOLM@STER STARLIT SEASON - Mika's Stage Production Set
+Appid: 1732786, Name: THE IDOLM@STER STARLIT SEASON - Anzu's Stage Production Set
+Appid: 1732787, Name: THE IDOLM@STER STARLIT SEASON - Kirari's Stage Production Set
+Appid: 1732788, Name: THE IDOLM@STER STARLIT SEASON - Mirai's Stage Production Set
+Appid: 1732789, Name: THE IDOLM@STER STARLIT SEASON - Shizuka's Stage Production Set
+Appid: 1732790, Name: THE IDOLM@STER STARLIT SEASON - Tsubasa's Stage Production Set
+Appid: 1732791, Name: THE IDOLM@STER STARLIT SEASON - Tsumugi's Stage Production Set
+Appid: 1732792, Name: THE IDOLM@STER STARLIT SEASON - Kaori's Stage Production Set
+Appid: 1732793, Name: THE IDOLM@STER STARLIT SEASON - Sakuya's Stage Production Set
+Appid: 1732794, Name: THE IDOLM@STER STARLIT SEASON - Kaho's Stage Production Set
+Appid: 1732795, Name: THE IDOLM@STER STARLIT SEASON - Rinze's Stage production set
+Appid: 1732796, Name: THE IDOLM@STER STARLIT SEASON - Amana's Stage Production Set
+Appid: 1732797, Name: THE IDOLM@STER STARLIT SEASON - Tenka's Stage Production Set
+Appid: 1732798, Name: THE IDOLM@STER STARLIT SEASON - Kohaku's Stage Production Set
+Appid: 1732810, Name: THE IDOLM@STER STARLIT SEASON - ALL Stage Production Set Bundle
+Appid: 1732811, Name: THE IDOLM@STER STARLIT SEASON - "THE IDOLM@STER" Stage Production Set Bundle
+Appid: 1732812, Name: THE IDOLM@STER STARLIT SEASON - "Cinderella Girls" Stage Production Set Bundle
+Appid: 1732813, Name: THE IDOLM@STER STARLIT SEASON - "Million Live!" Stage Production Set Bundle
+Appid: 1732814, Name: THE IDOLM@STER STARLIT SEASON - "Shiny Colors" Stage Production Set Bundle
+Appid: 1732830, Name: Paint By Numbers - Wolkano Planet
+Appid: 1732840, Name: Destruction Dummies
+Appid: 1732850, Name: THE IDOLM@STER STARLIT SEASON - 200,000 money＃01
+Appid: 1732851, Name: THE IDOLM@STER STARLIT SEASON - 400,000 money＃01
+Appid: 1732852, Name: THE IDOLM@STER STARLIT SEASON - Red Seed UR＃01
+Appid: 1732853, Name: THE IDOLM@STER STARLIT SEASON - Blue Seed UR: 10 #01
+Appid: 1732854, Name: THE IDOLM@STER STARLIT SEASON - Yellow Seed UR＃01
+Appid: 1732500, Name: Raziel
+Appid: 1732520, Name: INSPIRE Playtest
+Appid: 1732550, Name: THE IDOLM@STER STARLIT SEASON - Haruka's E-mail
+Appid: 1732551, Name: THE IDOLM@STER STARLIT SEASON - Chihaya's E-mail
+Appid: 1732552, Name: THE IDOLM@STER STARLIT SEASON - Miki's E-mail
+Appid: 1732553, Name: THE IDOLM@STER STARLIT SEASON - Yukiho's E-mail
+Appid: 1732554, Name: THE IDOLM@STER STARLIT SEASON - Yayoi's E-mail
+Appid: 1732555, Name: THE IDOLM@STER STARLIT SEASON - Ritsuko's E-mail
+Appid: 1732556, Name: THE IDOLM@STER STARLIT SEASON - Azusa's E-mail
+Appid: 1732557, Name: THE IDOLM@STER STARLIT SEASON - Iori's E-mail
+Appid: 1732558, Name: THE IDOLM@STER STARLIT SEASON - Makoto's E-mail
+Appid: 1732559, Name: THE IDOLM@STER STARLIT SEASON - Ami's E-mail
+Appid: 1732560, Name: rodina.doc
+Appid: 1732570, Name: Beautiful Vikings Soundtrack
+Appid: 1732590, Name: 玄龙山
+Appid: 1732600, Name: Heck Deck Demo
+Appid: 1732620, Name: Tame It! Demo
+Appid: 1732630, Name: THE IDOLM@STER STARLIT SEASON - Mami's E-mail
+Appid: 1732631, Name: THE IDOLM@STER STARLIT SEASON - Takane's E-mail
+Appid: 1732632, Name: THE IDOLM@STER STARLIT SEASON - Hibiki's E-mail
+Appid: 1732633, Name: THE IDOLM@STER STARLIT SEASON - Nana's E-mail
+Appid: 1732634, Name: THE IDOLM@STER STARLIT SEASON - Ranko's E-mail
+Appid: 1732635, Name: THE IDOLM@STER STARLIT SEASON - Mika's E-mail
+Appid: 1732636, Name: THE IDOLM@STER STARLIT SEASON - Anzu's E-mail
+Appid: 1732637, Name: THE IDOLM@STER STARLIT SEASON - Kirari's E-mail
+Appid: 1732638, Name: THE IDOLM@STER STARLIT SEASON - Mirai's E-mail
+Appid: 1732639, Name: THE IDOLM@STER STARLIT SEASON - Shizuka's E-mail
+Appid: 1732650, Name: Fighting Robots
+Appid: 1732660, Name: Car Wash TD - Tower Defense
+Appid: 1732670, Name: THE IDOLM@STER STARLIT SEASON - Tsubasa's E-mail
+Appid: 1732671, Name: THE IDOLM@STER STARLIT SEASON - Tsumugi's E-mail
+Appid: 1732672, Name: THE IDOLM@STER STARLIT SEASON -Kaori's E-mail
+Appid: 1732673, Name: THE IDOLM@STER STARLIT SEASON - Sakuya's E-mail
+Appid: 1732674, Name: THE IDOLM@STER STARLIT SEASON - Rinze's E-mail
+Appid: 1732675, Name: THE IDOLM@STER STARLIT SEASON - Kaho's E-mail
+Appid: 1732676, Name: THE IDOLM@STER STARLIT SEASON - Amana's E-mail
+Appid: 1732677, Name: THE IDOLM@STER STARLIT SEASON - Tenka's E-mail
+Appid: 1732678, Name: THE IDOLM@STER STARLIT SEASON - Kohaku's E-mail
+Appid: 1732690, Name: Beautiful Vikings - Artbook 18+
+Appid: 1732700, Name: THE IDOLM@STER STARLIT SEASON - "Shiny Colors" E-mail Bundle
+Appid: 1732701, Name: THE IDOLM@STER STARLIT SEASON - "Million Live!" E-mail Bundle
+Appid: 1732702, Name: THE IDOLM@STER STARLIT SEASON - "Cinderella Girls" E-mail Bundle
+Appid: 1732703, Name: THE IDOLM@STER STARLIT SEASON - "THE IDOLM@STER" E-mail Bundle
+Appid: 1732000, Name: Midinous Demo
+Appid: 1732010, Name: Live2DViewerEX - Spine Expansion
+Appid: 1732020, Name: Inferno Demo
+Appid: 1732040, Name: Fech The Ferret Demo
+Appid: 1732050, Name: Love Season
+Appid: 1732060, Name: Makai Kingdom: Reclaimed and Rebound
+Appid: 1732070, Name: ZHP: Unlosing Ranger vs. Darkdeath Evilman
+Appid: 1732080, Name: Submerged: Hidden Depths OST
+Appid: 1732090, Name: Words Can Kill
+Appid: 1732120, Name: Paper Mages
+Appid: 1732130, Name: Motivational Hero
+Appid: 1732140, Name: Motivational Hero Vol. 2
+Appid: 1732150, Name: Motivational Hero Soundtrack
+Appid: 1732170, Name: Seqitaire
+Appid: 1732180, Name: 怠惰的怪獸公主不想工作
+Appid: 1732200, Name: Last Vanguard Demo
+Appid: 1732210, Name: Tile Runner
+Appid: 1732220, Name: The Crown of Wu
+Appid: 1732240, Name: Into the Metaverse
+Appid: 1732250, Name: Oldowan Playtest
+Appid: 1732260, Name: Lucent Bounds
+Appid: 1732270, Name: Tanhaji - The Lion Maratha Warrior of Ch. Shivaji
+Appid: 1732280, Name: First Racer Demo
+Appid: 1732290, Name: Climber: Sky is the Limit Demo
+Appid: 1732300, Name: 8874 Demo
+Appid: 1732310, Name: Her Jentle Hi-ness
+Appid: 1732320, Name: Pillars Of Protection Demo
+Appid: 1732330, Name: Ys IX -Monstrum NOX-
+Appid: 1732380, Name: Kingdom Two Crowns: Norse Lands Demo
+Appid: 1732390, Name: Nayuta no Kiseki: KAI
+Appid: 1732400, Name: Perang Laut - Maritime Warfare Demo
+Appid: 1732410, Name: The Remainder - Act 2 Demo
+Appid: 1732430, Name: Just Perfect
+Appid: 1732480, Name: Takkoman -Kouzatsu World-
+Appid: 1731600, Name: Hood: Outlaws & Legends - Battle Pass - 20 Tier Skip Pack
+Appid: 1731610, Name: Sketch Crawler Demo
+Appid: 1731620, Name: Fantasy Grounds - Southlands Worldbook for 5th Edition
+Appid: 1731630, Name: Extrorb
+Appid: 1731670, Name: Foul Play Playtest
+Appid: 1731690, Name: Night Darkness
+Appid: 1731700, Name: Escape The Outbreak
+Appid: 1731720, Name: FURRY SEX: Cabaret 💋🔞
+Appid: 1731730, Name: Snowyland
+Appid: 1731760, Name: Hentai beautiful girls 5 - Wallpapers. Mode 1
+Appid: 1731761, Name: Hentai beautiful girls 5 - Wallpapers. Mode 2
+Appid: 1731762, Name: Hentai beautiful girls 5 - Wallpapers. Mode 3
+Appid: 1731763, Name: Hentai beautiful girls 5 - Wallpapers. Mode 4
+Appid: 1731764, Name: Hentai beautiful girls 5 - Wallpapers. Mode 5
+Appid: 1731770, Name: Gimmick in the Chaos Dimension Soundtrack
+Appid: 1731780, Name: Fantasy Grounds - Southlands Player's Guide for 5th Edition
+Appid: 1731800, Name: Where Is My Parking Spot - Parking Reimagined Demo
+Appid: 1731810, Name: Fantasy Grounds - City of Cats for 5th Edition
+Appid: 1731820, Name: DEBIE ZONE
+Appid: 1731830, Name: Don't Get The Virus
+Appid: 1731850, Name: Prop Factory
+Appid: 1731860, Name: Space Adventures
+Appid: 1731880, Name: Upgrade VR
+Appid: 1731890, Name: A Trail of Ooze Demo
+Appid: 1731910, Name: Farming Simulator 22 - Year 1 Season Pass
+Appid: 1731940, Name: Lost in Space
+Appid: 1731960, Name: R-Type Final 2 - DLC Set 4
+Appid: 1731961, Name: R-Type Final 2 - DLC Set 5
+Appid: 1731962, Name: R-Type Final 2 - DLC Set 6
+Appid: 1731980, Name: Chasing Tails - Tip the Dev
+Appid: 1731990, Name: Super Slam Dunk Touchdown Official Steam Soundtrack
+Appid: 1731100, Name: BIOHAZARD VILLAGE Z Version - Winters’ Expansion
+Appid: 1731101, Name: BIOHAZARD VILLAGE Z Version - Street Wolf Outfit
+Appid: 1731110, Name: Evil Dead: The Game - Ash Williams Gallant Knight
+Appid: 1731120, Name: Cloud Escape
+Appid: 1731130, Name: At Your Service
+Appid: 1731150, Name: Trainz 2019 DLC - PolRegio B16mnopux 035
+Appid: 1731160, Name: Above the Skies - Official Guide
+Appid: 1731170, Name: Space Defender
+Appid: 1731180, Name: Pre-Purchase Bonus - Alfred Hitchcock - Vertigo
+Appid: 1731190, Name: Weiter
+Appid: 1731200, Name: TRATRITLE
+Appid: 1731220, Name: Digital Artbook and Avatars - Deluxe Edition - Alfred Hitchcock - Vertigo
+Appid: 1731270, Name: Global City
+Appid: 1731280, Name: Surfing and Girls Soundtrack
+Appid: 1731290, Name: Spine
+Appid: 1731300, Name: Surfing and Girls - Artbook 18+
+Appid: 1731310, Name: Ukiyo Demo
+Appid: 1731320, Name: Relentless Frontier Demo
+Appid: 1731330, Name: Who's Lila DAEMON
+Appid: 1731340, Name: YARG
+Appid: 1731360, Name: 中国战疫
+Appid: 1731370, Name: POW POW: Dye it up
+Appid: 1731390, Name: Hard Glide
+Appid: 1731400, Name: 巴哈姆特2-龍之新娘 Demo
+Appid: 1731410, Name: Monastery
+Appid: 1731450, Name: Yarn
+Appid: 1731460, Name: LEGO® Brawls
+Appid: 1731470, Name: Storms II
+Appid: 1731490, Name: Alien Hunt
+Appid: 1731500, Name: Dull Grey Soundtrack
+Appid: 1731520, Name: Ark Mobius:Censored Edition
+Appid: 1731530, Name: Tangent Rush Soundtrack
+Appid: 1731540, Name: Tangent Rush Playtest
+Appid: 1731560, Name: North Frontier
+Appid: 1730690, Name: Anxiety Treatment with Relaxation
+Appid: 1730700, Name: We Love Katamari REROLL+ Royal Reverie
+Appid: 1730720, Name: PollyDestroyer 3D
+Appid: 1730730, Name: Shine Within Soundtrack
+Appid: 1730750, Name: Hunkenstein
+Appid: 1730760, Name: Color Connect
+Appid: 1730790, Name: A Sister's Journey
+Appid: 1730800, Name: Neutron and the Tri-Spark
+Appid: 1730820, Name: FamilyWorldRoam
+Appid: 1730830, Name: Thru
+Appid: 1730840, Name: Fantasy Gardens
+Appid: 1730850, Name: Treasure Girl 3D
+Appid: 1730900, Name: Hate Free Heroes Tactics - Strategy Building MMORPG Demo
+Appid: 1730910, Name: 英雄道
+Appid: 1730920, Name: Hatch
+Appid: 1730930, Name: The Backrooms Game
+Appid: 1730970, Name: Age of Creators
+Appid: 1730980, Name: 太空震惊模拟器
+Appid: 1731010, Name: Unrepeatable
+Appid: 1731020, Name: Trainz 2019 DLC - PREG B16mnopux 064
+Appid: 1731040, Name: Shawarma or Shaverma
+Appid: 1731081, Name: Resident Evil Village - Street Wolf Outfit
+Appid: 1731090, Name: Moon Corp. Tower Defense
+Appid: 1730270, Name: IGW - Imperium: Galactic War™ Classic
+Appid: 1730280, Name: BIT BIKE
+Appid: 1730290, Name: TripSync
+Appid: 1730310, Name: The Lonely Helmet
+Appid: 1730340, Name: FBG Arcade Machine
+Appid: 1730360, Name: I'm on Observation Duty 4
+Appid: 1730370, Name: Beat Stickman: Beyond Playtest
+Appid: 1730380, Name: World of MiniMonsters
+Appid: 1730390, Name: Your Show Has Been Cancelled
+Appid: 1730400, Name: Your Show Has Been Cancelled Demo
+Appid: 1730410, Name: Your Show Has Been Cancelled Soundtrack
+Appid: 1730420, Name: Synth Riders: Muse - "Starlight"
+Appid: 1730421, Name: Synth Riders: Muse - "Pressure"
+Appid: 1730422, Name: Synth Riders: Muse - "Reapers"
+Appid: 1730423, Name: Synth Riders: Muse - "Uprising"
+Appid: 1730424, Name: Synth Riders: Muse - "Madness"
+Appid: 1730430, Name: HyperFleet Soundtrack
+Appid: 1730450, Name: Fira
+Appid: 1730460, Name: Nainai’s Recipe
+Appid: 1730470, Name: Colours and Symbols
+Appid: 1730490, Name: Behind the Beyond Demo
+Appid: 1730500, Name: Object Ward
+Appid: 1730510, Name: Object Ward Demo
+Appid: 1730520, Name: 1000 hidden snails
+Appid: 1730530, Name: SparkMutts Playtest
+Appid: 1730540, Name: Alchemistry
+Appid: 1730580, Name: Shattle
+Appid: 1730590, Name: The Entropy Centre
+Appid: 1730620, Name: Infinite Pixel Battles Beta
+Appid: 1730630, Name: The Dawning Clocks Of Time
+Appid: 1730640, Name: Midnight Sky Playtest
+Appid: 1730650, Name: Requisition VR
+Appid: 1730670, Name: A Day in the Park
+Appid: 1730680, Name: Klonoa Phantasy Reverie Series
+Appid: 1729780, Name: Gladiator: about to die
+Appid: 1729790, Name: Escape From School
+Appid: 1729800, Name: Airport Renovator Demo
+Appid: 1729810, Name: Bokuhime Project
+Appid: 1729820, Name: Eyeballs are your ENEMIES!
+Appid: 1729830, Name: Tactical Monsters - Strategy Edition
+Appid: 1729840, Name: Core Alpha
+Appid: 1729850, Name: DROPTCH Soundtrack
+Appid: 1729880, Name: Necore Tower - Redux Edition Demo
+Appid: 1729890, Name: Fantasy Jigsaw Puzzle 2 - ArtBook
+Appid: 1729900, Name: Rhythm Brawl
+Appid: 1729910, Name: Hampuzz Demo
+Appid: 1729920, Name: Wild West Z
+Appid: 1729930, Name: Big Farm Story - Peaceful Nature Pack
+Appid: 1729931, Name: Big Farm Story - Pet Paradise Pack
+Appid: 1729950, Name: Hentai Jigsaw Girls 3
+Appid: 1729960, Name: Gamedec - Digital Soundtrack
+Appid: 1729970, Name: The Art Of Gamedec
+Appid: 1729990, Name: Light2Live Demo
+Appid: 1730000, Name: Sqroma
+Appid: 1730010, Name: Charged!
+Appid: 1730020, Name: Teamkill
+Appid: 1730030, Name: Skeleton Troubles
+Appid: 1730040, Name: Gamedec: Torkil Aymore - The Original One
+Appid: 1730050, Name: Last Minute
+Appid: 1730060, Name: Deep Space Salvage Crew VR
+Appid: 1730070, Name: Roskis: A Boozy Beginning Soundtrack
+Appid: 1730080, Name: Beyond the Long Night
+Appid: 1730090, Name: Evil Soul
+Appid: 1730100, Name: 69 Yuki Love
+Appid: 1730110, Name: Dinogotchi
+Appid: 1730140, Name: Light
+Appid: 1730150, Name: Captain Jackson
+Appid: 1730160, Name: MoveUp
+Appid: 1730170, Name: Bull3000VRTS
+Appid: 1730190, Name: The Patient S Remedy
+Appid: 1730200, Name: Veil of Dust: A Homesteading Game - Demo
+Appid: 1730220, Name: PIGFACE MASSACRE
+Appid: 1730230, Name: Dark Runner Soundtrack
+Appid: 1730240, Name: Cruise Ship Manager
+Appid: 1730260, Name: Retro Gadgets
+Appid: 1729280, Name: Boxception
+Appid: 1729300, Name: PlayForm: Human Dynamics
+Appid: 1729340, Name: Midnight School Walk 真夜中学園さんぽ
+Appid: 1729350, Name: Flynn: Son of Crimson Soundtrack
+Appid: 1729370, Name: OnlyGame: Working Girls
+Appid: 1729380, Name: TECHNOBOG
+Appid: 1729420, Name: PaintballX
+Appid: 1729490, Name: PaintballX Alpha
+Appid: 1729500, Name: 铁道物语:陆王 - 风林火山扩展包
+Appid: 1729550, Name: 铁道物语:陆王-弥与森拓展包
+Appid: 1729570, Name: Cast
+Appid: 1729590, Name: Auto Cell: Game of Life
+Appid: 1729610, Name: Redmatch 2 - Fashionable Attire Bundle
+Appid: 1729650, Name: Cast Demo
+Appid: 1729660, Name: Hyper Bullet
+Appid: 1729680, Name: Horny Sekai - DLC 18+ Adult Only
+Appid: 1729700, Name: 皇帝与社稷·测试版 The Emperor and State·Beta version
+Appid: 1729710, Name: Roskis: A Boozy Beginning
+Appid: 1729730, Name: MageRun
+Appid: 1729740, Name: Luto
+Appid: 1729760, Name: Die After Sunset Playtest
+Appid: 1728790, Name: Ex Natura Demo
+Appid: 1728820, Name: NSFW Patch
+Appid: 1728830, Name: Space Docker VR
+Appid: 1728850, Name: Insaniam
+Appid: 1728870, Name: Disciples: Liberation Demo
+Appid: 1728880, Name: CANNON
+Appid: 1728910, Name: IL-2 Sturmovik: Sd.Kfz. 10/5 Flak 38 Anti-Aircraft Gun
+Appid: 1728920, Name: 東方霊守祀 ~ Consciousness' Unity of Opposites Demo
+Appid: 1728940, Name: The Will of Our Fathers Demo
+Appid: 1728960, Name: Evolution of War
+Appid: 1728970, Name: Splash Cars Demo
+Appid: 1728990, Name: The Forest Cathedral Demo
+Appid: 1729010, Name: Operation Outsmart Demo
+Appid: 1729050, Name: The Fox in the Forest
+Appid: 1729060, Name: Battle Brigade
+Appid: 1729070, Name: Paradise Delight
+Appid: 1729080, Name: Wavy Trip
+Appid: 1729090, Name: Chameneon
+Appid: 1729100, Name: Chameleon - DYH
+Appid: 1729120, Name: Tank Golfing
+Appid: 1729140, Name: Hired 2 Die
+Appid: 1729150, Name: Mysterious warrior
+Appid: 1729160, Name: Heartseeker
+Appid: 1729170, Name: Eternal Warfare
+Appid: 1729180, Name: Last Vanguard
+Appid: 1729190, Name: Incubus Express
+Appid: 1729210, Name: Xtreme Aces Racing
+Appid: 1729260, Name: EOS 27
+Appid: 1728280, Name: メイジズメイズ　PLAY　～淫魔の洞窟に挑む冒険者～
+Appid: 1728290, Name: Decide 4 God
+Appid: 1728300, Name: 狂の世界-Crazy World-
+Appid: 1728310, Name: 蛛火Spider fire
+Appid: 1728320, Name: Dirty Fighter: Hollow Point City
+Appid: 1728380, Name: CTFS
+Appid: 1728390, Name: 怪盗ミューのシークレットプリマ
+Appid: 1728410, Name: 刺魔猎人THORN DEMON HUNTER
+Appid: 1728420, Name: RandoMine
+Appid: 1728430, Name: I wanna go home
+Appid: 1728450, Name: My Cozy Home
+Appid: 1728460, Name: 阴缘
+Appid: 1728490, Name: 办公室叔叔/UncleOffice
+Appid: 1728500, Name: Kirkileons
+Appid: 1728530, Name: Chernobyl inferno Demo
+Appid: 1728550, Name: Phantom Thief Sylphy
+Appid: 1728560, Name: 致命游戏-Lethal Gamble 1 Werewolf Puzzle
+Appid: 1728590, Name: Detention Club: School's Out
+Appid: 1728600, Name: Terebron Demo
+Appid: 1728610, Name: Beyond The Darkness
+Appid: 1728640, Name: Falling As Lightning
+Appid: 1728650, Name: KeyWe - Early Bird Pack
+Appid: 1728660, Name: Rush Rally Origins
+Appid: 1728670, Name: The Legend of the Lost World
+Appid: 1728680, Name: Legendary Tales: Stolen Life
+Appid: 1728690, Name: Legendary Tales: Сataclysm
+Appid: 1728700, Name: Terranova
+Appid: 1728730, Name: Zaccaria Pinball - Zankor Deluxe Pinball Table
+Appid: 1728740, Name: Angel's Tale : An extraordinary love story
+Appid: 1728750, Name: Atomic Cards Playtest
+Appid: 1728760, Name: IZBOT 2 Demo
+Appid: 1728770, Name: Penguin Quest
+Appid: 1727790, Name: Tentacle Prawn: (Actually) A Cthulhu Dating Sim
+Appid: 1727800, Name: Society
+Appid: 1727810, Name: Diamond Hands: To The Moon
+Appid: 1727830, Name: OPUS: Echo of Starsong Original Soundtrack -Best Selection-
+Appid: 1727840, Name: The Judgement of Q
+Appid: 1727880, Name: 指示厨
+Appid: 1727890, Name: Vita Fighters Demo
+Appid: 1727900, Name: Cyberpunk Samurai VR
+Appid: 1727910, Name: Hope Trigger
+Appid: 1727920, Name: Just Box Demo
+Appid: 1727990, Name: 13 WOOD ST
+Appid: 1728000, Name: Passive Income Playtest
+Appid: 1728010, Name: Drowned Helicopter
+Appid: 1728020, Name: Plague Infection
+Appid: 1728030, Name: Zen: A Gay Sequel Coloring Book
+Appid: 1728050, Name: Teabat! Demo
+Appid: 1728070, Name: Nebular Crush Demo
+Appid: 1728080, Name: Roseblight
+Appid: 1728090, Name: Vroom! Obstacle Racing
+Appid: 1728100, Name: Wild West Rogue
+Appid: 1728110, Name: Auto Mechanic
+Appid: 1728120, Name: Desert War
+Appid: 1728130, Name: Alone
+Appid: 1728150, Name: Nano Racing
+Appid: 1728160, Name: Flipping Beat
+Appid: 1728170, Name: The Tower Stacker
+Appid: 1728180, Name: Astral Shipwright
+Appid: 1728210, Name: Starseed Soundtrack Free Ep 3
+Appid: 1728220, Name: RPG Maker VX Ace - Magic Spells Sound Pack
+Appid: 1728230, Name: RPG Maker MV - Magic Spells Sound Pack
+Appid: 1728240, Name: RPG Maker MZ - Magic Spells Sound Pack
+Appid: 1728250, Name: Visual Novel Maker - Magic Spells Sound Pack
+Appid: 1728260, Name: Veil of the Volcano
+Appid: 1727280, Name: The Fall of Balance Demo
+Appid: 1727300, Name: Graviteam Tactics: Raging Bridgehead
+Appid: 1727310, Name: Project: Cow
+Appid: 1727320, Name: Phoenix Pro Theater Media Player
+Appid: 1727330, Name: Weapons Knight Soundtrack
+Appid: 1727340, Name: Spirited Thief Playtest
+Appid: 1727350, Name: Box Party
+Appid: 1727360, Name: Omegabot Demo
+Appid: 1727390, Name: Evil Wizard Demo
+Appid: 1727400, Name: Captain Diarrhea and The Shartening
+Appid: 1727420, Name: Midinous
+Appid: 1727430, Name: BASIC ROGUE
+Appid: 1727440, Name: Dyflexion
+Appid: 1727450, Name: Secrets of the Middle Ages
+Appid: 1727460, Name: Death Becomes You Demo
+Appid: 1727480, Name: Zen: A Gay Sequel Soundtrack
+Appid: 1727510, Name: Osylla Demo
+Appid: 1727520, Name: ヤマふだ！　にごうめ
+Appid: 1727530, Name: Unit Down Demo
+Appid: 1727540, Name: Primordials Legends: Hollow Hero
+Appid: 1727550, Name: GRANDMA
+Appid: 1727590, Name: The Spirit Lift
+Appid: 1727600, Name: Crazy Invader ShootEm Down
+Appid: 1727620, Name: Neighbor Diana
+Appid: 1727630, Name: Faylinn's Quest: Magical Side Story
+Appid: 1727660, Name: Space Yandere
+Appid: 1727670, Name: Home office Tasker
+Appid: 1727700, Name: Blackout: The Darkest Night - Extras
+Appid: 1727710, Name: Qube Saga Demo
+Appid: 1727730, Name: Choppa: Rescue Rivals Demo
+Appid: 1727740, Name: Vita Fighters
+Appid: 1727750, Name: Old Salt
+Appid: 1726790, Name: Surface: Virtual Detective Collector's Edition
+Appid: 1726810, Name: Psychonauts 2 Soundtrack Vol 1
+Appid: 1726830, Name: Clanfolk Demo
+Appid: 1726840, Name: Gone Viral - Soundtrack
+Appid: 1726850, Name: Droopy Balls Simulator 2021
+Appid: 1726860, Name: Apocalyptic Adventure: Episode 1
+Appid: 1726870, Name: Nebraska
+Appid: 1726900, Name: The Circle Of Suffering Demo
+Appid: 1726920, Name: RPG Sounds - Deep Sea Tales - Sound Pack
+Appid: 1726930, Name: RoboWarehouse
+Appid: 1726960, Name: Abaddon: Princess of the Decay Demo
+Appid: 1726970, Name: Where's My Lunch?!
+Appid: 1727000, Name: ゆうゆう自適のゆうかりん
+Appid: 1727030, Name: Absylon 7
+Appid: 1727050, Name: Absylon 7 Demo
+Appid: 1727070, Name: Surgical Robot Simulator
+Appid: 1727090, Name: RX Racing 2021 Pro
+Appid: 1727100, Name: 69 Summon Succubus
+Appid: 1727110, Name: March! March! Demo
+Appid: 1727120, Name: Gangs of Rikton Demo
+Appid: 1727140, Name: CYNOROID FORSAKEN
+Appid: 1727160, Name: Endings Demo
+Appid: 1727170, Name: Block in the Lock Soundtrack
+Appid: 1727180, Name: NeverAwake
+Appid: 1727200, Name: Kittens in Post-Apocalyptic Fantasy San Francisco: Battle School for Only the Most Awesome Monsters
+Appid: 1727210, Name: MINDHACK
+Appid: 1727220, Name: Summoner's Mess
+Appid: 1727240, Name: Eternal Dreamers - Maid Sakia (Fashion)
+Appid: 1727250, Name: The Hero of Bangaona
+Appid: 1727260, Name: Puzzle Fever
+Appid: 1727270, Name: Murderous Muses
+Appid: 1533320, Name: Best Day Ever Demo
+Appid: 1533330, Name: Deflection Demo
+Appid: 1533340, Name: RPG Maker MZ - Wizard Castle Inner Tiles
+Appid: 1533350, Name: RPG Maker MZ - Future Steam Punk
+Appid: 1533360, Name: Fantasy Grounds - Deadlands: The Weird West: Archetypes 01
+Appid: 1533370, Name: Undiscovered House
+Appid: 1533380, Name: Keridwen
+Appid: 1533410, Name: Mollycoddle Mayhem
+Appid: 1533430, Name: LOCO music
+Appid: 1533460, Name: Cloud Climber - Fan Pack
+Appid: 1533470, Name: TimeShifters
+Appid: 1533500, Name: Orkana Conflict VR
+Appid: 1533520, Name: VR Black Hole Travel Hypothesis
+Appid: 1533530, Name: Pixel Heroes
+Appid: 1533540, Name: The Help Desk Demo
+Appid: 1533550, Name: Equan - The Watchful Guardian
+Appid: 1533560, Name: 守卫魔兽-Guardian of Warcraft
+Appid: 1533570, Name: Word Wise
+Appid: 1533580, Name: Dots n Lines
+Appid: 1533590, Name: Three Fairies' Hoppin' Flappin' Great Journey! | 三妖精のぴょこぴょこ討伐大作戦！
+Appid: 1533600, Name: The 2020 Trail
+Appid: 1533610, Name: Across Killzone
+Appid: 1533650, Name: Knight Throde
+Appid: 1533680, Name: Dead Grid
+Appid: 1533710, Name: CipherPilot Demo
+Appid: 1533720, Name: Over The Phone
+Appid: 1533750, Name: 小小精灵塔防
+Appid: 1533760, Name: CrazyDoc
+Appid: 1533770, Name: The Thief Girl
+Appid: 1533780, Name: A Walk Through Echoes
+Appid: 1532920, Name: Clutter IX: Clutter IXtreme
+Appid: 1532930, Name: Kaigrad Soundtrack
+Appid: 1532950, Name: The Longest Road on Earth Demo
+Appid: 1533000, Name: SnowRunner - Sabertooth Livery
+Appid: 1533001, Name: SnowRunner - Navistar 5000-MV Tractor
+Appid: 1533002, Name: SnowRunner - High Roller Pack
+Appid: 1533003, Name: SnowRunner - Loaded Dice Vinyl Wrap
+Appid: 1533004, Name: SnowRunner - Scorched Vinyl Wrap
+Appid: 1533005, Name: SnowRunner - True Colors Vinyl Wrap
+Appid: 1533006, Name: SnowRunner - Season 1: Search & Recover
+Appid: 1533008, Name: SnowRunner - Season 3: Locate & Deliver
+Appid: 1533010, Name: SnowRunner - Western Star 49X
+Appid: 1533011, Name: SnowRunner - Clasico Pack
+Appid: 1533020, Name: Ashwalkers Demo
+Appid: 1533030, Name: Glbasic: HTML5 Compiler
+Appid: 1533040, Name: Snowtopia Supporter Edition
+Appid: 1533050, Name: Press Ctrl
+Appid: 1533060, Name: Winery Simulator
+Appid: 1533070, Name: Oracle Trials
+Appid: 1533080, Name: Lumexa
+Appid: 1533120, Name: Shonen Adventure : The Dual Blades Hero
+Appid: 1533150, Name: Steel Assault Demo
+Appid: 1533160, Name: Glitcheon
+Appid: 1533170, Name: RPG Maker MZ - Fantasy Heroine Character Pack 2
+Appid: 1533180, Name: RPG Maker MZ - Fantasy Heroine Character Pack 4
+Appid: 1533200, Name: RPG Maker MZ - Mystic Voices Sound Pack
+Appid: 1533210, Name: RPG Maker MZ - Modern + Inner Basic Tiles
+Appid: 1533220, Name: RPG Maker MZ - Medieval Expansion
+Appid: 1533230, Name: RPG Maker MZ - Medieval Fantasy Weapons Pack
+Appid: 1533240, Name: Love Fantasy - 18+ Content
+Appid: 1533250, Name: RPG Maker MZ - Town of Seasons - Interiors
+Appid: 1533260, Name: Morph Space
+Appid: 1533270, Name: RPG Maker MZ - Hiroki Kikuta music pack: The Calm
+Appid: 1533280, Name: Eternal Cave Escape
+Appid: 1533290, Name: Fantasy Grounds - Rise of the Drow: Collector's Edition
+Appid: 1533300, Name: T. B. P.
+Appid: 1532440, Name: Tournament of Armistice: Preliminaries
+Appid: 1532460, Name: The Fridge is Red
+Appid: 1532470, Name: A Western Drama Soundtrack
+Appid: 1532500, Name: The Captain is Dead - Soundtrack
+Appid: 1532520, Name: Day Repeat Day
+Appid: 1532540, Name: 4 Witch Seasons & Convenant Demo
+Appid: 1532550, Name: Kingshunt Demo
+Appid: 1532570, Name: Wordle - Deutsche
+Appid: 1532580, Name: Wordle -  中文
+Appid: 1532600, Name: Confessions Demo
+Appid: 1532610, Name: Wordle - Русский
+Appid: 1532630, Name: Wordle - Français
+Appid: 1532640, Name: El Mucho
+Appid: 1532670, Name: The Book of Shadows - Official Guide (328 pages)
+Appid: 1532680, Name: The Damathos Clan
+Appid: 1532690, Name: BLACKTAIL
+Appid: 1532710, Name: Lucy Dreaming
+Appid: 1532730, Name: Alchemist Adventure Soundtrack
+Appid: 1532750, Name: Jigsaw Pieces 2 - Shades of Mood
+Appid: 1532760, Name: Jigsaw Pieces 3 - Fantasy
+Appid: 1532770, Name: Sex and the Furry Titty
+Appid: 1532780, Name: The Magnets
+Appid: 1532790, Name: Pizza Empire
+Appid: 1532800, Name: Squirrel Divorce
+Appid: 1532810, Name: Gongo
+Appid: 1532850, Name: Zen World Demo
+Appid: 1532870, Name: Your city in 3D
+Appid: 1532880, Name: Crystal Raiders VR Demo
+Appid: 1532890, Name: World Turtles Demo
+Appid: 1532900, Name: Beacon Pines Demo
+Appid: 1532910, Name: Market Renovation
+Appid: 1531930, Name: Rubicon : a conspiracy of silence 
+Appid: 1531940, Name: Connect
+Appid: 1532020, Name: Beastie Land Demo
+Appid: 1532060, Name: Gone Upstate 2 : Big Sky Country
+Appid: 1532080, Name: HeadCount
+Appid: 1532120, Name: Spaceteam: The Second Dimension
+Appid: 1532150, Name: LineArt Jigsaw Puzzle - Erotica 3
+Appid: 1532170, Name: Veneficium
+Appid: 1532180, Name: Evo\Wave
+Appid: 1532190, Name: Halo: CE Mod Tools - MCC
+Appid: 1532220, Name: Zniw Adventure Soundtrack
+Appid: 1532240, Name: PocketCiv
+Appid: 1532250, Name: The Catacombs of Solaris Revisited
+Appid: 1532260, Name: Sliko
+Appid: 1532270, Name: The Maker Way
+Appid: 1532300, Name: Sugar Story
+Appid: 1532330, Name: RoboSquare - Valentines 2021
+Appid: 1532360, Name: Joyspring
+Appid: 1532380, Name: The big head of the Jurassic
+Appid: 1532390, Name: Retexo Mori Demo
+Appid: 1532400, Name: 4 Witch Seasons & Convenant
+Appid: 1532410, Name: VanillaBeast: Ace in the Hole
+Appid: 1531490, Name: Harmony's Odyssey
+Appid: 1531510, Name: 游戏开发的二三事 Demo
+Appid: 1531550, Name: Megacraft Hentai Battlegrounds
+Appid: 1531570, Name: Stuffed Demo
+Appid: 1531580, Name: Dimensions Puzzle
+Appid: 1531590, Name: Singles' Generation
+Appid: 1531602, Name: Evil Genius 2: In-Genius Items Pack
+Appid: 1531603, Name: Evil Genius 2: Rise of the Valkyrie Pack
+Appid: 1531604, Name: Evil Genius 2: Team Fortress 2 - Pyro Pack
+Appid: 1531605, Name: Evil Genius 2: Portal Pack
+Appid: 1531606, Name: Evil Genius 2:  Mechanical Minions Pack
+Appid: 1531607, Name: Evil Genius 2: Abomination Pack
+Appid: 1531608, Name: Evil Genius 2: Oceans Campaign Pack
+Appid: 1531610, Name: Home Designer - Home Sweet Home
+Appid: 1531620, Name: reIterate()
+Appid: 1531650, Name: Ancient Gladiators
+Appid: 1531670, Name: Dino Galaxy Tennis Demo
+Appid: 1531680, Name: 修真之路
+Appid: 1531690, Name: Gore Tears
+Appid: 1531720, Name: Need for Drive - Open World Multiplayer Racing
+Appid: 1531730, Name: Japanese Drag Racing (JDM) - ジェイディーエム
+Appid: 1531740, Name: Isles of Pangaea Demo
+Appid: 1531750, Name: Highway Traffic Racer
+Appid: 1531780, Name: 废土黄昏 Dusk of the wasteland age
+Appid: 1531790, Name: Silent Earth
+Appid: 1531800, Name: Retro Racer
+Appid: 1531810, Name: Invisible Wings Demo
+Appid: 1531820, Name: The Last Stand: Aftermath Demo
+Appid: 1531840, Name: OLEG MONGOL
+Appid: 1531850, Name: AdventNEON Demo
+Appid: 1531860, Name: AdventNEON DEMO Soundtrack
+Appid: 1531050, Name: C-130 Animation
+Appid: 1531070, Name: Sixth Extinction
+Appid: 1531100, Name: Dudes on a Map: Game Master
+Appid: 1531140, Name: Victoria's Body
+Appid: 1531170, Name: Tribal
+Appid: 1531190, Name: Paper Glider
+Appid: 1531200, Name: Pixelstar Hero
+Appid: 1531210, Name: Weed Shop 3 Early Demo
+Appid: 1531230, Name: Match Puzzle
+Appid: 1531250, Name: Defend the Rook
+Appid: 1531270, Name: Dance with me
+Appid: 1531280, Name: 吕布列传
+Appid: 1531290, Name: Nebuli
+Appid: 1531300, Name: Galaxy X
+Appid: 1531310, Name: 棄海：波弟大冒險  Demo
+Appid: 1531320, Name: Radio Viscera Demo
+Appid: 1531340, Name: Seasonspree
+Appid: 1531360, Name: The Wicked Playtest
+Appid: 1531390, Name: Star Conflict - Pirate weapons Pack
+Appid: 1531400, Name: Airport Simulator 3: Day & Night - Digital Deluxe Content
+Appid: 1531440, Name: Mafia Gangster City Background Pack
+Appid: 1531460, Name: Distorted world
+Appid: 1531470, Name: Cities: Skylines - Content Creator Pack: Train Stations
+Appid: 1531471, Name: Cities: Skylines - Content Creator Pack: Bridges & Piers
+Appid: 1531472, Name: Cities: Skylines - Rail Hawk Radio
+Appid: 1531473, Name: Cities: Skylines - Sunny Breeze Radio
+Appid: 1531480, Name: Wanba Warriors DLC - Character Pack 3
+Appid: 1530580, Name: Lame Defenders
+Appid: 1530600, Name: Narita Boy Demo
+Appid: 1530630, Name: Couch Monsters
+Appid: 1530640, Name: Deep Rock Galactic - Dawn of the Dread Pack
+Appid: 1530650, Name: HENTAICRAFT
+Appid: 1530670, Name: Buyhads
+Appid: 1530690, Name: Dirty Cop Simulator
+Appid: 1530700, Name: WHALIEN Playtest
+Appid: 1530720, Name: Sport Mode
+Appid: 1530730, Name: Genesis Noir Soundtrack
+Appid: 1530750, Name: EVERSLAUGHT
+Appid: 1530760, Name: Kaigrad
+Appid: 1530770, Name: Star Wars™ Pinball VR
+Appid: 1530790, Name: Paper Jam!
+Appid: 1530800, Name: Frank and Drake
+Appid: 1530830, Name: Save the Pirate: Ice age
+Appid: 1530860, Name: Mental Hospital VR
+Appid: 1530882, Name: Anno 1800 - Docklands
+Appid: 1530890, Name: Car Constructor
+Appid: 1530900, Name: Ranch Simulator Demo
+Appid: 1530910, Name: GetsuFumaDen
+Appid: 1530940, Name: Donate to VoxelSuite
+Appid: 1530980, Name: South Pass
+Appid: 1530990, Name: Phoenix Dust
+Appid: 1531000, Name: Crime Stories 2: In the Shadows
+Appid: 1531010, Name: Collisus
+Appid: 1531030, Name: NORSK: Epistle
+Appid: 1531040, Name: Pavlov's House
+Appid: 1530150, Name: Worn Thin
+Appid: 1530160, Name: Digimon World: Next Order
+Appid: 1530190, Name: One Rainy Night
+Appid: 1530230, Name: Restless Night
+Appid: 1530240, Name: Toodles & Toddlers
+Appid: 1530250, Name: Operation Desolate Void
+Appid: 1530260, Name: Zahhak
+Appid: 1530270, Name: EARTH DEFENSE FORCE: WORLD BROTHERS - Additional Character: Riho Futaba, Original Blue Swimsuit
+Appid: 1530271, Name: EARTH DEFENSE FORCE: WORLD BROTHERS - Additional Character: Riho Futaba, Classic Hostess Costume
+Appid: 1530272, Name: EARTH DEFENSE FORCE: WORLD BROTHERS - Additional Character: Riho Futaba, Cool Summer Outfit
+Appid: 1530273, Name: EARTH DEFENSE FORCE: WORLD BROTHERS - Additional Character: Riho Futaba, Merry Santa Costume
+Appid: 1530280, Name: Pixel Game Maker Series Puzzle Pedestrians
+Appid: 1530290, Name: Nonestory
+Appid: 1530300, Name: Auto Chess
+Appid: 1530310, Name: Dyson Sphere Program - Digital Art Book
+Appid: 1530320, Name: Lawless Lands Outlander Skin Pack
+Appid: 1530340, Name: Incremental Epic Hero
+Appid: 1530360, Name: endlessCorona
+Appid: 1530370, Name: Speedy Gun Savage
+Appid: 1530380, Name: 破镜恐惧-第一章-扩展包
+Appid: 1530420, Name: Fallen Tear: The Ascension Demo
+Appid: 1530430, Name: Hunt: Showdown - Spirit of Nian
+Appid: 1530440, Name: Balance Ball
+Appid: 1530480, Name: Casina: A Visual Novel set in Ancient Greece Demo
+Appid: 1530500, Name: WRC 9 Audi Quattro A2 1984
+Appid: 1530501, Name: WRC 9 Toyota Corolla 1999
+Appid: 1530502, Name: WRC 9 Barcelona SSS
+Appid: 1530503, Name: WRC 9 Career Starter Upgrades
+Appid: 1530504, Name: WRC 9 FIA Rally Star
+Appid: 1530530, Name: Discovery
+Appid: 1530540, Name: Lake Resort Flipper
+Appid: 1530570, Name: Machinika Museum Demo
+Appid: 1529680, Name: LightWave Demo
+Appid: 1529690, Name: Enemy Remains Demo
+Appid: 1529710, Name:  Симулятор Прыгания по Гаражам 
+Appid: 1529730, Name: DOOMER SIMULATOR
+Appid: 1529750, Name: SNUSOED
+Appid: 1529770, Name: Tezz
+Appid: 1529780, Name: Quant
+Appid: 1529790, Name: Dead Estate Demo
+Appid: 1529800, Name: SpacePOM
+Appid: 1529810, Name: Psycholonials
+Appid: 1529820, Name: Snowdrop Escape Original Soundtrack
+Appid: 1529860, Name: Ulna Online
+Appid: 1529870, Name: Slidungeon Demo
+Appid: 1529910, Name: Reticent Retribution
+Appid: 1529920, Name: WolfQuest: Anniversary - Yellowstone Wolf Coat Pack
+Appid: 1529930, Name: WolfQuest Anniversary - Lost River
+Appid: 1529940, Name: The Cyclist: Tactics Demo
+Appid: 1529970, Name: Fantasy Grounds - Pathfinder 2 RPG - Agents of Edgewatch AP 5: Belly of the Black Whale
+Appid: 1529980, Name: CHACAL Soundtrack
+Appid: 1530000, Name: The Menacing
+Appid: 1530010, Name: Forza Horizon 4 Japanese Heroes Car Pack
+Appid: 1530011, Name: Forza Horizon 4 Open Top Car Pack
+Appid: 1530020, Name: Broken Dungeon
+Appid: 1530040, Name: Creas
+Appid: 1530070, Name: #Snake2 DX: Reawakening
+Appid: 1530080, Name: Geneforge Hintbook and Bonuses
+Appid: 1530120, Name: You Must Survive
+Appid: 1530130, Name: Billiards Dungeon
+Appid: 1530140, Name: Aventura Copilului Albastru și Urât
+Appid: 1529230, Name: BALSA Model Flight Simulator Playtest
+Appid: 1529260, Name: Postapo Mechanic Simulator
+Appid: 1529280, Name: Foregone Demo
+Appid: 1529290, Name: Prison Wars
+Appid: 1529320, Name: Sword of the Necromancer Soundtrack
+Appid: 1529330, Name: The Amazing American Circus Beta
+Appid: 1529350, Name: Astral Ascension
+Appid: 1529360, Name: Lovecraft Tales Demo
+Appid: 1529380, Name: Miss You: Marion
+Appid: 1529390, Name: Miss You: Alice
+Appid: 1529400, Name: Miss You: Cora
+Appid: 1529410, Name: Jigsaw Pieces - Romance
+Appid: 1529420, Name: In My Shadow Demo
+Appid: 1529430, Name: Panic Mode
+Appid: 1529440, Name: Bomb Escape
+Appid: 1529450, Name: Nerve Soundtrack
+Appid: 1529500, Name: Bakumari Demo
+Appid: 1529510, Name: Scarlet Hood and the Wicked Wood Demo
+Appid: 1529520, Name: Devastator Demo
+Appid: 1529530, Name: Into The Darkness VR
+Appid: 1529540, Name: Journey On Demo
+Appid: 1529550, Name: The Magnificent Trufflepigs
+Appid: 1529560, Name: Knight Squad 2 Trials
+Appid: 1529570, Name: MorphVOX Pro 5 - Voice Changer
+Appid: 1529630, Name: Distant Kingdoms Demo
+Appid: 1529640, Name: Hanako's flower shop
+Appid: 1529660, Name: The Battle of Polytopia - Cymanti Tribe
+Appid: 1528730, Name: Shores Unknown Playtest
+Appid: 1528760, Name: Treasure Drifter: Nian Playtest
+Appid: 1528780, Name: ABERRATION TOWN
+Appid: 1528790, Name: Flying Girls-DLC1
+Appid: 1528791, Name: Flying Girls-DLC2
+Appid: 1528800, Name: Nakadashi Banzai 4
+Appid: 1528810, Name: Exodus Borealis
+Appid: 1528820, Name: Unconventional Ragdoll Game
+Appid: 1528830, Name: Dash Hale Demo
+Appid: 1528860, Name: The Legend of Karl
+Appid: 1528870, Name: The Legend of Karl Demo
+Appid: 1528880, Name: Time to GOLF
+Appid: 1528900, Name: Charge Champs
+Appid: 1528910, Name: Cradle-18
+Appid: 1528920, Name: Andromeda Zombies Colonies
+Appid: 1528950, Name: 主播模拟器（Streamer Simulator）
+Appid: 1528970, Name: Gods of the Twilight
+Appid: 1528980, Name: Pit of Ascension
+Appid: 1528990, Name: Rabi-Ribi - Orchestra Music Mode & Skin
+Appid: 1529000, Name: Role of Remains "Demo"
+Appid: 1529010, Name: Sumire Demo
+Appid: 1529020, Name: Supa Birdie Boi Demo
+Appid: 1529040, Name: Color War
+Appid: 1529050, Name: Paper Beast - VR Upgrade
+Appid: 1529070, Name: Grand Casino Tycoon Demo
+Appid: 1529080, Name: Heavy Duty Challenge Demo
+Appid: 1529090, Name: Intergalactic Pawn Shop Demo
+Appid: 1529100, Name: What The Maze
+Appid: 1529140, Name: Hero Park
+Appid: 1529150, Name: Aerial_Knights Never Yield Demo
+Appid: 1529160, Name: Gunborg: Dark Matters
+Appid: 1529180, Name: Deck RX
+Appid: 1529210, Name: FORZA POLPO Playtest
+Appid: 1528270, Name: Gem Deeps Demo
+Appid: 1528280, Name: THE HIGHLANDS
+Appid: 1528290, Name: Across the demon realm
+Appid: 1528300, Name: Mythic Zombies
+Appid: 1528330, Name: Mages Defense
+Appid: 1528370, Name: CHACAL
+Appid: 1528380, Name: Infinite Dungeon Crawler - Purchase Base Game
+Appid: 1528381, Name: Infinite Dungeon Crawler - The Frozen Expanse
+Appid: 1528382, Name: Infinite Dungeon Crawler - The Infernal Dungeons
+Appid: 1528390, Name: Dungeon Dan Demo
+Appid: 1528430, Name: Rolf
+Appid: 1528440, Name: Totally Reliable Delivery Service - Stunt Sets
+Appid: 1528441, Name: Totally Reliable Delivery Service - Cyberfunk
+Appid: 1528442, Name: Totally Reliable Delivery Service - Dress Code
+Appid: 1528460, Name: Death's Door Soundtrack
+Appid: 1528470, Name: Starlight: Defence Command
+Appid: 1528480, Name: RPG Sounds - SciFi - Sound Pack
+Appid: 1528490, Name: RPG Sounds - Ranged - Sound Pack
+Appid: 1528500, Name: LUNARK Demo
+Appid: 1528510, Name: Cold Heart Demo
+Appid: 1528520, Name: Fenrir's Prelude
+Appid: 1528530, Name: My Sister's Secret
+Appid: 1528540, Name: Holy Whore Emily
+Appid: 1528550, Name: Imprisoned Queen
+Appid: 1528570, Name: Royale Island Showdown
+Appid: 1528580, Name: Neon Ships: The Type'em Up Shooter
+Appid: 1528590, Name: VSCS-II
+Appid: 1528610, Name: Zombie Jack
+Appid: 1528660, Name: Guts 'N Goals Demo
+Appid: 1528680, Name: Inn Mage
+Appid: 1528700, Name: 社長、バトルの時間です！～マジューウォーズ～ Demo
+Appid: 1528710, Name: Cyber-Cat
+Appid: 1527780, Name: Crossbow Crusade
+Appid: 1527810, Name: Ambient Channels: Zanfium Tower - Lounge
+Appid: 1527830, Name: Gate to Site 8
+Appid: 1527850, Name: Firework Original Soundtrack
+Appid: 1527860, Name: X-Plane 11 - Add-on: Skyline Simulations - LGSM - Samos Airport
+Appid: 1527870, Name: House Flipper City Demo
+Appid: 1527880, Name: Darkness Under My Bed
+Appid: 1527900, Name: Viscerafest Demo
+Appid: 1527910, Name: Gladio and Glory
+Appid: 1527920, Name: Biotech Samurai
+Appid: 1527930, Name: RHEM III SE
+Appid: 1527950, Name: Wartales
+Appid: 1527960, Name: The Help Desk
+Appid: 1527970, Name: Ash of Gods: The Way Playtest
+Appid: 1527980, Name: Woman's Prison
+Appid: 1527990, Name: Gatewalkers Demo
+Appid: 1528000, Name: Natsuki's Life In Prison
+Appid: 1528010, Name: Faylinn's Quest
+Appid: 1528020, Name: Afterlife VR
+Appid: 1528030, Name: Imagined Leviathans
+Appid: 1528040, Name: Critical Zone Demo
+Appid: 1528050, Name: Underland
+Appid: 1528060, Name: DREAMERS
+Appid: 1528070, Name: Worms Rumble - Bank Heist Double Pack
+Appid: 1528080, Name: Gas Station Simulator: Prologue - Early Days
+Appid: 1528090, Name: Hyper Catch
+Appid: 1528100, Name: Star Dust - A Journey Through Space
+Appid: 1528110, Name: Athena - Rabbit Jigsaw Puzzle
+Appid: 1528120, Name: ComPressure
+Appid: 1528130, Name: 距离男主自杀还剩七天
+Appid: 1528160, Name: Tinytopia Demo
+Appid: 1528200, Name: Endurance Labyrinth
+Appid: 1528210, Name: GravKitten Soundtrack
+Appid: 1528220, Name: Gordian Rooms 2: A curious island
+Appid: 1528230, Name: Tabbris Yor
+Appid: 1528240, Name: Super Dirt Racers
+Appid: 1528260, Name: AdventNEON
+Appid: 1527270, Name: Raging Ball
+Appid: 1527280, Name: Starship Tunnel
+Appid: 1527290, Name: Company of Heroes: Back to Basics
+Appid: 1527300, Name: Help! I am REALLY horny! Demo
+Appid: 1527310, Name: Soulpath Demo
+Appid: 1527330, Name: Blocksplode Demo
+Appid: 1527350, Name: Dad's Coming
+Appid: 1527370, Name: Xenonauts 2 Playtest
+Appid: 1527380, Name: 引力魔方
+Appid: 1527400, Name: Monster Collector Demo
+Appid: 1527420, Name: Miss You
+Appid: 1527440, Name: MONOLISK Soundtrack
+Appid: 1527450, Name: The Sundew Demo
+Appid: 1527470, Name: Dying Byte Survival
+Appid: 1527480, Name: PogoChamp Demo
+Appid: 1527490, Name: Fantasy Grounds - FG Underwater
+Appid: 1527500, Name: Pro Strategy Football 2022
+Appid: 1527510, Name: Romeow: in the cracked world
+Appid: 1527520, Name: Bombing!!
+Appid: 1527530, Name: Fantasy Grounds - FG Interior Map Pack 2
+Appid: 1527540, Name: The Amazing Mail Game
+Appid: 1527550, Name: Fantasy Grounds - Black Scrolls The Marble Sanctum
+Appid: 1527570, Name: Teacup Demo
+Appid: 1527580, Name: Azure Sky - Elegant suit
+Appid: 1527590, Name: Fantasy Grounds - Deadlands: the Weird West Companion
+Appid: 1527610, Name: Spell Beats Demo
+Appid: 1527620, Name: The Little Trashmaid Puzzletime
+Appid: 1527630, Name: 重回哩世界
+Appid: 1527640, Name: The Lost Game: Royal Game Of Ur
+Appid: 1527650, Name: Ciphercell
+Appid: 1527660, Name: Shin Megami Tensei III Nocturne HD Remaster - Mercy and Expectation Map Pack
+Appid: 1527670, Name: Goblin Dungeoneer
+Appid: 1527690, Name: Reanimation Scheme Demo
+Appid: 1527710, Name: Earth Elements
+Appid: 1527720, Name: Stolen Hearts
+Appid: 1527730, Name: Synthetic Lover Demo 
+Appid: 1527740, Name: My boss is weird - patch
+Appid: 1527760, Name: Law Mower Soundtrack
+Appid: 1526780, Name: Dark Podval
+Appid: 1526790, Name: Soldier in the darkness
+Appid: 1526820, Name: Time to Morp Playtest
+Appid: 1526830, Name: Rotund Takeoff Soundtrack
+Appid: 1526870, Name: Otherwar
+Appid: 1526880, Name: Buy me a coffe - DLC
+Appid: 1526900, Name: Sapphire Safari
+Appid: 1526920, Name: Forest Dash
+Appid: 1526930, Name: PolyCore Defense
+Appid: 1527040, Name: Eager For Den
+Appid: 1527060, Name: Cat Gets Medieval
+Appid: 1527080, Name: XTHRUST
+Appid: 1527090, Name: Cat's Menace
+Appid: 1527120, Name: Hyper Strike
+Appid: 1527140, Name: SC2KRender
+Appid: 1527150, Name: Big Bia Soundtrack
+Appid: 1527160, Name: Ascended
+Appid: 1527170, Name: Flying Girls
+Appid: 1527230, Name: UC KART
+Appid: 1527240, Name: Ferris Wheel Simulator
+Appid: 1527250, Name: Glaze 3D
+Appid: 1526280, Name: Fantasy Grounds - Pathfinder 2 RPG - Bestiary 3
+Appid: 1526300, Name: Deadly Fight
+Appid: 1526310, Name: Peachleaf Pirates Demo
+Appid: 1526320, Name: Midnight Cipher
+Appid: 1526330, Name: Lilith Was Dead
+Appid: 1526340, Name: Jetscout: Boot Camp
+Appid: 1526350, Name: Harlow
+Appid: 1526360, Name: Customers From Hell - Game For Retail Workers
+Appid: 1526380, Name: Excavator Simulator VR
+Appid: 1526420, Name: Orbals Demo
+Appid: 1526460, Name: Wholesome Slaughter - Deluxe Edition
+Appid: 1526500, Name: Spell Beats
+Appid: 1526520, Name: 大秦帝国
+Appid: 1526540, Name: Dungeons And Cat
+Appid: 1526570, Name: 折纸迷宫 Demo
+Appid: 1526580, Name: Zombie Dungeon
+Appid: 1526600, Name: MaJiang
+Appid: 1526620, Name: 东方华彩乱战2 - 可用人物补充包2 芙兰朵露/古明地恋/秋穰子/九十九八桥/依神女苑
+Appid: 1526650, Name: Fugitive 3D
+Appid: 1526680, Name: Russian Prison Tattoo Simulator
+Appid: 1526690, Name: Chinese Bull
+Appid: 1526700, Name: My Step Sisters
+Appid: 1526710, Name: 东方华彩乱战2 - 可用人物补充包3 八云紫/八意永琳/八坂神奈子/纯狐/风见幽香
+Appid: 1526720, Name: 东方华彩乱战2 - 可用人物补充包4 伊吹萃香/茨木华扇/四季映姬/比那名居天子/秦心
+Appid: 1526730, Name: Palmi: Retold Tale
+Appid: 1526740, Name: Lab Rat Demo
+Appid: 1526750, Name: Remember When
+Appid: 1526760, Name: Harmony
+Appid: 1525840, Name: MotoGP™21 - Limited Edition Liveries
+Appid: 1525860, Name: 东方华彩乱战2 - 可用人物补充包1 蕾米莉亚/古明地觉/秋静叶/九十九弁弁/依神紫苑
+Appid: 1525880, Name: Playne VR
+Appid: 1525890, Name: Death Park 2
+Appid: 1525900, Name: Infinite Dungeon Crawler
+Appid: 1525910, Name: Strike Force 3
+Appid: 1525920, Name: SNS
+Appid: 1525940, Name: Army Ops Playtest
+Appid: 1525970, Name: Typed82
+Appid: 1525990, Name: Cubiti pARti
+Appid: 1526000, Name: folding maze
+Appid: 1526010, Name: Panzer Corps 2: Axis Operations - 1941
+Appid: 1526020, Name: Bullet Time
+Appid: 1526040, Name: Dorfromantik Demo
+Appid: 1526050, Name: Nyanco Desktop Mascot : Nyanco-chan
+Appid: 1526051, Name: Nyanco Desktop Mascot : Nyanco-san
+Appid: 1526052, Name: Nyanco Desktop Mascot : Nitori-UNK
+Appid: 1526070, Name: Book of the Dead Ends™ In-Game Hint Guide for Riddle of the Sphinx™
+Appid: 1526071, Name: Riddle of the Sphinx™ - Moonlight Exploration
+Appid: 1526072, Name: Riddle of the Sphinx™ - Secret Library
+Appid: 1526080, Name: Warhammer 40,000: Dakka Squadron - Flyboyz Edition Demo
+Appid: 1526090, Name: Rising Noracam
+Appid: 1526120, Name: HARD TAPES
+Appid: 1526140, Name: Puzzle Guys
+Appid: 1526160, Name: Four Kings: Video Poker
+Appid: 1526170, Name: Dig Deep: Race To The Core!
+Appid: 1526190, Name: Mysteries of Shaola: The Cave
+Appid: 1526220, Name: Spacegirl
+Appid: 1526230, Name: VR Hentai Date
+Appid: 1526240, Name: Helga: Euphorium's Song - Digital Artbook
+Appid: 1526260, Name: Days of Heroes: D-Day
+Appid: 1525330, Name: Guardians of Hyelore
+Appid: 1525340, Name: Amberial Dreams Demo
+Appid: 1525350, Name: Sif and the Labyrinth
+Appid: 1525370, Name: Amazing Chicken Adventures
+Appid: 1525380, Name: Operation Armstrong Playtest
+Appid: 1525390, Name: Eternity Protectors
+Appid: 1525410, Name: 天下为棋
+Appid: 1525420, Name: Heads Will Roll
+Appid: 1525440, Name: VR Shooting Range: Multiple Weapons
+Appid: 1525460, Name: Wild Journey
+Appid: 1525490, Name: 异世界攻略组 Isekai Team
+Appid: 1525530, Name: CipherPilot
+Appid: 1525540, Name: 双重次元、穴曲堡Double world. cave song castle
+Appid: 1525560, Name: A Knights Adventure
+Appid: 1525570, Name: 剑侠图
+Appid: 1525580, Name: Kabaret
+Appid: 1525600, Name: Sensual Adventures - The Game
+Appid: 1525610, Name: Elmarion: the Lost Temple Demo
+Appid: 1525620, Name: The Architect: Paris
+Appid: 1525630, Name: Airport CEO - Supersonic
+Appid: 1525640, Name: The Build And Race Hotrod Game
+Appid: 1525650, Name: Solo Fox
+Appid: 1525660, Name: Sunblaze
+Appid: 1525670, Name: Metamorphosis Soundtrack
+Appid: 1525700, Name: Tavern Master
+Appid: 1525720, Name: Skul: The Hero Slayer Soundtrack
+Appid: 1525740, Name: HIRT - Lamb Edition
+Appid: 1525750, Name: Role of Remains
+Appid: 1525760, Name: Taxi Driver - The Simulation
+Appid: 1525770, Name: The Dark Side of the Moon
+Appid: 1525800, Name: Tess Elated Demo
+Appid: 1525810, Name: BoomXR
+Appid: 1525820, Name: MotoGP™21 - VIP Multiplier Pack
+Appid: 1524830, Name: Fantasy Grounds - The Great Rift
+Appid: 1524840, Name: Space Duels
+Appid: 1524870, Name: POP-STREET-BROTHERS
+Appid: 1524890, Name: Dying Light - Ox Warrior Bundle
+Appid: 1524900, Name: Fantasy Grounds - Ancestry & Culture: An Alternative to Race in 5e
+Appid: 1524920, Name: ThroughHelltoHeaven
+Appid: 1524930, Name: To Be With You
+Appid: 1524960, Name: Fantasy Grounds - Rippers Resurrected Expedition: South Pacific
+Appid: 1524980, Name: To Be With You Soundtrack
+Appid: 1524990, Name: Survive after hell
+Appid: 1525040, Name: CityBeat: The Sorority Shuffle
+Appid: 1525050, Name: Jerry Wanker and the Quest to get Laid
+Appid: 1525060, Name: UNPLUGGED
+Appid: 1525090, Name: The Lost Legends of Redwall: The Scout Act II Playtest
+Appid: 1525110, Name: Kitty Tactics Demo
+Appid: 1525150, Name: Prometheus: Omex Rising Playtest
+Appid: 1525160, Name: D.W. Dagger: Chapter One
+Appid: 1525170, Name: Fantasy Grounds - Deadlands: The Weird West (Core Rules Book)
+Appid: 1525180, Name: Shattered Hourglass Demo
+Appid: 1525200, Name: The Lost Legends of Redwall: The Scout Act III Playtest
+Appid: 1525210, Name: Steel Graves
+Appid: 1525220, Name: Not Another Weekend Demo
+Appid: 1525250, Name: Two Coins
+Appid: 1525260, Name: Blue Sun
+Appid: 1525270, Name: Sports Paradise VR
+Appid: 1525290, Name: OddFauna : Secret of the Terrabeast
+Appid: 1525300, Name: Redout: Space Assault Soundtrack
+Appid: 1525320, Name: Dadish 2
+Appid: 1524470, Name: Strip Fighter 5: Chimpocon Edition
+Appid: 1524480, Name: The Poop On 2020 Podcast!
+Appid: 1524500, Name: Monstrum 2 - Pre-Order Bonus
+Appid: 1524520, Name: Now There Be Goblins Demo
+Appid: 1524530, Name: Fantasy Town Regional Manager
+Appid: 1524560, Name: Anarchy: Wolf's law Demo
+Appid: 1524580, Name: Dual Cars
+Appid: 1524590, Name: Singled Out Demo
+Appid: 1524600, Name: Antibody Demo
+Appid: 1524620, Name: Chriss Cross
+Appid: 1524630, Name: KeepUp Survival
+Appid: 1524650, Name: Sakura Forest Girls
+Appid: 1524660, Name: RPG Sounds - Combat - Sound Pack
+Appid: 1524680, Name: RPG Sounds - Extended Combat - Sound Pack
+Appid: 1524681, Name: RPG Sounds - Forest - Sound Pack
+Appid: 1524682, Name: RPG Sounds - Graveyard - Sound Pack
+Appid: 1524683, Name: RPG Sounds - Horror - Sound Pack
+Appid: 1524684, Name: RPG Sounds - Jungle - Sound Pack
+Appid: 1524685, Name: RPG Sounds - Meadows - Sound Pack
+Appid: 1524686, Name: RPG Sounds - Mountain - Sound Pack
+Appid: 1524687, Name: RPG Sounds - Pirate Ship - Sound Pack
+Appid: 1524690, Name: Chess Brain: Dark Troops
+Appid: 1524710, Name: Dark Flowers
+Appid: 1524720, Name: Astral Ascent Demo
+Appid: 1524740, Name: Neurodeck: Supporter Pack
+Appid: 1524750, Name: Dude Simulator 4
+Appid: 1524760, Name: 戾谈 灰色录像带 暮云
+Appid: 1524770, Name: 戾谈 红色录像带 绯红
+Appid: 1524780, Name: 戾谈 黑色录像带 苍黑
+Appid: 1524790, Name: Loneliness
+Appid: 1524810, Name: Carotic - Academic Version
+Appid: 1524820, Name: KF2 - Season Pass 2021
+Appid: 1523910, Name: Riddle of the Sphinx™ The Awakening Soundtrack
+Appid: 1523940, Name: A Trail of Ooze
+Appid: 1523950, Name: RPG Maker MZ - MV Monsters HIBIKI KATAKURA ver Vol 2
+Appid: 1523960, Name: RPG Maker MZ - Frontier Works: Futuristic Heroes and BGM
+Appid: 1523970, Name: RPG Maker MZ - Fantastic Buildings: Medieval
+Appid: 1523990, Name: Vampire: The Masquerade — Sins of the Sires
+Appid: 1524000, Name: Vampire: The Masquerade — Sins of the Sires Demo
+Appid: 1524010, Name: The Game of Nothing
+Appid: 1524020, Name: Escape from Terror City
+Appid: 1524040, Name: Pristiq: Tash's Trilogy Demo
+Appid: 1524090, Name: GRIME Demo
+Appid: 1524110, Name: Stories of Liane
+Appid: 1524120, Name: B-Side Demo
+Appid: 1524130, Name: Tournament of Tamers Demo
+Appid: 1524150, Name: Tales of Farhollow
+Appid: 1524170, Name: Pixel Game Maker Series REMOTE BOMBER
+Appid: 1524190, Name: POSSESSED BLOODY ASYLUM
+Appid: 1524200, Name: 三国志奇侠传-扩展包6
+Appid: 1524210, Name: 三国志奇侠传-扩展包7
+Appid: 1524220, Name: 三国志奇侠传-扩展包8
+Appid: 1524230, Name: 공포의 임상시험
+Appid: 1524240, Name: ANVIL_Demo
+Appid: 1524250, Name: Survivor Dieland
+Appid: 1524260, Name: Pterodactyl Edition
+Appid: 1524290, Name: WhiteWash
+Appid: 1524340, Name: Street karate 3
+Appid: 1524350, Name: ReversEstory
+Appid: 1524380, Name: Dr. oil
+Appid: 1524400, Name: Ragdoll: Fall Simulator
+Appid: 1523410, Name: TOHU - Digital Art Book
+Appid: 1523420, Name: Spacelandia
+Appid: 1523440, Name: HEAT REBORN BETA
+Appid: 1523450, Name: aerofly RC 8 - Expansion Pack 1
+Appid: 1523451, Name: aerofly RC 8 - Expansion Pack 2
+Appid: 1523460, Name: Dstroy 2
+Appid: 1523470, Name: Lumberjack's Dynasty - Digital Supporter Pack
+Appid: 1523500, Name: 3 TACTICAL LINES
+Appid: 1523520, Name: Galaversal Supremacy
+Appid: 1523570, Name: Gondola's Adventure Demo
+Appid: 1523600, Name: Builder Simulator Demo
+Appid: 1523610, Name: Builders of China Demo
+Appid: 1523630, Name: World of Fantasy: Zero
+Appid: 1523640, Name: Emberglass
+Appid: 1523670, Name: Eggy
+Appid: 1523680, Name: Jigsaw Pieces - Sweet Times
+Appid: 1523690, Name: Escape Prison
+Appid: 1523720, Name: Cook-Out
+Appid: 1523730, Name: ENDLESS™ Space 2 - Dark Matter
+Appid: 1523740, Name: ENDLESS™ Legend - Monstrous Tales
+Appid: 1523750, Name: Strip Black Jack - Sex Teacher
+Appid: 1523770, Name: Alien AI Demo
+Appid: 1523780, Name: Hajji VR
+Appid: 1523790, Name: Hope's Journey: A Therapeutic Experience
+Appid: 1523800, Name: Mighty forest
+Appid: 1523810, Name: Persona 5 Strikers - Bonus Content
+Appid: 1523870, Name: Call Me Cera
+Appid: 1523880, Name: Adventure Field™ 4 Bonus Content
+Appid: 1523890, Name: Bunny Ribbit
+Appid: 1523900, Name: Warfield
+Appid: 1522930, Name: Transiruby
+Appid: 1522940, Name: Turn right
+Appid: 1522950, Name: Dadish
+Appid: 1522960, Name: Anemoiapolis
+Appid: 1522970, Name: AmIHero
+Appid: 1522980, Name: Cavebound
+Appid: 1523000, Name: RPG Maker MZ - Time Fantasy Side-View Animated Battlers
+Appid: 1523010, Name: Puppy Pipy
+Appid: 1523040, Name: VOLLEYGON
+Appid: 1523050, Name: RPG Maker MZ - Steampunk Tiles
+Appid: 1523060, Name: RPG Maker MZ - Seraph Circle Monster Pack 1
+Appid: 1523070, Name: RPG Maker MZ - POP! Horror City Character Pack 2
+Appid: 1523080, Name: RPG Maker MZ - POP! Horror City Character Pack 1
+Appid: 1523100, Name: Isolationist Nightclub Simulator
+Appid: 1523110, Name: RPG Maker MZ - Medieval: Townfolk I
+Appid: 1523120, Name: RPG Maker MZ - Medieval: Knights Templar
+Appid: 1523130, Name: 神启神落
+Appid: 1523150, Name: Ascension
+Appid: 1523170, Name: Aladdin : Save The Princess
+Appid: 1523190, Name: Dyson Sphere Program - Soundtrack
+Appid: 1523220, Name: Overpower
+Appid: 1523240, Name: Grandmother's Tale
+Appid: 1523280, Name: 三国志奇侠传-扩展包2
+Appid: 1523300, Name: 三国志奇侠传-扩展包3
+Appid: 1523310, Name: 三国志奇侠传-扩展包4
+Appid: 1523330, Name: Wayfarers: Call of Osiris
+Appid: 1523340, Name: The Voice Inside Demo
+Appid: 1523350, Name: Rocket Drift
+Appid: 1523360, Name: VR Parallel World
+Appid: 1523370, Name: A.D. 2047
+Appid: 1523380, Name: 三国志奇侠传-扩展包5
+Appid: 1523390, Name: Fantasy Tavern Sextet -Vol.3 Postlude Days-
+Appid: 1522420, Name: Shooty Background Pack
+Appid: 1522430, Name: Them's Fightin' Herds - Shanty
+Appid: 1522450, Name: CreatorCrate Playtest
+Appid: 1522470, Name: Deck Adventurers - Origins
+Appid: 1522490, Name: Boring in paradise
+Appid: 1522510, Name: Car Detailing Simulator Demo
+Appid: 1522520, Name: KowloonVR
+Appid: 1522530, Name: Ero Snooker
+Appid: 1522540, Name: Little Obedient Robot
+Appid: 1522550, Name: Necromunda: Hired Gun - Hunter’s Bounty Pack
+Appid: 1522560, Name: 100 hidden mice
+Appid: 1522570, Name: Mauri Mursu's Hangover
+Appid: 1522610, Name: Godstrike Demo
+Appid: 1522620, Name: Thumb Fighter
+Appid: 1522630, Name: Dark Treasury
+Appid: 1522640, Name: Short Fuse
+Appid: 1522650, Name: Wasteland 3: The Battle of Steeltown
+Appid: 1522670, Name: Kinetic Edge Playtest
+Appid: 1522690, Name: In My Defense
+Appid: 1522700, Name: Roswell's Journey
+Appid: 1522710, Name: LX Patterns
+Appid: 1522720, Name: Legacy of Sin the father sacrifice Soundtrack
+Appid: 1522730, Name: Guardians of Lumen Demo
+Appid: 1522750, Name: Legacy of Sin the father sacrifice Demo
+Appid: 1522770, Name: The Sych story
+Appid: 1522780, Name: EQI Soundtrack
+Appid: 1522800, Name: Imercyve: Living with Intellectual Disability
+Appid: 1522820, Name: Orcs Must Die! 3
+Appid: 1522850, Name: Watermelon Blocks
+Appid: 1522860, Name: flaming/million
+Appid: 1522870, Name: Supraland Six Inches Under
+Appid: 1522880, Name: Don't Starve Together: Victorian Antiques Chest
+Appid: 1522900, Name: Pizza Shop Manager
+Appid: 1522910, Name: 三国志奇侠传-扩展包1
+Appid: 1521940, Name: 牛头人迷宫-扩展包
+Appid: 1521960, Name: Just Shake It
+Appid: 1521990, Name: Muse-Adult Pack
+Appid: 1522020, Name: The Interview
+Appid: 1522030, Name: SUKAKKO
+Appid: 1522040, Name: MessiahEnd Refrain
+Appid: 1522060, Name: Cubiya Soundtrack
+Appid: 1522070, Name: Zenith Into Maronarium
+Appid: 1522080, Name: Jitsu Squad
+Appid: 1522090, Name: Stellaris: Nemesis
+Appid: 1522100, Name: Stellar War
+Appid: 1522120, Name: Thrilling Triple Treat
+Appid: 1522130, Name: MessiahEnd Refrain Demo
+Appid: 1522140, Name: Demon Skin
+Appid: 1522150, Name: DRAMAtical Murder Demo
+Appid: 1522170, Name: KOLOSS
+Appid: 1522180, Name: Destiny Island
+Appid: 1522190, Name: ASTRA
+Appid: 1522210, Name: Star Conflict - Relic
+Appid: 1522220, Name: War-Gene
+Appid: 1522230, Name: Wild West Crops
+Appid: 1522240, Name: Rico-Jump: Support The Developer Skins
+Appid: 1522250, Name: RoboSquare - Blue Force Field Bundle

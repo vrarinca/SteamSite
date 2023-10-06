@@ -1,0 +1,17 @@
+.center-button {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+  }
+  
+  .steam-button {
+    font-size: 24px; 
+    padding: 16px 32px; 
+    text-decoration: underline
+  }
+
+  .scrollable-container {
+    min-height: 100px;
+    max-height: 600px;
+    overflow-y: scroll;
+  }
